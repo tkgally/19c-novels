@@ -1,0 +1,119 @@
+{
+ "id": "by-the-cornish-sea-isabell",
+ "version": 1,
+ "date": "2026-11-26",
+ "title": "By the Cornish Sea",
+ "subtitle": "",
+ "short_title": "By the Cornish Sea",
+ "authors": [
+  {
+   "name": "John Isabell",
+   "sort": "Isabell, John",
+   "born": 1851,
+   "died": 1921
+  }
+ ],
+ "place": "London",
+ "publisher": "Sampson Low, Marston, Searle, & Rivington",
+ "year": 1885,
+ "volumes": 2,
+ "edition_statement": "First edition, in two volumes",
+ "setting": "St. Enodoc, coastal Cornwall",
+ "period": "1870s–1880s",
+ "subjects": [
+  "Cornwall",
+  "coastal villages",
+  "shipwreck",
+  "courtship"
+ ],
+ "summary": "Draft summary — to be completed after transcription and inspection of the full text of John Isabell’s 1885 two-volume novel set on the Cornish coast.",
+ "source": {
+  "ia_identifier": "bycornishsea01isab",
+  "contributor": "University of Illinois Urbana-Champaign",
+  "hidden_leaves": [
+   0,
+   313,
+   314,
+   315,
+   316,
+   317
+  ],
+  "items": [
+   {
+    "ia_identifier": "bycornishsea01isab",
+    "first_leaf": "p0000",
+    "hidden_leaves": [
+     0,
+     313,
+     314,
+     315,
+     316,
+     317
+    ],
+    "label": "Volume I"
+   },
+   {
+    "ia_identifier": "bycornishsea02isab",
+    "first_leaf": "p1000",
+    "hidden_leaves": [
+     0,
+     353,
+     354,
+     355,
+     356,
+     357
+    ],
+    "label": "Volume II"
+   }
+  ]
+ },
+ "omitted_from_reading": "The printed tables of contents of both volumes, the title page of Volume II, and the publisher’s catalogue at the end of Volume II are in the JSON only.",
+ "notes_on_text": [
+  "Originally published in two volumes; combined here into a single digital volume."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-26",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {
+   "at": "p0005",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0007",
+   "kind": "contents"
+  },
+  {
+   "at": "p1005",
+   "kind": "front",
+   "reading": false,
+   "title": "Title Page (Volume II)"
+  },
+  {
+   "at": "p1007",
+   "kind": "contents",
+   "reading": false,
+   "title": "Contents (Volume II)"
+  },
+  {
+   "at": "p1317",
+   "kind": "advertisements",
+   "reading": false,
+   "title": "Publisher’s Advertisements"
+  }
+ ],
+ "parts": [
+  {
+   "before": "p0009",
+   "title": "Volume I"
+  },
+  {
+   "before": "p1009",
+   "title": "Volume II"
+  }
+ ]
+}

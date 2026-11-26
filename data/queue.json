@@ -50,7 +50,8 @@
    "period": "1870s–1880s",
    "from": "blog_2021",
    "blog_2021": 27,
-   "status": "queued",
+   "status": "in progress",
+   "started": "2026-11-26",
    "eligibility": "Checked 2026-11-26: original English novel published in 1885 (London: Sampson Low, Marston, Searle, & Rivington, 2 vols., first ed.; note notes/book-json.md uses this title and slug as a schema illustration). Complete 500 ppi UIUC scans on Internet Archive preferred over the single Oxford Google scan bycornishsea00isabgoog (bycornishsea01isab: 316 images, pp. [1]–297; bycornishsea02isab: 356 images, pp. [1]–308 followed by Sampson Low Oct. 1885 32-page catalogue; zero scandata gaps, _jp2.zip present for both). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or VWWP; Online Books Page links only to HathiTrust page images. Open Library and web search show no post-1914 print edition or free digital reading text. Rev. John Isabell (1851–1921) died >70 years ago (Rule 5 met)."
   },
   {
