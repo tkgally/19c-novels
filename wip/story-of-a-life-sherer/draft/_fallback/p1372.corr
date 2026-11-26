@@ -1,0 +1,7 @@
+{"find": "[[page ?]]\n\n364 STORY OF A LIFE.\n\nwill be remembered", "replace": "[[page 364]]\n\n[[cont]]will be remembered"}
+{"find": "where I mightemploy the", "replace": "where I might employ the"}
+{"find": "my life ina world", "replace": "my life in a world"}
+{"find": "be wiped from\n\nall faces.”", "replace": "be wiped from all faces.”"}
+{"find": "“Sleep after toil, port after stormy seas, Ease after war, death after life does greatly please.”", "replace": "<verse>\n“Sleep after toil, port after stormy seas,\nEase after war, death after life does greatly please.”\n</verse>"}
+{"find": "THE END.", "replace": "[[center]] THE END."}
+{"find": "Lonpon:* > Printed by A. & R. Spottiswoode, New -Street-Square.", "replace": "[[center]] L<sc>ondon</sc>: Printed by A. & R. Spottiswoode, New-Street-Square."}

@@ -1,0 +1,6 @@
+{"find": "[[page ?]]\n\nSTORY OF A LIFE. 305\n\nbut a’small black", "replace": "[[page 305]]\n\n[[cont]]but a small black"}
+{"find": "there-is no name.’", "replace": "there is no name."}
+{"find": "might be, ‘but softer;", "replace": "might be, but softer;"}
+{"find": "arms fora hero.", "replace": "arms for a hero."}
+{"find": "seemed to mea fleeting", "replace": "seemed to me a fleeting"}
+{"find": "long night,\n\nVOL. Il. x", "replace": "long night,"}

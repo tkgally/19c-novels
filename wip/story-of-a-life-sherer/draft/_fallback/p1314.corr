@@ -1,0 +1,4 @@
+{"find": "[[page ?]]\n\n306 STORY OF A LIFE.\n\nI watched her", "replace": "[[page 306]]\n\n[[cont]]I watched her"}
+{"find": "Angelica to me: ah why ?", "replace": "Angelica to me; ah why?"}
+{"find": "in tenderness to’ forgive", "replace": "in tenderness to forgive"}
+{"find": "and looked with\n\nenvy on that youth", "replace": "and looked with envy on that youth"}

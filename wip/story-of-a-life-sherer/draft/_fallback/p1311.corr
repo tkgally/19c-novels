@@ -1,0 +1,4 @@
+{"find": "[[page ?]]\n\nSTORY OF A LIFE. 303\n\nthe flowing mane", "replace": "[[page 303]]\n\n[[cont]]the flowing mane"}
+{"find": "« The evening came:", "replace": "“The evening came:"}
+{"find": "«I was summoned", "replace": "“I was summoned"}
+{"find": "for the: purpose of", "replace": "for the purpose of"}

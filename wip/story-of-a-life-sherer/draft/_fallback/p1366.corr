@@ -1,0 +1,3 @@
+{"find": "[[page ?]]\n\n358 STORY OF A LIFE.\n\namong them", "replace": "[[page 358]]\n\n[[cont]]among them"}
+{"find": "when he saw my shagey form", "replace": "when he saw my shaggy form"}
+{"find": "and cried, “* God save you,", "replace": "and cried, “God save you,"}

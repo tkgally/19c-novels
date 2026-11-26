@@ -1,0 +1,9 @@
+{"find": "[[page ?]]\n\nSTORY OF A LIFE. 45\n\nlaughed", "replace": "[[page 45]]\n\n[[cont]]laughed"}
+{"find": "among dead _ bodies", "replace": "among dead bodies"}
+{"find": "with paws ‘and teeth", "replace": "with paws and teeth"}
+{"find": "with abony gauntness", "replace": "with a bony gauntness"}
+{"find": "above —on, on I went", "replace": "above—on, on I went"}
+{"find": "could live; ——I gained", "replace": "could live;—I gained"}
+{"find": "beautiful —I could", "replace": "beautiful—I could"}
+{"find": "to the summit,- heedless", "replace": "to the summit, heedless"}
+{"find": "crater— it seemed", "replace": "crater—it seemed"}
