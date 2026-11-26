@@ -98,20 +98,35 @@ def setid(source, name, drive_id):
     sys.exit("no such part: " + name)
 
 
-def _extract_id(stdout):
-    try:
-        j = json.loads(stdout)
-        if isinstance(j, dict):
-            for k in ("id", "fileId", "folderId"):
-                if isinstance(j.get(k), str) and j[k]:
-                    return j[k]
-            for v in j.values():
-                if isinstance(v, dict) and isinstance(v.get("id"), str):
-                    return v["id"]
-    except ValueError:
-        pass
-    m = re.search(r"\b([A-Za-z0-9_-]{20,})\b", stdout)
-    return m.group(1) if m else None
+def _extract_id(stdout, exclude=()):
+    text = (stdout or "").strip()
+    candidates = [text]
+    for ch in ("{", "["):
+        idx = text.find(ch)
+        if idx > 0:
+            candidates.append(text[idx:])
+    for cand in candidates:
+        try:
+            j = json.loads(cand)
+            if isinstance(j, list) and j:
+                j = j[0]
+            if isinstance(j, dict):
+                for k in ("id", "fileId", "folderId"):
+                    if isinstance(j.get(k), str) and j[k] and j[k] not in exclude:
+                        return j[k]
+                for v in j.values():
+                    if isinstance(v, dict) and isinstance(v.get("id"), str) and v["id"] not in exclude:
+                        return v["id"]
+        except ValueError:
+            pass
+    for m in re.finditer(r'"id"\s*:\s*"([^"]+)"', text):
+        if m.group(1) not in exclude:
+            return m.group(1)
+    for m in re.finditer(r"\b([A-Za-z0-9_-]{20,})\b", text):
+        tok = m.group(1)
+        if tok not in exclude and tok.count("-") < 3:
+            return tok
+    return None
 
 
 def upload(source, out_dir, slug=None, parent=ROOT_FOLDER_ID):
@@ -119,10 +134,9 @@ def upload(source, out_dir, slug=None, parent=ROOT_FOLDER_ID):
     if not shutil.which("gdrive"):
         sys.exit("gdrive CLI not found on PATH")
     src = load(source)
+    slug = slug or os.path.basename(os.path.dirname(os.path.abspath(source)))
     folder_id = src.get("drive_folder_id")
-    if not folder_id:
-        slug = slug or os.path.basename(os.path.dirname(os.path.abspath(source)))
-        # Check if subfolder already exists inside parent
+    if not folder_id or folder_id == slug:
         ls = subprocess.run(["gdrive", "readonly", "ls", parent, "--json"], capture_output=True, text=True, check=True)
         items = json.loads(ls.stdout)
         rows = items if isinstance(items, list) else items.get("files", items.get("items", []))
@@ -132,7 +146,7 @@ def upload(source, out_dir, slug=None, parent=ROOT_FOLDER_ID):
         else:
             mk = subprocess.run(["gdrive", "mutate", "mkdir", slug, "--parent", parent, "--json"],
                                 capture_output=True, text=True, check=True)
-            folder_id = _extract_id(mk.stdout)
+            folder_id = _extract_id(mk.stdout, exclude=(slug, parent))
         if not folder_id:
             sys.exit("could not determine Drive folder id for " + slug)
         src["drive_folder_id"] = folder_id
@@ -150,7 +164,7 @@ def upload(source, out_dir, slug=None, parent=ROOT_FOLDER_ID):
             ["gdrive", "mutate", "upload", fpath, "--parent", folder_id, "--mime-type", "application/zip", "--json"],
             capture_output=True, text=True, check=True,
         )
-        fid = _extract_id(up.stdout)
+        fid = _extract_id(up.stdout, exclude=(p["name"], slug, folder_id))
         if not fid:
             sys.exit(f"could not parse Drive id from upload output: {up.stdout[:200]}")
         p["drive_id"] = fid

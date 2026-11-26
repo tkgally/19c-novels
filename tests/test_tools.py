@@ -293,6 +293,13 @@ class PrepAndDriveCache(unittest.TestCase):
             self.assertEqual(len(src_data["parts"]), 1)
             self.assertIn("p1001.jpg", src_data["parts"][0]["files"])
 
+    def test_extract_id_ignores_long_hyphenated_slug(self):
+        slug = "browns-and-the-smiths-davies"
+        banner_out = f'Created folder "{slug}"\n[{{"id": "1IZzd2wsmJwRPMe2aMuGKuCwGL9XxYO-C", "name": "{slug}"}}]\n'
+        self.assertEqual(drive_cache._extract_id(banner_out, exclude=(slug,)), "1IZzd2wsmJwRPMe2aMuGKuCwGL9XxYO-C")
+        plain_out = f'Created folder {slug} (id: 1IZzd2wsmJwRPMe2aMuGKuCwGL9XxYO-C)'
+        self.assertEqual(drive_cache._extract_id(plain_out, exclude=(slug,)), "1IZzd2wsmJwRPMe2aMuGKuCwGL9XxYO-C")
+
 
 class RepoLedgerAndPublishedBooks(unittest.TestCase):
     def test_ledger_consistency(self):
