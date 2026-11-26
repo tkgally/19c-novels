@@ -1,0 +1,134 @@
+{
+ "id": "by-the-cornish-sea-isabell",
+ "version": 1,
+ "date": "2026-11-26",
+ "title": "By the Cornish Sea",
+ "subtitle": "",
+ "short_title": "By the Cornish Sea",
+ "authors": [
+  {
+   "name": "John Isabell",
+   "sort": "Isabell, John",
+   "born": 1851,
+   "died": 1921
+  }
+ ],
+ "place": "London",
+ "publisher": "Sampson Low, Marston, Searle, & Rivington",
+ "year": 1885,
+ "volumes": 2,
+ "edition_statement": "First edition, in two volumes",
+ "setting": "St. Enodoc, coastal Cornwall",
+ "period": "1870s–1880s",
+ "subjects": [
+  "Cornwall",
+  "coastal villages",
+  "shipwreck",
+  "courtship"
+ ],
+ "summary": "Written by the Cornish clergyman John Isabell (1851–1921) as his only novel, this two-volume story is set in the coastal fishing village of St. Enodoc in Cornwall during the late nineteenth century. Opening with a storm at sea, it follows Arthur Treleaven and Jenifer Trewhella from childhood and village schoolrooms through pilchard fishing, seal hunting, parish rivalries, a bank failure, and a voyage aboard the Annie Lee. Published in 1885, the novel makes extensive use of Cornish dialect, which is preserved here as printed.",
+ "source": {
+  "ia_identifier": "bycornishsea01isab",
+  "contributor": "University of Illinois Urbana-Champaign",
+  "hidden_leaves": [
+   0,
+   313,
+   314,
+   315,
+   316,
+   317
+  ],
+  "items": [
+   {
+    "ia_identifier": "bycornishsea01isab",
+    "first_leaf": "p0000",
+    "hidden_leaves": [
+     0,
+     313,
+     314,
+     315,
+     316,
+     317
+    ],
+    "label": "Volume I"
+   },
+   {
+    "ia_identifier": "bycornishsea02isab",
+    "first_leaf": "p1000",
+    "hidden_leaves": [
+     0,
+     353,
+     354,
+     355,
+     356,
+     357
+    ],
+    "label": "Volume II"
+   }
+  ]
+ },
+ "omitted_from_reading": "The printed tables of contents of both volumes, the title page of Volume II, and the publisher’s catalogue at the end of Volume II are in the JSON only.",
+ "notes_on_text": [
+  "Originally published in two volumes; combined here into a single digital volume.",
+  "Cornish dialect spellings and punctuation are preserved as printed; twenty unmistakable printer’s errors are marked in the JSON and corrected in the reading editions.",
+  "Ninety pages that triggered an automated recitation filter during primary drafting (p0059–p0065, p0067, p0070, p1011–p1025, p1035–p1040, p1042, p1044, p1054–p1056, p1077–p1078, p1089–p1132, p1162–p1167, p1194, and p1196–p1197) were drafted via local Tesseract OCR followed by page-by-page Gemini Pro corrections against the scan, then verified by Gemini Flash and included in the blind sampled audit."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-26",
+   "note": "First publication."
+  }
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-26",
+  "pages": 7,
+  "recall": "34/35",
+  "real_errors": 0,
+  "fixed": 0
+ },
+ "divisions": [
+  {
+   "at": "p0005",
+   "kind": "titlepage"
+  },
+  {
+   "at": "p0007",
+   "kind": "contents"
+  },
+  {
+   "at": "p1005",
+   "kind": "front",
+   "reading": false,
+   "title": "Title Page (Volume II)"
+  },
+  {
+   "at": "p1007",
+   "kind": "contents",
+   "reading": false,
+   "title": "Contents (Volume II)"
+  },
+  {
+   "at": "p1317",
+   "kind": "advertisements",
+   "reading": false,
+   "title": "Publisher’s Advertisements"
+  }
+ ],
+ "parts": [
+  {
+   "before": "p0009",
+   "title": "Volume I"
+  },
+  {
+   "before": "p1009",
+   "title": "Volume II"
+  }
+ ],
+ "keep_hyphens": [
+  "p0052",
+  "p1039",
+  "p1310"
+ ]
+}

@@ -1,7 +1,0 @@
-{"find": "[[page ?]]\n\nBILLING AND COOING. 117\n\n** Yes, but", "replace": "[[page 117]]\n\n“Yes, but"}
-{"find": "you alone.”’", "replace": "you alone.”"}
-{"find": "PresentlyArthur said", "replace": "Presently Arthur said"}
-{"find": "* You must know", "replace": "“You must know"}
-{"find": "desperately, ‘‘you must", "replace": "desperately, “you must"}
-{"find": "gently; ‘‘I shall", "replace": "gently; “I shall"}
-{"find": "hateful to\n\nme.”", "replace": "hateful to me.”"}

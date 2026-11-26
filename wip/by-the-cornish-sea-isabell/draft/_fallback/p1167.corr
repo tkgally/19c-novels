@@ -1,8 +1,0 @@
-{"find": "[[page ?]]\n\nTHE BANK BREAKS. 159\n\n“Of course", "replace": "[[page 159]]\n\n“Of course"}
-{"find": "Philp, ‘we traded", "replace": "Philp, “we traded"}
-{"find": "Daniel. ‘‘What business", "replace": "Daniel. “What business"}
-{"find": "money? ‘Tes a rubbery", "replace": "money? ’Tes a rubbery"}
-{"find": "won't mend", "replace": "won’t mend"}
-{"find": "said Daniel. ‘* What I want", "replace": "said Daniel. “What I want"}
-{"find": "money back P”’", "replace": "money back?”"}
-{"find": "“T tell ee what it es,”", "replace": "“I tell ’ee what it es,”"}

@@ -1,7 +1,0 @@
-{"find": "[[page ?]]\n\n11%\n\nCHAPTER IIT.\n\nTHE SHAL HUNT.", "replace": "[[page 17]]\n\n# Chapter II.\n\n[[subtitle]] The Seal Hunt."}
-{"find": "Lancaster. This is the strangest tale that ever I heard. Prince. This is the strangest fellow, brother John. Henry IV., Part I.", "replace": "<blockquote>\n<i>Lancaster.</i> This is the strangest tale that ever I heard.\n<i>Prince.</i> This is the strangest fellow, brother John.\n[[right]] <i>Henry IV.</i>, Part I.\n</blockquote>"}
-{"find": "At six o’clock to the minute", "replace": "A<sc>t</sc> six o’clock to the minute"}
-{"find": "and George Roskilly avere waiting for them.", "replace": "and George Roskilly were waiting for them."}
-{"find": "said the captain, ‘what do y’ think", "replace": "said the captain, “what do y’ think"}
-{"find": "‘Well ’tes fine now,” was the answer, ‘but the wind,", "replace": "“Well ’tes fine now,” was the answer, “but the wind,"}
-{"find": "shall have more say on\n\nVOL. I. c", "replace": "shall have more say on"}

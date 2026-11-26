@@ -1,4 +1,0 @@
-{"find": "[[page ?]]\n\n108 BY THE CORNISH SEA.\n\nby the sale", "replace": "[[page 108]]\n\n[[cont]] by the sale"}
-{"find": "matter, uncle?”’", "replace": "matter, uncle?”"}
-{"find": "** I’m nearly in port,’’", "replace": "“I’m nearly in port,”"}
-{"find": "Nearly in port,\n\nnearly in port.", "replace": "Nearly in port, nearly in port."}

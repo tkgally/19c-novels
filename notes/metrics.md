@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-26 | `browns-and-the-smiths-davies` v1 | 1863 / 2 vols | 662 (635 transcribed) | 39 (`0` unapplied) | 31 on 14 pp (`1` / `28` / `2` `neither`; scan crop overturned `1` false misprint on `p0054`) | 25 | 6 pp, `28/30` (`93%`), `0` real errors | 0 recitation blocks; 0 `〓`; combined 2-vol edition |
 | 2026-11-26 | `browns-and-the-smiths-davies` v2 | 1863 / 2 vols | 662 (635 transcribed) | — | — | 25 | Carried from v1 | Compiler fix for page-break hyphens inside inline tags (`p0009`–`p0010` *ad nauseam*; GitHub #2) |
+| 2026-11-26 | `by-the-cornish-sea-isabell` v1 | 1885 / 2 vols | 676 (648 transcribed) | 30 (`3` skipped) | 15 on 14 pp (`5` / `10` / `0`; magnified crop caught `p1018` printed period `[[corr again.”|again,”]]`) | 20 | 7 pp (incl. 2 fallback), `34/35` (`97%`), `0` real errors | 90 fallback pages (`ocr_fallback.py`); 0 `〓`; combined 2-vol edition |
 
 ## Preflight checks (false alarms and promotions)
 

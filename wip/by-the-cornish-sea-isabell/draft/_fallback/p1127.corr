@@ -1,5 +1,0 @@
-{"find": "[[page ?]]\n\nBILLING AND COOING 119\n\nWelly.’", "replace": "[[page 119]]\n\n“Well?”"}
-{"find": "«Then that’s an end", "replace": "“Then that’s an end"}
-{"find": "is concerned?”’ said Arthur.", "replace": "is concerned?” said Arthur."}
-{"find": "“T suppose it is,’ replied", "replace": "“I suppose it is,” replied"}
-{"find": "“T can’t yet,”", "replace": "“I can’t yet,”"}
