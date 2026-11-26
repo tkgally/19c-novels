@@ -11,6 +11,7 @@ Keep this file short and actionable. Delete any lesson once a tool or preflight 
 - **Do not put `[[cont]]` after a mid-page `<verse>` or `<quote>` block.** `compile_book.py` uses mid-page `[[cont]]` only across an inline `[[image:…]]`; unindented prose resuming after `<verse>` or `<quote>` gets `class="first"` automatically in the renderers.
 - **Title page first.** Volume I’s title page (`kind: "titlepage"`) is transcribed line-by-line with `[[center]]` and capitals as printed, and opens the reading editions.
 - **Forbid ad-hoc scripts inside judge and audit subagents.** Tell `judge.py` and `audit_sample.py` subagents to use `view_file` and `write_to_file` only (`NEVER call run_command`); otherwise a subagent can stall writing pixel-height measurement scripts on borderline display type instead of recording `"sure": "medium"` and moving on (caught on *The Browns and the Smiths*, enforced in `judge.py` and `audit_sample.py`).
+- **Check `hyphen-joins` and full-volume word streams against IA `_djvu.txt` to catch dropped page-end lines.** On *The Story of a Life*, both Pro and Flash missed the bottom line of `p0277`, which surfaced immediately as a broken `hyphen-joins` warning (`an every-|together`) and in a quick `SequenceMatcher` word-stream diff against `_djvu.txt` (never copy text from `_djvu.txt`; always transcribe any flagged line from the scan).
 
 ## Vetting candidates (`select-novel`)
 

@@ -1,1 +1,0 @@
-{"n": 1, "is": "B", "print": "\n“Each fearless soul,\n“Let the world wag as it will;\n“Let the Heavens growl,\n“Let the Devil howl,\n“Drain, drain", "sure": "medium"}

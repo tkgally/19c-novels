@@ -103,9 +103,11 @@
    "period": "Late 18th to early 19th century (frame opens 1790)",
    "from": "blog_2021",
    "blog_2021": 37,
-   "status": "in progress",
+   "status": "published",
    "started": "2026-11-26",
-   "eligibility": "Checked 2026-11-26: original English novel published in 1825 (London: Longman, Hurst, Rees, Orme, Brown, and Green, 2 vols., first ed.; anonymous on title page as 'By the Author of Scenes and Impressions in Egypt and Italy, Recollections of the Peninsula, &c.'). Complete 500 ppi UIUC scans on Internet Archive (storyoflife01sher: 342 images, pp. v–xii + [1]–316; storyoflife02sher: 380 images, pp. [1]–364; zero scandata gaps, _jp2.zip present for both). Not in Project Gutenberg (pg_catalog.csv lists only Sherer's The Broken Font), Standard Ebooks, Wikisource, Faded Page, or Penn Online Books Page. Open Library and web search show only 1825 London/Edinburgh editions and print-on-demand replicas (Palala/Forgotten Books/etc.), no post-1914 trade/scholarly print edition or free digital reading text. Joseph Moyle Sherer (1789–1869) died >70 years ago (Rule 5 met)."
+   "eligibility": "Checked 2026-11-26: original English novel published in 1825 (London: Longman, Hurst, Rees, Orme, Brown, and Green, 2 vols., first ed.; anonymous on title page as 'By the Author of Scenes and Impressions in Egypt and Italy, Recollections of the Peninsula, &c.'). Complete 500 ppi UIUC scans on Internet Archive (storyoflife01sher: 342 images, pp. v–xii + [1]–316; storyoflife02sher: 380 images, pp. [1]–364; zero scandata gaps, _jp2.zip present for both). Not in Project Gutenberg (pg_catalog.csv lists only Sherer's The Broken Font), Standard Ebooks, Wikisource, Faded Page, or Penn Online Books Page. Open Library and web search show only 1825 London/Edinburgh editions and print-on-demand replicas (Palala/Forgotten Books/etc.), no post-1914 trade/scholarly print edition or free digital reading text. Joseph Moyle Sherer (1789–1869) died >70 years ago (Rule 5 met).",
+   "version": 1,
+   "published": "2026-11-26"
   },
   {
    "slug": "vargas-dallas",

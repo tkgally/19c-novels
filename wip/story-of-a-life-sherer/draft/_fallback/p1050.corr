@@ -1,3 +1,0 @@
-{"find": "[[page ?]]\n\n42 STORY OF A LIFE.\n\namount", "replace": "[[page 42]]\n\n[[cont]]amount"}
-{"find": "dates; —— he calmly said, ‘¢ We have", "replace": "dates;—he calmly said, “We have"}
-{"find": "— “have I not", "replace": "—“have I not"}
