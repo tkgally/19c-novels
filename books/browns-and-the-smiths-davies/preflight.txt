@@ -1,0 +1,60 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[look (11)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0063: … in, head-fore-|most, with her … (hyphen removed; check)
+            - hyphen join at p0100: …new their over-|night’s convers… (hyphen removed; check) — the book hyphenates other “over-” words: keep_hyphens?
+            - hyphen join at p0127: …s valued by un-|married women a… (hyphen removed; check)
+            - hyphen join at p0198: …wever, in a re-|splendent Butto… (hyphen removed; check)
+            - hyphen join at p0207: …aid Hannah, be-|seechingly, and… (hyphen removed; check)
+            - hyphen join at p0255: … were, been mi-|raculously pres… (hyphen removed; check)
+            - hyphen join at p0263: …ss Clara loqua-|cious, and she … (hyphen removed; check)
+            - hyphen join at p1105: …y began to dis-|suade him, with… (hyphen removed; check)
+            - hyphen join at p1237: …ceited, unfemi-|nine, and utter… (hyphen removed; check)
+            - hyphen join at p1309: …peas and migno-|nette, and, con… (hyphen removed; check)
+            - (and 36 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[ look (2)] folios: printed page numbers that break the sequence
+            - p0186: page 176 after page 177 (p0185)
+            - p1008: page 2 after page 311 (p0319)
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[       ok] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[       ok] contents: entries of the printed contents with no matching heading
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[ look (1)] openings: chapter openings typed in a style unlike the book's other chapters (full capitals or small capitals): look at each on the scan
+            - p1317: opening in full capitals ('TRAVELS ON HORSEBACK IN MANTCHU TARTARY:'); most chapters open in small capitals
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[ look (3)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - a: a (p0007, p0011, p0012, p0013, p0014, p0015…); à (p0033, p0037, p1075, p1087, p1138, p1144)
+            - adele: adele (p1323); adèle (p1320, p1323, p1324)
+            - piece: piece (p0160, p0210, p1026, p1042, p1083, p1118…); pièce (p1212)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[ look (3)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0139: “beard” — “heard” is common (43)
+            - p0216: “curse” — “course” is common (58; a letter dropped or transposed?)
+            - p1044: “resent” — “present” is common (51; a letter dropped or transposed?)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[       ok] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+[ look (1)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+            - p0259: “course He” in …“Of course He is, Clara; b…
+[       ok] italic-brackets: parentheses or square brackets placed inside <i>…</i> tags: check whether the brackets themselves are roman
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: browns-and-the-smiths-davies v1 — 0 to fix, 0 waived; to look at: hyphen-joins 11, folios 2, openings 1, accents 3, rare-forms 3, missing-stop 1 — tools@b293dbc 2026-11-26
