@@ -1,4 +1,475 @@
 {
- "books": [],
- "rejected": []
+ "books": [
+  {
+   "slug": "browns-and-the-smiths-davies",
+   "title": "The Browns and the Smiths",
+   "author": "Christiana Jane Davies",
+   "year": 1863,
+   "volumes": 2,
+   "ia": "brownssmithsintw01davi",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "brownssmithsintw01davi"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "brownssmithsintw02davi"
+    }
+   ],
+   "images": 658,
+   "setting": "Goslingford, an English market town",
+   "period": "Mid-19th century",
+   "from": "blog_2021",
+   "blog_2021": 21,
+   "status": "in progress",
+   "eligibility": "Checked 2026-11-26: original English novel published in 1863 (London: Hurst and Blackett, 2 vols., first ed.). Complete, crisp 500 ppi UIUC scans on Internet Archive (brownssmithsintw01davi: 326 images, pp. [1]–311; brownssmithsintw02davi: 332 images, pp. [1]–309 plus publisher ads; zero pagination gaps in scandata, _jp2.zip present for both). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource (Author:Christiana_Jane_Douglas lists it unlinked), Faded Page, A Celebration of Women Writers, VWWP, or Penn Online Books Page. Open Library and web search (incl. title/author and post-1914 reprint publishers) show no post-1914 print edition or free digital reading text. Christiana Jane Davies (née Douglas, 1822–1887) died >70 years ago (Rule 5 met).",
+   "started": "2026-11-26"
+  },
+  {
+   "slug": "by-the-cornish-sea-isabell",
+   "title": "By the Cornish Sea",
+   "author": "John Isabell",
+   "year": 1885,
+   "volumes": 2,
+   "ia": "bycornishsea01isab",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "bycornishsea01isab"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "bycornishsea02isab"
+    }
+   ],
+   "images": 672,
+   "setting": "St. Enodoc, coastal Cornwall",
+   "period": "1870s–1880s",
+   "from": "blog_2021",
+   "blog_2021": 27,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English novel published in 1885 (London: Sampson Low, Marston, Searle, & Rivington, 2 vols., first ed.; note notes/book-json.md uses this title and slug as a schema illustration). Complete 500 ppi UIUC scans on Internet Archive preferred over the single Oxford Google scan bycornishsea00isabgoog (bycornishsea01isab: 316 images, pp. [1]–297; bycornishsea02isab: 356 images, pp. [1]–308 followed by Sampson Low Oct. 1885 32-page catalogue; zero scandata gaps, _jp2.zip present for both). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or VWWP; Online Books Page links only to HathiTrust page images. Open Library and web search show no post-1914 print edition or free digital reading text. Rev. John Isabell (1851–1921) died >70 years ago (Rule 5 met)."
+  },
+  {
+   "slug": "middle-aged-lover-fitzgerald",
+   "title": "The Middle-Aged Lover: A Story",
+   "author": "Percy Fitzgerald",
+   "year": 1873,
+   "volumes": 2,
+   "ia": "middleagedlovers01fitz",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "middleagedlovers01fitz"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "middleagedlovers02fitz"
+    }
+   ],
+   "images": 688,
+   "setting": "Brickford, an English manufacturing town",
+   "period": "1860s–1870s",
+   "from": "blog_2021",
+   "blog_2021": 24,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English novel published in 1873 (London: Richard Bentley and Son, 2 vols., first ed.). Complete 500 ppi UIUC scans on Internet Archive preferred over the Oxford Google scans middleagedlover00fitzgoog / 01fitzgoog (middleagedlovers01fitz: 328 images, pp. [1]–311; middleagedlovers02fitz: 360 images, pp. [1]–342; zero scandata gaps, _jp2.zip present for both). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or Penn Online Books Page. Open Library and web search show only the 1873 Bentley edition and no post-1914 print edition or free digital reading text. Percy Hetherington Fitzgerald (1834–1925) died >70 years ago (Rule 5 met)."
+  },
+  {
+   "slug": "story-of-a-life-sherer",
+   "title": "The Story of a Life",
+   "author": "Joseph Moyle Sherer",
+   "year": 1825,
+   "volumes": 2,
+   "ia": "storyoflife01sher",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "storyoflife01sher"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "storyoflife02sher"
+    }
+   ],
+   "images": 722,
+   "setting": "Southampton / New Forest, Ireland, Portugal, Venice, and the Mediterranean",
+   "period": "Late 18th to early 19th century (frame opens 1790)",
+   "from": "blog_2021",
+   "blog_2021": 37,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English novel published in 1825 (London: Longman, Hurst, Rees, Orme, Brown, and Green, 2 vols., first ed.; anonymous on title page as 'By the Author of Scenes and Impressions in Egypt and Italy, Recollections of the Peninsula, &c.'). Complete 500 ppi UIUC scans on Internet Archive (storyoflife01sher: 342 images, pp. v–xii + [1]–316; storyoflife02sher: 380 images, pp. [1]–364; zero scandata gaps, _jp2.zip present for both). Not in Project Gutenberg (pg_catalog.csv lists only Sherer's The Broken Font), Standard Ebooks, Wikisource, Faded Page, or Penn Online Books Page. Open Library and web search show only 1825 London/Edinburgh editions and print-on-demand replicas (Palala/Forgotten Books/etc.), no post-1914 trade/scholarly print edition or free digital reading text. Joseph Moyle Sherer (1789–1869) died >70 years ago (Rule 5 met)."
+  },
+  {
+   "slug": "vargas-dallas",
+   "title": "Vargas: A Tale of Spain",
+   "author": "Alexander Robert Charles Dallas",
+   "year": 1822,
+   "volumes": 3,
+   "ia": "vargastaleofspai01whit",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "vargastaleofspai01whit"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "vargastaleofspai02whi"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "vargastaleofspai03whi"
+    }
+   ],
+   "images": 1044,
+   "setting": "Spain (Seville, Cadiz, Zufre)",
+   "period": "16th century (Spanish Inquisition under Philip II)",
+   "from": "blog_2021",
+   "blog_2021": 48,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English novel published anonymously in 1822 (London: Printed for Baldwin, Cradock, and Joy, 3 vols.; historically misattributed to Joseph Blanco White in catalogs and blog_2021.json, actually by Alexander Robert Charles Dallas, 1791–1869). Complete UIUC scans on Internet Archive (vargastaleofspai01whit: 332 images at 500 ppi, prefatory pp. v–xii + text pp. [1]–308; 02whi: 362 images at 400 ppi; 03whi: 350 images at 400 ppi; zero text gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or Penn Online Books Page. Open Library and web search (finding only academic articles/essays discussing Vargas and POD editions) confirm no post-1914 reset print edition or free digital reading text. Both A. R. C. Dallas (1791–1869) and Blanco White (1775–1841) died >70 years ago (Rule 5 met)."
+  },
+  {
+   "slug": "country-houses-moore",
+   "title": "Country Houses",
+   "author": "Charlotte Trimmer Moore",
+   "year": 1832,
+   "volumes": 3,
+   "ia": "countryhouses01moor",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "countryhouses01moor"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "countryhouses02moor"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "countryhouses03moor"
+    }
+   ],
+   "images": 1108,
+   "setting": "English country houses, industrial districts, and Brighton / London society",
+   "period": "Early 1830s (late Regency / Reform era)",
+   "from": "blog_2021",
+   "blog_2021": 33,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English silver-fork novel published in 1832 (London: Saunders and Otley, 3 vols., anonymous). Complete 500 ppi UIUC scans on Internet Archive (countryhouses01moor: 336 images; 02moor: 378 images; 03moor: 394 images; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, Celebration of Women Writers, VWWP, or Penn Online Books Page. Open Library and web search show only the 1832 London edition and POD scan reprints (2018), no post-1914 trade/scholarly edition or free digital reading text. Published 1832; Rule 5 met."
+  },
+  {
+   "slug": "reginald-hastings-warburton",
+   "title": "Reginald Hastings: Or, A Tale of the Troubles in 164–",
+   "author": "Eliot Warburton",
+   "year": 1850,
+   "volumes": 3,
+   "ia": "reginaldhastings01warb",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "reginaldhastings01warb"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "reginaldhastings02warb"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "reginaldhastings03warb"
+    }
+   ],
+   "images": 1018,
+   "setting": "England and Holland",
+   "period": "1640s (English Civil War)",
+   "from": "blog_2021",
+   "blog_2021": 46,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English historical novel published in 1850 (London: Henry Colburn, 3 vols., first ed.; TP subtitle 'A Tale of the Troubles in 164–'). Complete 500 ppi UIUC scans on Internet Archive (reginaldhastings01warb: 364 images; 02warb: 336 images; 03warb: 318 images; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or Penn Online Books Page. Open Library and web search show only 1850 editions and no post-1914 print edition or free digital reading text. Eliot Warburton (1810–1852) died >70 years ago (Rule 5 met)."
+  },
+  {
+   "slug": "anne-sherwood-aikin-kortright",
+   "title": "Anne Sherwood: Or, The Social Institutions of England",
+   "author": "Fanny Aikin-Kortright",
+   "year": 1857,
+   "volumes": 3,
+   "ia": "annesherwoodorso01aiki",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "annesherwoodorso01aiki"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "annesherwoodorso02aiki"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "annesherwoodorso03aiki"
+    }
+   ],
+   "images": 984,
+   "setting": "Yorkshire (Merton near L—) and London",
+   "period": "1850s (concluding around the Crimean War)",
+   "from": "blog_2021",
+   "blog_2021": 2,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English novel published in 1857 under pseudonym 'Berkeley Aikin' (London: Richard Bentley, 3 vols., first ed.; dedicated to Harriet Beecher Stowe). Complete UIUC scans on Internet Archive (annesherwoodorso01aiki: 334 images at 300 ppi, leaves 318–319 marked Delete between pp. 303–304 verified continuous prose in _djvu.txt; 02aiki: 344 images at 500 ppi; 03aiki: 306 images at 300 ppi; _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Faded Page, Celebration of Women Writers, VWWP, or Wikisource (Author:Fanny_Aikin-Kortright lists title unlinked); Online Books Page links only to HathiTrust page images. Open Library and web search show no post-1914 print edition or free digital reading text. Fanny Aikin-Kortright (1821–1900) died >70 years ago (Rule 5 met)."
+  },
+  {
+   "slug": "netherton-on-sea-alford",
+   "title": "Netherton-on-Sea: A Story",
+   "author": "Elizabeth Mary Alford",
+   "year": 1869,
+   "volumes": 3,
+   "ia": "nethertononseast01alfo",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "nethertononseast01alfo"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "nethertononseast02alfo"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "nethertononseast03alfo"
+    }
+   ],
+   "images": 668,
+   "setting": "Netherton-on-Sea (English coastal port) and Rome",
+   "period": "Mid-19th century",
+   "from": "blog_2021",
+   "blog_2021": 5,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English novel published in 1869 (London: Tinsley Brothers, 3 vols.; title page undated, BL/IA/Victoria Research Web verify 1869; edited/co-credited in contemporaries to Dean Henry Alford, 1810–1871). Complete UIUC scans on Internet Archive (668 images total: 228, 212, 228; note 300 ppi across all 3 vols and Chapman & Hall Lever/Trollope ad endpapers; _jp2.zip present for all 3, zero scandata gaps). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, Celebration of Women Writers, VWWP, or Penn Online Books Page. Open Library and web search show only 1869–1870 editions and no post-1914 print edition or free digital reading text. Both Elizabeth Mary Alford (1840–1905) and Henry Alford (1810–1871) died >70 years ago (Rule 5 met)."
+  },
+  {
+   "slug": "lescar-the-universalist-grant",
+   "title": "Lescar, the Universalist",
+   "author": "Maria M. Grant",
+   "year": 1874,
+   "volumes": 3,
+   "ia": "lescaruniversali01gran",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "lescaruniversali01gran"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "lescaruniversali02gran"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "lescaruniversali03gran"
+    }
+   ],
+   "images": 972,
+   "setting": "Paris / Le Grand St. Marteau, Scotland (Highlands), and Cambridge",
+   "period": "1854–1871 (through the Franco-Prussian War and Paris Commune)",
+   "from": "blog_2021",
+   "blog_2021": 25,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English novel published in 1874 (London: Chapman and Hall, 3 vols., first ed.; anonymous on title page as 'By the Author of \"Artiste,\" \"Bright Morning,\" etc.'). Complete UIUC scans on Internet Archive (lescaruniversali01gran: 306 images at 500 ppi; 02gran: 324 images at 300 ppi; 03gran: 342 images at 500 ppi; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, Celebration of Women Writers, VWWP, or Penn Online Books Page. Open Library and web search show no post-1914 print edition or free digital reading text. Maria M. Grant (1841–1928) died >70 years ago (Rule 5 met)."
+  },
+  {
+   "slug": "lost-cause-aldred",
+   "title": "A Lost Cause: A Story of the Last Rebellion in Poland",
+   "author": "W. W. Aldred",
+   "year": 1881,
+   "volumes": 3,
+   "ia": "lostcausestoryof01aldr",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "lostcausestoryof01aldr"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "lostcausestoryof02aldr"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "lostcausestoryof03aldr"
+    }
+   ],
+   "images": 884,
+   "setting": "London and Poland",
+   "period": "1862–1863 (London 1862 International Exhibition and the Polish January Uprising)",
+   "from": "blog_2021",
+   "blog_2021": 4,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English novel published in 1881 (London: W. H. Allen & Co., 3 vols., first ed.). Complete 500 ppi UIUC scans on Internet Archive (lostcausestoryof01aldr: 300 images; 02aldr: 304 images; 03aldr: 280 images; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv 'A Lost Cause' #40539 is Guy Thorne's 1910 novel), Standard Ebooks, Wikisource, Faded Page, or Penn Online Books Page. Open Library and web search show only the 1881 Allen edition and no post-1914 print edition or free digital reading text. Published 1881; Rule 5 met."
+  },
+  {
+   "slug": "transgression-of-terence-clancy-vallings",
+   "title": "The Transgression of Terence Clancy",
+   "author": "Harold Vallings",
+   "year": 1893,
+   "volumes": 3,
+   "ia": "transgressionoft02vall",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "transgressionoft02vall"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "transgressionoft01vall"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "transgressionoft03vall"
+    }
+   ],
+   "images": 924,
+   "setting": "Little Chillington, a West Country / Devon moorland market town",
+   "period": "1890s",
+   "from": "blog_2021",
+   "blog_2021": 43,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-26: original English novel published in 1893 (London: Richard Bentley & Son, 3 vols., first ed.). Complete 500 ppi UIUC scans on Internet Archive (note IA identifier swap: Vol. I = transgressionoft02vall, 332 images; Vol. II = transgressionoft01vall, 288 images; Vol. III = transgressionoft03vall, 304 images; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or VWWP; Online Books Page links only to HathiTrust page images. Open Library and web search show no post-1914 print edition or free digital reading text. Published 1893 (before 1914) -> Rule 5 met (assumed >70 years dead; biographical dates 1857–1940)."
+  }
+ ],
+ "rejected": [
+  {
+   "title": "John Webb’s End: Australian Bush Life",
+   "author": "Francis Adams",
+   "year": 1891,
+   "ia": "johnwebbsendaus00huntgoog",
+   "blog_2021": 1,
+   "why": "Rule 1 (IA scan quality/archive): Only IA item johnwebbsendaus00huntgoog (310 images, NYPL Google scan) has no _jp2.zip or _jp2.tar archive (only bilevel Google PDF/TXT). No non-Google IA scan found via IA advancedsearch."
+  },
+  {
+   "title": "Earlswood: Or, Lights and Shadows of the Anglican Church (A Tale for the Times, and All Time)",
+   "author": "Charlotte Anley",
+   "year": 1853,
+   "ia": "earlswoodatalef00anlegoog",
+   "blog_2021": 6,
+   "why": "Rule 1 (IA scan quality/archive): Both IA items for this novel — blog entry earlswoodatalef00anlegoog (575 images) and alternate US ed. earlswoodorligh00anlegoog (328 images, NYPL) — are Google scans with jp2=[] (no _jp2.zip or _jp2.tar). No library scan found on IA."
+  },
+  {
+   "title": "Uncle Tweazy and His Quizzical Neighbours: A Comi-satiric Novel",
+   "author": "Anonymous",
+   "year": 1816,
+   "ia": "uncletweazyhisqu01obse",
+   "blog_2021": 7,
+   "why": "Rule 3 (free digital reading edition exists): Published in Project Gutenberg as PG #77997 (Vol. I) and PG #77028 (Vol. II, Oct. 2025, pg_catalog.csv) — active Project Gutenberg transcription eliminates eligibility (even though IA UIUC scans uncletweazyhisqu01obse–03obse are complete)."
+  },
+  {
+   "title": "Oakfield: Or, Fellowship in the East",
+   "author": "William Delafield Arnold",
+   "year": 1854,
+   "ia": "oakfieldorfello03arnogoog",
+   "blog_2021": 8,
+   "why": "Rule 4 (republished in print since 1914): Republished in a reset scholarly print edition by Leicester University Press ('The Victorian Library' series, 1973, with introduction by Kenneth Allott, ISBN 9780718550202) and Garland ('Victorian Fiction: Novels of Faith and Doubt' series, 1975). Note also blog_2021 links are Harvard Google scans (though a Harry Ransom Center scan oakfieldorfellow00arno_0/_2 exists on IA)."
+  },
+  {
+   "title": "A Commonplace Girl",
+   "author": "Blanche Atkinson",
+   "year": 1895,
+   "ia": "acommonplacegir00blangoog",
+   "blog_2021": 9,
+   "why": "Rule 1 (IA scan quality/archive): Only IA item acommonplacegir00blangoog (403 images, Google scan, unknown library) has jp2=[] (no _jp2.zip or _jp2.tar). No non-Google IA scan found via IA advancedsearch."
+  },
+  {
+   "title": "Glory: A Wiltshire Story",
+   "author": "Isabella Banks",
+   "year": 1881,
+   "ia": "glory00bankgoog",
+   "blog_2021": 10,
+   "why": "Rule 1 (IA scan quality/archive): Only IA item glory00bankgoog (433 images, Oxford Google scan of 1881 1v reprint of 1877 3v novel) has jp2=[] (no _jp2.zip or _jp2.tar). No non-Google IA scan found on IA."
+  },
+  {
+   "title": "The Metropolis",
+   "author": "Anonymous (misattributed to Eaton Stannard Barrett in blog_2021.json)",
+   "year": 1819,
+   "ia": "metropolisnovelb01barr",
+   "blog_2021": 11,
+   "why": "Authorship & scan/OCR quality warning: Garside, Raven & Schöwerling (The English Novel 1770–1829) catalogs this as anonymous ('By the author of Little Hydrogen, or The Devil on Two Sticks in London'), NOT Eaton Stannard Barrett (only a later 19th-c. attribution), and the UIUC scans produce extremely noisy OCR (92.4 and 85.0 weird chars per 10k) due to dense ornamental/worn 1819 type. Set aside rather than queued in favor of cleaner 1820s–1830s picks (#37 Sherer, #48 Dallas, #33 Moore)."
+  },
+  {
+   "title": "All in a Garden Fair: The Simple Story of Three Boys and a Girl",
+   "author": "Walter Besant",
+   "year": 1892,
+   "ia": "allingardenfairs00besauoft",
+   "blog_2021": 12,
+   "why": "Rule 4 (republished in print since 1914): First published 1883 (3 vols.); Open Library MARC records OL19398503M, OL21410460M, and OL52994028M document a post-1914 Chatto & Windus trade reprint in 1918 (London: Chatto & Windus, 1918, vi, 309 p., new ed.). (Scan allingardenfairs00besauoft has Toronto _jp2.zip, 376 images, plus 00besarich / 00besa / 02besa alternates, but disqualified by 1918 Chatto edition.)"
+  },
+  {
+   "title": "The Pursuit of Camilla",
+   "author": "Clementina Black",
+   "year": 1899,
+   "ia": "pursuitcamillab00blacgoog",
+   "blog_2021": 14,
+   "why": "Rule 1 (IA scan quality/archive): Only IA item pursuitcamillab00blacgoog (297 images, Google scan, unknown library) has jp2=[] (no _jp2.zip or _jp2.tar). No non-Google IA scan found on IA."
+  },
+  {
+   "title": "Love or Lucre",
+   "author": "Robert Black",
+   "year": 1879,
+   "ia": "loveorlucre03blacgoog",
+   "blog_2021": 15,
+   "why": "Rule 1 (IA scan quality/archive): Only Google scans exist on IA — blog link loveorlucre03blacgoog (391 images, 1879 1v Routledge ed.) and the 1878 3v vols. loveorlucre00/01/02blacgoog (321/299/345 images, Oxford Google scans) — all have jp2=[] (no _jp2.zip or _jp2.tar)."
+  },
+  {
+   "title": "The Mistress of Brae Farm",
+   "author": "Rosa Nouchette Carey",
+   "year": 1899,
+   "ia": "mistressofbraefa00care",
+   "blog_2021": 17,
+   "why": "Rule 4 (republished in print since 1914): First published 1896 (Bentley); blog links to 1902 Macmillan reprint (mistressofbraefa00care, UC 450 images; Toronto mistressofbraefa00careuoft also exists). Victorian Fiction Research Guides (Carey bibliography item #107, publisher's archives) documents a post-1914 trade reprint: London: Hodder and Stoughton, [1920], 334p."
+  },
+  {
+   "title": "Kingsworth: Or, The Aim of a Life",
+   "author": "Christabel Rose Coleridge",
+   "year": 1882,
+   "ia": "kingsworthoraim00colegoog",
+   "blog_2021": 19,
+   "why": "Rules 1 & 3: Available as Project Gutenberg eBook #43158 (in pg_catalog.csv and mirrored on IA as kingsworthorthea43158gut), disqualifying under Rule 3; also the only page-image scan kingsworthoraim00colegoog (235 images, Oxford Google) has jp2=[] (fails Rule 1)."
+  },
+  {
+   "title": "The Pilgrims of the Thames, in Search of the National!",
+   "author": "Pierce Egan",
+   "year": 1838,
+   "ia": "pilgrimsofthames00eganrich",
+   "blog_2021": 22,
+   "why": "Rule 1 (incomplete scan / no complete _jp2.zip alternative): UC scan pilgrimsofthames00eganrich (422 images, 500 ppi, _jp2.zip present) is physically incomplete, breaking off at p. 360 mid-dialogue ('not like the dangers to be apprehended on a race course') before UC checkout slip instead of the full iv, 375 p. text (confirmed by OL MARC OL7185885M vs full 375p edition). The only other IA item, Oxford Google scan pilgrimsthames00egangoog (443 images), also terminates early and has jp2=[] (no _jp2.zip)."
+  },
+  {
+   "title": "The Circassian Chief: A Romance of Russia",
+   "author": "William Henry Giles Kingston",
+   "year": 1843,
+   "ia": "circassianchiefr01king",
+   "blog_2021": 30,
+   "why": "Rule 3 (free digital reading edition exists): Published in Project Gutenberg as PG #34485 (verified in pg_catalog.csv)."
+  },
+  {
+   "title": "The Mysterious Wanderer",
+   "author": "Sophia Reeve",
+   "year": 1807,
+   "ia": "mysteriouswander01reev",
+   "blog_2021": 35,
+   "why": "Rule 3 (free digital reading edition exists): All 3 volumes published in Project Gutenberg as PG #33973 (Vol. I), PG #34629 (Vol. II), and PG #39425 (Vol. III) (verified in pg_catalog.csv)."
+  },
+  {
+   "title": "“Corinna”: A Study",
+   "author": "Rita (Eliza Margaret Jane Humphreys)",
+   "year": 1885,
+   "ia": "corinnastudy01rita",
+   "blog_2021": 36,
+   "why": "Excluded on bibliographic verification: blog_2021.json and IA metadata falsely record year 1800 (an IA catalog bug; real publication year is 1885, London: John & Robert Maxwell). Moreover, Vol. III (corinnastudy03rita) contains the conclusion of 'Corinna' only on pp. 1–110 ('THE END.'), followed on pp. 111–255 by an unrelated novella 'Edelweiss' (later issued separately in 1890), making this 3v edition a composite pair rather than a standalone single novel."
+  },
+  {
+   "title": "Modern Flirtations: Or, A Month at Harrowgate",
+   "author": "Catherine Sinclair",
+   "year": 1841,
+   "ia": "modernflirtation01sinc",
+   "blog_2021": 38,
+   "why": "Rule 3 (free digital reading edition exists): Published in Project Gutenberg as PG #43358 (verified in pg_catalog.csv)."
+  }
+ ]
 }

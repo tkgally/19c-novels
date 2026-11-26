@@ -1,0 +1,61 @@
+{
+ "id": "browns-and-the-smiths-davies",
+ "version": 1,
+ "date": "2026-11-26",
+ "title": "The Browns and the Smiths",
+ "subtitle": "",
+ "short_title": "The Browns and the Smiths",
+ "authors": [
+  {
+   "name": "Christiana Jane Davies",
+   "sort": "Davies, Christiana Jane",
+   "born": 1822,
+   "died": 1887
+  }
+ ],
+ "place": "London",
+ "publisher": "Hurst and Blackett",
+ "year": 1863,
+ "volumes": 2,
+ "edition_statement": "First edition, in two volumes",
+ "setting": "Goslingford, England",
+ "period": "Mid-19th century",
+ "subjects": [
+  "provincial society",
+  "family rivalry",
+  "courtship"
+ ],
+ "summary": "Published anonymously in two volumes by Christiana Jane Davies (born Douglas), this novel of English provincial life is set in the market town of Goslingford, where a long-standing social rivalry divides the households of the Browns and the Smiths. Across assemblies, parish affairs, and domestic entanglements, the younger members of the two families form attachments that test the prejudices and ambitions of their elders.",
+ "source": {
+  "ia_identifier": "brownssmithsintw01davi",
+  "contributor": "University of Illinois Urbana-Champaign",
+  "hidden_leaves": [],
+  "items": [
+   {
+    "ia_identifier": "brownssmithsintw01davi",
+    "first_leaf": "p0000",
+    "hidden_leaves": [],
+    "label": "Volume I"
+   },
+   {
+    "ia_identifier": "brownssmithsintw02davi",
+    "first_leaf": "p1000",
+    "hidden_leaves": [],
+    "label": "Volume II"
+   }
+  ]
+ },
+ "omitted_from_reading": "The half-titles, the title page of Volume II, and the publisher’s advertisements at the end of Volume II are in the JSON only.",
+ "notes_on_text": [
+  "Originally published anonymously (“By the Author of ‘Anne Dysart,’ &c.”) in two volumes; combined here into a single digital volume."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-26",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [],
+ "parts": []
+}
