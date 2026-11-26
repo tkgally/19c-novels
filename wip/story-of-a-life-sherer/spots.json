@@ -1,0 +1,178 @@
+{
+ "p0131": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "\n“Each fearless soul,\n“Let the world wag as it will;\n“Let the Heavens growl,\n“Let the Devil howl,\n“Drain, drain the deep bowl, and fill.”",
+   "replace": "\nEach fearless soul,\nLet the world wag as it will;\nLet the Heavens growl,\nLet the Devil howl,\nDrain, drain the deep bowl, and fill.”",
+   "draft": "\n“Each fearless soul,\n“Let the world wag as it will;\n“Let the Heavens growl,\n“Let the Devil howl,\n“Drain, drain",
+   "verified": "\nEach fearless soul,\nLet the world wag as it will;\nLet the Heavens growl,\nLet the Devil howl,\nDrain, drain",
+   "context": "chorus of another ran thus: ⏎  ⏎ <verse> ⏎ “Drain, drain the bowl, ⏎ “Each fearless soul, ⏎ “Let the world wag as it will; ⏎ “Let the Heavens growl, ⏎ “Let the Devil howl, ⏎ “Drain, drain the deep bowl, and fill.” ⏎ </verse> ⏎  ⏎ Never will this awful revel pass from my memory; "
+  }
+ ],
+ "p0235": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[cont]]ourning lamp",
+   "replace": "[[cont]][[corr ourning|burning]] lamp",
+   "draft": "[[cont]]ourning lamp",
+   "verified": "[[cont]][[corr ourning|burning]] lamp",
+   "context": "[[page 219]] ⏎  ⏎ [[cont]]ourning lamp on the marble bracket near, and slept brokenly, and fitfull"
+  }
+ ],
+ "p0236": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "lowly in condition, but rich",
+   "replace": "lowly in condition but rich",
+   "draft": "in condition, but rich",
+   "verified": "in condition but rich",
+   "context": "uccess. I was born, Senhor, among the poor, the happy poor, lowly in condition, but rich in the fewness of their wants. My father was a Neapolitan p"
+  }
+ ],
+ "p0262": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "shivering on a door step, a very",
+   "replace": "shivering on a door-step, a very",
+   "draft": "ng on a door step, a very",
+   "verified": "ng on a door-step, a very",
+   "context": " almost as poor, would suffer us. One day, as I was seated, shivering on a door step, a very well-dressed pretty woman passed by, and gave me half a cro"
+  }
+ ],
+ "p0293": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "The rain drops on every thing",
+   "replace": "The rain-drops on every thing",
+   "draft": "The rain drops on eve",
+   "verified": "The rain-drops on eve",
+   "context": "ark and curving shores, and promontories and bays afar off. The rain drops on every thing around looked soft and pearly, and the air was perfume. How"
+  }
+ ],
+ "p1073": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "not surprising that",
+   "replace": "not surprizing that",
+   "draft": "not surprising that",
+   "verified": "not surprizing that",
+   "context": "age 65]] ⏎ [[cont]]ters, which, in my melancholy mood, it was not surprising that it should produce. ⏎  ⏎ The day I arrived in Venice, as I was s"
+  }
+ ],
+ "p1117": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "with all the warmth and sincerity",
+   "replace": "with all the warnith and sincerity",
+   "draft": " all the warmth and since",
+   "verified": " all the warnith and since",
+   "context": " child-like men lend themselves to the illusion of romance, with all the warmth and sincerity of their natures, and seem touched and transformed by the w"
+  }
+ ],
+ "p1154": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "my big tearsfell down",
+   "replace": "my big [[corr tearsfell|tears fell]] down",
+   "draft": "my big tearsfell down",
+   "verified": "my big [[corr tearsfell|tears fell]] down",
+   "context": "oth;—both outcast—both despised. I took her in my arms; and my big tearsfell down upon my open breast, and she wiped them with her hair, and "
+  }
+ ],
+ "p1165": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Shall I reproach the Lord?",
+   "replace": "Shall I [[corr reprcach|reproach]] the Lord?",
+   "draft": "Shall I reproach the Lord?",
+   "verified": "Shall I [[corr reprcach|reproach]] the Lord?",
+   "context": "th me in battle; they have died, as dogs die, in their bed. Shall I reproach the Lord?—he gave—he takes away; blessed be his name.” Well I went aw"
+  }
+ ],
+ "p1175": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "true love crossed Forgive me,",
+   "replace": "true love [[corr crossed|crossed?]] Forgive me,",
+   "draft": "true love crossed Forgive me,",
+   "verified": "true love [[corr crossed|crossed?]] Forgive me,",
+   "context": "appy, and to love.—But why, Henry, have we so many tales of true love crossed Forgive me, I am a child. My tears fall upon my paper; I cannot shake ⏎ "
+  }
+ ],
+ "p1210": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "my blood boiled—my skin",
+   "replace": "my blood boiled.—my skin",
+   "draft": "blood boiled—my skin",
+   "verified": "blood boiled.—my skin",
+   "context": "read itself, and destroy me. It did not—my pulse beat quick—my blood boiled—my skin burned—I rested ill—I scarce broke bread; and yet I lived, "
+  }
+ ],
+ "p1309": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "you will surprize your noble",
+   "replace": "you will surprise your noble",
+   "draft": " will surprize your noble",
+   "verified": " will surprise your noble",
+   "context": "and try to make yourself look more like a wedding-guest, or you will surprize your noble sister, Lucrezia: she is a girl of high mind, and keen obse"
+  }
+ ],
+ "p1324": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "performed all the the offices of",
+   "replace": "performed all the offices of",
+   "draft": "med all the the offices of",
+   "verified": "med all the offices of",
+   "context": "dren, and a young girl, a relative or protected cousin, who performed all the the offices of a servant, and who waited upon me. It was she who brought m"
+  }
+ ],
+ "p1343": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "shop of an American merchant",
+   "replace": "shop of an Armenian merchant",
+   "draft": "shop of an American merchant",
+   "verified": "shop of an Armenian merchant",
+   "context": "e she sailed, as I was purchasing a trifling article in the shop of an American merchant, there came in a European, with whose face I was acquainted"
+  }
+ ],
+ "p1351": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "half-eaten carcases of my",
+   "replace": "half-eaten carcasses of my",
+   "draft": "eaten carcases of my",
+   "verified": "eaten carcasses of my",
+   "context": ", of which I kept no count, I fed thus upon turtle, and the half-eaten carcases of my victims allured the ravenous sea birds in their flight, and"
+  }
+ ],
+ "p1372": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[center]] THE END.",
+   "replace": "[[center]] T<sc>he</sc> E<sc>nd</sc>.",
+   "draft": "[[center]] THE END.",
+   "verified": "[[center]] T<sc>he</sc> E<sc>nd</sc>.",
+   "context": "after war, death after life does greatly please.” ⏎ </verse> ⏎  ⏎ [[center]] THE END. ⏎  ⏎ [[center]] L<sc>ondon</sc>: Printed by A. & R. Spottiswood"
+  }
+ ]
+}
