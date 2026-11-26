@@ -1,0 +1,3 @@
+{"find": "completing “<sc>the history of henry iv</sc>., King", "replace": "completing “THE HISTORY <sc>of</sc> HENRY IV., King"}
+{"find": "THIRTEEN <sc>years’ service amongst the wild tribes of khondistan, for the suppression of human sacrifice</sc>. By", "replace": "THIRTEEN YEARS’ SERVICE AMONGST THE WILD TRIBES OF KHONDISTAN, FOR THE SUPPRESSION OF HUMAN SACRIFICE. By"}
+{"find": "VICTOR HUGO. <sc>the authorized copyright english translation</sc>. T<sc>hird</sc>", "replace": "VICTOR HUGO. THE AUTHORIZED COPYRIGHT ENGLISH TRANSLATION. T<sc>hird</sc>"}

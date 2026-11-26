@@ -1,0 +1,309 @@
+{
+ "p0007": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "“<i>Nurse.</i> His name",
+   "replace": "“<i>Nurse</i>: His name",
+   "draft": "“<i>Nurse.</i> His name",
+   "verified": "“<i>Nurse</i>: His name",
+   "context": "r]] “ANNE DYSART,” “ONWARDS,” ⏎  ⏎ [[center]] &c., &c. ⏎  ⏎ <verse> ⏎ “<i>Nurse.</i> His name is Romeo, and a Montague; ⏎ The only son of your great enemy."
+  }
+ ],
+ "p0054": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "your countenance had an",
+   "replace": "your countenauce had an",
+   "draft": "our countenance had an",
+   "verified": "our countenauce had an",
+   "context": ", did you not lay the flattering unction to your soul, that your countenance had an expression, your presence an air, your <i>tout ensemble</i>"
+  }
+ ],
+ "p0055": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "plentiful numbers, who",
+   "replace": "plentiful uumbers, who",
+   "draft": "plentiful numbers, who",
+   "verified": "plentiful uumbers, who",
+   "context": "have no better, or that ladies might be found, in tolerably plentiful numbers, who could really be animated and ⏎ "
+  }
+ ],
+ "p0102": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "very ladylike, not to say",
+   "replace": "very lady-like, not to say",
+   "draft": "very ladylike, not to",
+   "verified": "very lady-like, not to",
+   "context": "from you entirely. I consider Hannah Brown very clever, and very ladylike, not to say pretty.” ⏎  ⏎ Having pronounced this opinion in his ⏎ "
+  }
+ ],
+ "p0211": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "[[cont]]turned from it and",
+   "replace": "[[cont]]turned from, it and",
+   "draft": "]turned from it and",
+   "verified": "]turned from, it and",
+   "context": "[[page 203]] ⏎  ⏎ [[cont]]turned from it and mechanically took up the books and ornaments on the table. "
+  }
+ ],
+ "p0264": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "laughed at her, cut her short",
+   "replace": "laughed at her. cut her short",
+   "draft": "ughed at her, cut her sho",
+   "verified": "ughed at her. cut her sho",
+   "context": "that, according to her humour, Miss Clara would either have laughed at her, cut her short with a witticism, or informed her that “she was thankful to"
+  }
+ ],
+ "p0274": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "only said—”",
+   "replace": "only said——”",
+   "draft": "only said—”",
+   "verified": "only said——”",
+   "context": "yflowers and marigolds.” ⏎  ⏎ “I did not say it was as pretty—I only said—” ⏎  ⏎ “I have a great mind, Hannah, to go and tell that lazy hig"
+  },
+  {
+   "n": 2,
+   "kind": "punctuation",
+   "find": "will only—”",
+   "replace": "will only——”",
+   "draft": "will only—”",
+   "verified": "will only——”",
+   "context": " removing it at once.” ⏎  ⏎ “Oh, no, Aunt Clara, pray don’t. It will only—” ⏎  ⏎ Here Hannah was interrupted by a peal of thunder. ⏎  ⏎ “Thunde"
+  }
+ ],
+ "p1243": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "of the lectures.” And Mr. Bradley",
+   "replace": "of the lectures. And Mr. Bradley",
+   "draft": "he lectures.” And Mr. Bra",
+   "verified": "he lectures. And Mr. Bra",
+   "context": "ent guarantee for the architectural and historical interest of the lectures.” And Mr. Bradley displayed the engravings to Edgar Smith, who did not quite "
+  }
+ ],
+ "p1318": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "completing “<sc>the history of henry iv</sc>., King",
+   "replace": "completing “THE HISTORY <sc>of</sc> HENRY IV., King",
+   "draft": "completing “<sc>the history of henry iv</sc>., King",
+   "verified": "completing “THE HISTORY <sc>of</sc> HENRY IV., King",
+   "context": "[[page ?]] ⏎  ⏎ THE LAST DECADE OF A GLORIOUS REIGN; completing “<sc>the history of henry iv</sc>., King of France and Navarre,” from Original and Authentic Sources"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "THIRTEEN <sc>years’ service amongst the wild tribes of khondistan, for the suppression of human sacrifice</sc>. By",
+   "replace": "THIRTEEN YEARS’ SERVICE AMONGST THE WILD TRIBES OF KHONDISTAN, FOR THE SUPPRESSION OF HUMAN SACRIFICE. By",
+   "draft": "THIRTEEN <sc>years’ service amongst the wild tribes of khondistan, for the suppression of human sacrifice</sc>. By",
+   "verified": "THIRTEEN YEARS’ SERVICE AMONGST THE WILD TRIBES OF KHONDISTAN, FOR THE SUPPRESSION OF HUMAN SACRIFICE. By",
+   "context": "y of the author.”—<i>Athenæum</i>. ⏎  ⏎ A PERSONAL NARRATIVE OF THIRTEEN <sc>years’ service amongst the wild tribes of khondistan, for the suppression of human sacrifice</sc>. By Major-General J<sc>ohn</sc> C<sc>ampbell</sc>, C.B. 1 vol.,"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "VICTOR HUGO. <sc>the authorized copyright english translation</sc>. T<sc>hird</sc>",
+   "replace": "VICTOR HUGO. THE AUTHORIZED COPYRIGHT ENGLISH TRANSLATION. T<sc>hird</sc>",
+   "draft": "ICTOR HUGO. <sc>the authorized copyright english translation</sc>. T<sc>hird<",
+   "verified": "ICTOR HUGO. THE AUTHORIZED COPYRIGHT ENGLISH TRANSLATION. T<sc>hird<",
+   "context": "ustrations, 14s. (Just ready.) ⏎  ⏎ LES MISÉRABLES. B<sc>y</sc> VICTOR HUGO. <sc>the authorized copyright english translation</sc>. T<sc>hird</sc> E<sc>dition</sc>. Complete in 3 vols. post 8vo. Price 31s. "
+  }
+ ],
+ "p1320": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "CHURCHES; or, <sc>the papacy and the temporal power</sc>. By",
+   "replace": "CHURCHES; or, THE PAPACY AND THE TEMPORAL POWER. By",
+   "draft": "URCHES; or, <sc>the papacy and the temporal power</sc>. By",
+   "verified": "URCHES; or, THE PAPACY AND THE TEMPORAL POWER. By",
+   "context": "rett</sc> L<sc>ennard</sc>. 1 vol. 8vo. ⏎  ⏎ THE CHURCH AND THE CHURCHES; or, <sc>the papacy and the temporal power</sc>. By Dr. D<sc>öllinger</sc>. Translated, by W. B. M<sc>ac</sc> C"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "NARRATIVE OF <sc>travel, exploration, and adventure</sc>. By",
+   "replace": "NARRATIVE OF TRAVEL, EXPLORATION, AND ADVENTURE. By",
+   "draft": "ARRATIVE OF <sc>travel, exploration, and adventure</sc>. By",
+   "verified": "ARRATIVE OF TRAVEL, EXPLORATION, AND ADVENTURE. By",
+   "context": " its information.”—<i>The Times</i>. ⏎  ⏎ THE OKAVANGO RIVER; A NARRATIVE OF <sc>travel, exploration, and adventure</sc>. By C<sc>harles</sc> J<sc>ohn</sc> A<sc>ndersson</sc>, Author o"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "AMOOR, <sc>and the russian acquisitions on the confines of india and china</sc>. By",
+   "replace": "AMOOR, and the RUSSIAN ACQUISITIONS ON THE CONFINES OF INDIA AND CHINA. By",
+   "draft": "AMOOR, <sc>and the russian acquisitions on the confines of india and china</sc>. By",
+   "verified": "AMOOR, and the RUSSIAN ACQUISITIONS ON THE CONFINES OF INDIA AND CHINA. By",
+   "context": " and numerous Illustrations. ⏎  ⏎ TRAVELS IN THE REGIONS OF THE AMOOR, <sc>and the russian acquisitions on the confines of india and china</sc>. By T. W. A<sc>tkinson</sc>, F.G.S., F.R.G.S., Author of “Orien"
+  }
+ ],
+ "p1321": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[center]] THE <sc>thirty-second edition for 1863 is now ready</sc>.",
+   "replace": "[[center]] T<sc>he thirty-second edition for 1863 is now ready</sc>.",
+   "draft": "[[center]] THE <sc>thirty-secon",
+   "verified": "[[center]] T<sc>he thirty-secon",
+   "context": "age and Baronetage, ⏎  ⏎ [[center]] CORRECTED BY THE NOBILITY. ⏎  ⏎ [[center]] THE <sc>thirty-second edition for 1863 is now ready</sc>. ⏎  ⏎ L<sc>odge’s</sc> P<sc>eerage and</sc> B<sc>aronetage</sc> "
+  }
+ ],
+ "p1322": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "T<sc>enniel</sc>, <sc>&amp;c., elegantly",
+   "replace": "T<sc>enniel</sc>, <sc>&c., elegantly",
+   "draft": "</sc>, <sc>&amp;c., elegantl",
+   "verified": "</sc>, <sc>&c., elegantl",
+   "context": "irket</sc> F<sc>oster</sc>, J<sc>ohn</sc> G<sc>ilbert</sc>, T<sc>enniel</sc>, <sc>&amp;c., elegantly printed and bound, price 5s.,</sc> ⏎  ⏎ ## Hurst and Blackett’s"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "THE CROSS. B<sc>y</sc> ELIOT",
+   "replace": "THE CROSS. <sc>by</sc> ELIOT",
+   "draft": "THE CROSS. B<sc>y</sc> ELIOT",
+   "verified": "THE CROSS. <sc>by</sc> ELIOT",
+   "context": "y households.”—<i>Examiner</i>. ⏎  ⏎ VOL. III.—THE CRESCENT AND THE CROSS. B<sc>y</sc> ELIOT WARBURTON. ⏎  ⏎ “Independent of its value as an original narrat"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "ABOUT WOMEN. B<sc>y the</sc> A<sc>uthor of</sc> “JOHN HALIFAX, GENTLEMAN.”",
+   "replace": "ABOUT WOMEN. <sc>by the author of “john halifax, gentleman.”</sc>",
+   "draft": "BOUT WOMEN. B<sc>y the</sc> A<sc>uthor of</sc> “JOHN HALIFAX, GENTLEMAN.”",
+   "verified": "BOUT WOMEN. <sc>by the author of “john halifax, gentleman.”</sc>",
+   "context": "tter is good.”—<i>Athenæum</i>. ⏎  ⏎ VOL. V.—A WOMAN’S THOUGHTS ABOUT WOMEN. B<sc>y the</sc> A<sc>uthor of</sc> “JOHN HALIFAX, GENTLEMAN.” ⏎  ⏎ “A book of sound counsel. It is one of the most sensible w"
+  },
+  {
+   "n": 4,
+   "kind": "words",
+   "find": "OF MOSSGRAY. B<sc>y the</sc> A<sc>uthor of</sc> “<sc>margaret maitland</sc>.”",
+   "replace": "OF MOSSGRAY. <sc>by the author of “margaret maitland.”</sc>",
+   "draft": "F MOSSGRAY. B<sc>y the</sc> A<sc>uthor of</sc> “<sc>margaret maitland</sc>.”",
+   "verified": "F MOSSGRAY. <sc>by the author of “margaret maitland.”</sc>",
+   "context": "together practical.”—<i>Examiner</i>. ⏎  ⏎ VOL. VI.—ADAM GRAEME OF MOSSGRAY. B<sc>y the</sc> A<sc>uthor of</sc> “<sc>margaret maitland</sc>.” ⏎  ⏎ “‘Adam Graeme’ is a story awakening genuine emotions of in"
+  },
+  {
+   "n": 5,
+   "kind": "words",
+   "find": "FOR A LIFE. B<sc>y the</sc> A<sc>uthor of</sc> “JOHN HALIFAX, GENTLEMAN.”",
+   "replace": "FOR A LIFE. <sc>by the author of “john halifax, gentleman.”</sc>",
+   "draft": "FOR A LIFE. B<sc>y the</sc> A<sc>uthor of</sc> “JOHN HALIFAX, GENTLEMAN.”",
+   "verified": "FOR A LIFE. <sc>by the author of “john halifax, gentleman.”</sc>",
+   "context": "clesiastical sovereigns.”—<i>Athenæum</i>. ⏎  ⏎ VOL. IX.—A LIFE FOR A LIFE. B<sc>y the</sc> A<sc>uthor of</sc> “JOHN HALIFAX, GENTLEMAN.” ⏎  ⏎ “In ‘A Life for a Life’ the author is fortunate in a good "
+  },
+  {
+   "n": 6,
+   "kind": "punctuation",
+   "find": "old friend Sam Slick.”—<i>Chronicle</i>.",
+   "replace": "old friend Sam Slick.’”—<i>Chronicle</i>.",
+   "draft": "d Sam Slick.”—<i>Chronic",
+   "verified": "d Sam Slick.’”—<i>Chronic",
+   "context": " work is redolent of the hearty fun and strong sense of our old friend Sam Slick.”—<i>Chronicle</i>. ⏎ "
+  }
+ ],
+ "p1323": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "DARIEN. BY ELIOT WARBURTON.",
+   "replace": "DARIEN. BY ELIOT WARBURTON,",
+   "draft": "OT WARBURTON.",
+   "verified": "OT WARBURTON,",
+   "context": "[[page ?]] ⏎  ⏎ VOL. XIII.—DARIEN. BY ELIOT WARBURTON. ⏎  ⏎ “This last production, from the pen of the author of ‘The "
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "ARISTOCRACY. B<sc>y</sc> SIR BERNARD BURKE.",
+   "replace": "ARISTOCRACY. <sc>by</sc> SIR BERNARD BURKE.",
+   "draft": "RISTOCRACY. B<sc>y</sc> SIR B",
+   "verified": "RISTOCRACY. <sc>by</sc> SIR B",
+   "context": "</i>. ⏎  ⏎ VOL. XIV.—FAMILY ROMANCE; OR, DOMESTIC ANNALS OF THE ARISTOCRACY. B<sc>y</sc> SIR BERNARD BURKE. ⏎  ⏎ “It were impossible to praise too highly as a work of amus"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "NORLAW. B<sc>y the</sc> A<sc>uthor of</sc> “<sc>mrs. margaret maitland</sc>.”",
+   "replace": "NORLAW. <sc>by the author of “mrs. margaret maitland.”</sc>",
+   "draft": "NORLAW. B<sc>y the</sc> A<sc>uthor of</sc> “<sc>mrs. margaret maitland</sc>.”",
+   "verified": "NORLAW. <sc>by the author of “mrs. margaret maitland.”</sc>",
+   "context": "rawing-room table.”—<i>Standard</i>. ⏎  ⏎ VOL. XV.—THE LAIRD OF NORLAW. B<sc>y the</sc> A<sc>uthor of</sc> “<sc>mrs. margaret maitland</sc>.” ⏎  ⏎ “Scottish life and character are here delineated with true"
+  },
+  {
+   "n": 4,
+   "kind": "words",
+   "find": "NOTHING NEW. <sc>by the author of</sc> “JOHN HALIFAX, <sc>gentleman</sc>.”",
+   "replace": "NOTHING NEW. <sc>by the author of “john halifax, gentleman.”</sc>",
+   "draft": "he author of</sc> “JOHN HALIFAX, <sc>gentleman</sc>.”",
+   "verified": "he author of “john halifax, gentleman.”</sc>",
+   "context": "ng, and full of instruction.”—<i>The Times</i>. ⏎  ⏎ VOL. XVII.—NOTHING NEW. <sc>by the author of</sc> “JOHN HALIFAX, <sc>gentleman</sc>.” ⏎  ⏎ “We cordially commend this book. The same graphic power, d"
+  },
+  {
+   "n": 5,
+   "kind": "punctuation",
+   "find": "PETER BURKE, SERJEANT AT LAW.",
+   "replace": "PETER BURKE, SERJEANT AT LAW,",
+   "draft": "JEANT AT LAW.",
+   "verified": "JEANT AT LAW,",
+   "context": "Herald</i>. ⏎  ⏎ VOL. XX.—THE ROMANCE OF THE FORUM. <sc>by</sc> PETER BURKE, SERJEANT AT LAW. ⏎  ⏎ “A work of singular interest, which can never fail to char"
+  },
+  {
+   "n": 6,
+   "kind": "words",
+   "find": "STUDIES FROM LIFE. <sc>by the author of</sc> “JOHN HALIFAX, <sc>gentleman</sc>.”",
+   "replace": "STUDIES FROM LIFE. <sc>by the author of “john halifax, gentleman.”</sc>",
+   "draft": "he author of</sc> “JOHN HALIFAX, <sc>gentleman</sc>.”",
+   "verified": "he author of “john halifax, gentleman.”</sc>",
+   "context": " burns brightly to the close.”—<i>Athenæum</i>. ⏎  ⏎ VOL. XXII. STUDIES FROM LIFE. <sc>by the author of</sc> “JOHN HALIFAX, <sc>gentleman</sc>.” ⏎  ⏎ “These ‘Studies from Life’ are remarkable for graphic powe"
+  },
+  {
+   "n": 7,
+   "kind": "words",
+   "find": "MISTRESS AND MAID. <sc>by the author of</sc> “JOHN <sc>halifax, gentleman</sc>.”",
+   "replace": "MISTRESS AND MAID. <sc>by the author of “john halifax, gentleman.”</sc>",
+   "draft": "he author of</sc> “JOHN <sc>halifax, gentleman</sc>.”",
+   "verified": "he author of “john halifax, gentleman.”</sc>",
+   "context": "k. It is well worth the study.”—<i>Athenæum</i> ⏎  ⏎ VOL. XXVI.—MISTRESS AND MAID. <sc>by the author of</sc> “JOHN <sc>halifax, gentleman</sc>.” ⏎  ⏎ “A good, wholesome book, gracefully written, and as pleasa"
+  }
+ ],
+ "p1324": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "from life can admit of no doubt.",
+   "replace": "from life can a lmit of no doubt.",
+   "draft": "m life can admit of no do",
+   "verified": "m life can a lmit of no do",
+   "context": "f our author. That very many of the characters are sketched from life can admit of no doubt. The dialogue is lively, and the ‘interiors’ are painted wit"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "SAVED. By THE H<sc>on</sc>. M<sc>rs</sc>.",
+   "replace": "SAVED. By T<sc>he</sc> H<sc>on</sc>. M<sc>rs</sc>.",
+   "draft": "SAVED. By THE H<sc>on</sc",
+   "verified": "SAVED. By T<sc>he</sc> H<sc>on</sc",
+   "context": "autifully and nobly conceived.”—<i>John Bull</i>. ⏎  ⏎ LOST AND SAVED. By THE H<sc>on</sc>. M<sc>rs</sc>. N<sc>orton</sc>. Fourth Edition. With a Letter from the Aut"
+  }
+ ]
+}

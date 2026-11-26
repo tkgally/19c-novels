@@ -1,0 +1,5 @@
+{"given": "momentary sensation of disappointmeut. But as she", "print": "momentary sensation of disappointment. But as she", "sure": "high"}
+{"given": "brought an additional rush blood to her cheeks,", "print": "brought an additional rush of blood to her cheeks,", "sure": "high"}
+{"given": "pleasure which feel nor very different from pain.", "print": "pleasure which feel not very different from pain.", "sure": "high"}
+{"given": "first quadrille, Miss Brown?” said edgar boldly,", "print": "first quadrille, Miss Brown?” said Edgar boldly,", "sure": "high"}
+{"given": "answered in a very low tone; and very", "print": "answered in a very low tone, and very", "sure": "high"}

@@ -1,0 +1,6 @@
+{"n": 1, "is": "neither", "print": "</sc>, &c., elegantl", "sure": "high"}
+{"n": 2, "is": "B", "print": "THE CROSS. <sc>by</sc> ELIOT", "sure": "high"}
+{"n": 3, "is": "A", "print": "BOUT WOMEN. <sc>by the author of “john halifax, gentleman.”</sc>", "sure": "high"}
+{"n": 4, "is": "A", "print": "F MOSSGRAY. <sc>by the author of “margaret maitland.”</sc>", "sure": "high"}
+{"n": 5, "is": "A", "print": "FOR A LIFE. <sc>by the author of “john halifax, gentleman.”</sc>", "sure": "high"}
+{"n": 6, "is": "A", "print": "d Sam Slick.’”—<i>Chronic", "sure": "high"}

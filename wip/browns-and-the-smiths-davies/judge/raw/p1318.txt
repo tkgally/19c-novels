@@ -1,0 +1,3 @@
+{"n": 1, "is": "B", "print": "completing “THE HISTORY <sc>of</sc> HENRY IV., King", "sure": "high"}
+{"n": 2, "is": "B", "print": "THIRTEEN YEARS’ SERVICE AMONGST THE WILD TRIBES OF KHONDISTAN, FOR THE SUPPRESSION OF HUMAN SACRIFICE. By", "sure": "high"}
+{"n": 3, "is": "B", "print": "ICTOR HUGO. THE AUTHORIZED COPYRIGHT ENGLISH TRANSLATION. T<sc>hird<", "sure": "high"}

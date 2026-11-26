@@ -1,0 +1,5 @@
+{"given": "have left Mr. Edgar smith and the boy", "print": "have left Mr. Edgar Smith and the boy", "sure": "high"}
+{"given": "their most critical pofition on the cliff.", "print": "their most critical position on the cliff.", "sure": "high"}
+{"given": "as commanded, loosened his grasp dropped with a", "print": "as commanded, loosened his grasp and dropped with a", "sure": "high"}
+{"given": "which I will nor call superhuman, since in", "print": "which I will not call superhuman, since in", "sure": "high"}
+{"given": "He was a fine; bold, but ragged little", "print": "He was a fine, bold, but ragged little", "sure": "high"}

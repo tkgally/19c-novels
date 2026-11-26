@@ -1,0 +1,3 @@
+{"n": 1, "is": "B", "print": "URCHES; or, THE PAPACY AND THE TEMPORAL POWER. By", "sure": "high"}
+{"n": 2, "is": "B", "print": "ARRATIVE OF TRAVEL, EXPLORATION, AND ADVENTURE. By", "sure": "high"}
+{"n": 3, "is": "neither", "print": "AMOOR, and the R<sc>ussian</sc> A<sc>cquisitions on the</sc> C<sc>onfines of</sc> I<sc>ndia and</sc> C<sc>hina</sc>. By", "sure": "high"}

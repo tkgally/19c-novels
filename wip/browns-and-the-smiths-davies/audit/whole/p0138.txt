@@ -1,0 +1,4 @@
+{"given": "self-satisfied simper. She bad been finished at", "print": "self-satisfied simper. She had been finished at", "sure": "high"}
+{"given": "returned to her native place; with her little", "print": "returned to her native place, with her little", "sure": "high"}
+{"given": "opinion which it gencrally delivered in a tone", "print": "opinion which it generally delivered in a tone", "sure": "high"}
+{"given": "far as regarded Miss westcote—but she", "print": "far as regarded Miss Westcote—but she", "sure": "high"}

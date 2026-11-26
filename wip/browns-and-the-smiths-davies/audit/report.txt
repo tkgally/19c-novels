@@ -1,0 +1,9 @@
+whole: found 28 of 30 planted errors (93%)
+    capital        4/4
+    dropped word   5/6
+    letter         6/6
+    modernized     2/2
+    punctuation    6/6
+    real word      5/6
+    other differences reported (candidates to check on the scan): 0
+pages: 6 (p0080, p0138, p0198, p1110, p1193, p1318); model gemini-pro

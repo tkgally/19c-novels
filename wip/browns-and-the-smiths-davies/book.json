@@ -29,18 +29,39 @@
  "source": {
   "ia_identifier": "brownssmithsintw01davi",
   "contributor": "University of Illinois Urbana-Champaign",
-  "hidden_leaves": [0, 323, 324, 325, 326, 327],
+  "hidden_leaves": [
+   0,
+   323,
+   324,
+   325,
+   326,
+   327
+  ],
   "items": [
    {
     "ia_identifier": "brownssmithsintw01davi",
     "first_leaf": "p0000",
-    "hidden_leaves": [0, 323, 324, 325, 326, 327],
+    "hidden_leaves": [
+     0,
+     323,
+     324,
+     325,
+     326,
+     327
+    ],
     "label": "Volume I"
    },
    {
     "ia_identifier": "brownssmithsintw02davi",
     "first_leaf": "p1000",
-    "hidden_leaves": [0, 327, 328, 329, 330, 331],
+    "hidden_leaves": [
+     0,
+     327,
+     328,
+     329,
+     330,
+     331
+    ],
     "label": "Volume II"
    }
   ]
@@ -56,6 +77,14 @@
    "note": "First publication."
   }
  ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-26",
+  "pages": 6,
+  "recall": "28/30",
+  "real_errors": 0,
+  "fixed": 0
+ },
  "divisions": [
   {
    "at": "p0005",
@@ -89,5 +118,8 @@
    "before": "p1007",
    "title": "Volume II"
   }
+ ],
+ "keep_hyphens": [
+  "p0014"
  ]
 }

@@ -1,0 +1,7 @@
+{"n": 1, "is": "A", "print": "OT WARBURTON,", "sure": "high"}
+{"n": 2, "is": "A", "print": "RISTOCRACY. <sc>by</sc> SIR B", "sure": "high"}
+{"n": 3, "is": "A", "print": "NORLAW. <sc>by the author of “mrs. margaret maitland.”</sc>", "sure": "high"}
+{"n": 4, "is": "B", "print": "he author of “john halifax, gentleman.”</sc>", "sure": "high"}
+{"n": 5, "is": "A", "print": "JEANT AT LAW,", "sure": "medium"}
+{"n": 6, "is": "A", "print": "he author of “john halifax, gentleman.”</sc>", "sure": "high"}
+{"n": 7, "is": "A", "print": "he author of “john halifax, gentleman.”</sc>", "sure": "high"}

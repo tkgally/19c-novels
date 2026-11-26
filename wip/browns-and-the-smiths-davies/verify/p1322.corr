@@ -1,0 +1,6 @@
+{"find": "T<sc>enniel</sc>, <sc>&amp;c., elegantly", "replace": "T<sc>enniel</sc>, <sc>&c., elegantly"}
+{"find": "THE CROSS. B<sc>y</sc> ELIOT", "replace": "THE CROSS. <sc>by</sc> ELIOT"}
+{"find": "ABOUT WOMEN. B<sc>y the</sc> A<sc>uthor of</sc> “JOHN HALIFAX, GENTLEMAN.”", "replace": "ABOUT WOMEN. <sc>by the author of “john halifax, gentleman.”</sc>"}
+{"find": "OF MOSSGRAY. B<sc>y the</sc> A<sc>uthor of</sc> “<sc>margaret maitland</sc>.”", "replace": "OF MOSSGRAY. <sc>by the author of “margaret maitland.”</sc>"}
+{"find": "FOR A LIFE. B<sc>y the</sc> A<sc>uthor of</sc> “JOHN HALIFAX, GENTLEMAN.”", "replace": "FOR A LIFE. <sc>by the author of “john halifax, gentleman.”</sc>"}
+{"find": "old friend Sam Slick.”—<i>Chronicle</i>.", "replace": "old friend Sam Slick.’”—<i>Chronicle</i>."}
