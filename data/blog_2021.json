@@ -1,0 +1,1198 @@
+{
+  "source": "https://blog.archive.org/2021/07/14/forgotten-novels-of-the-19th-century/",
+  "author": "Tom Gally",
+  "date": "2021-07-14",
+  "note": "Starting seed list of fifty 19th-century novels; each candidate must still pass all four project eligibility rules before queuing.",
+  "books": [
+    {
+      "n": 1,
+      "author": "Francis Adams",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Francis_Adams_(writer)",
+      "title": "John Webb’s End: Australian Bush Life",
+      "year": 1891,
+      "volumes": 1,
+      "ia_items": [
+        {
+          "label": "link",
+          "ia_identifier": "johnwebbsendaus00huntgoog",
+          "url": "https://archive.org/details/johnwebbsendaus00huntgoog"
+        }
+      ],
+      "raw": "Francis Adams, John Webb’s End: Australian Bush Life [link] (1891)"
+    },
+    {
+      "n": 2,
+      "author": "Fanny Aikin-Kortright",
+      "author_wikipedia": null,
+      "title": "Anne Sherwood: Or, The Social Institutions of England",
+      "year": 1857,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "annesherwoodorso01aiki",
+          "url": "https://archive.org/details/annesherwoodorso01aiki"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "annesherwoodorso02aiki",
+          "url": "https://archive.org/details/annesherwoodorso02aiki"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "annesherwoodorso03aiki",
+          "url": "https://archive.org/details/annesherwoodorso03aiki"
+        }
+      ],
+      "raw": "Fanny Aikin-Kortright, Anne Sherwood: Or, The Social Institutions of England [vol 1, vol 2, vol 3] (1857)"
+    },
+    {
+      "n": 3,
+      "author": "John Ainslie (ed.)",
+      "author_wikipedia": null,
+      "title": "Antipathy: Or, The Confessions of a Cat-hater",
+      "year": 1836,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "antipathyorconfe01ains",
+          "url": "https://archive.org/details/antipathyorconfe01ains"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "antipathyorconfe02ains",
+          "url": "https://archive.org/details/antipathyorconfe02ains"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "antipathyorconfe03ains",
+          "url": "https://archive.org/details/antipathyorconfe03ains"
+        }
+      ],
+      "raw": "John Ainslie (ed.), Antipathy: Or, The Confessions of a Cat-hater [vol 1, vol 2, vol 3] (1836)"
+    },
+    {
+      "n": 4,
+      "author": "W.W. Aldred",
+      "author_wikipedia": null,
+      "title": "A Lost Cause: A Story of the Last Rebellion in Poland",
+      "year": 1881,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "lostcausestoryof01aldr",
+          "url": "https://archive.org/details/lostcausestoryof01aldr"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "lostcausestoryof02aldr",
+          "url": "https://archive.org/details/lostcausestoryof02aldr"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "lostcausestoryof03aldr",
+          "url": "https://archive.org/details/lostcausestoryof03aldr"
+        }
+      ],
+      "raw": "W.W. Aldred, A Lost Cause: A Story of the Last Rebellion in Poland [vol 1, vol 2, vol 3] (1881)"
+    },
+    {
+      "n": 5,
+      "author": "Elizabeth M. Alford",
+      "author_wikipedia": null,
+      "title": "Netherton-on-Sea",
+      "year": 1869,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "nethertononseast01alfo",
+          "url": "https://archive.org/details/nethertononseast01alfo"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "nethertononseast02alfo",
+          "url": "https://archive.org/details/nethertononseast02alfo"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "nethertononseast03alfo",
+          "url": "https://archive.org/details/nethertononseast03alfo"
+        }
+      ],
+      "raw": "Elizabeth M. Alford, Netherton-on-Sea [vol 1, vol 2, vol 3] (1869)"
+    },
+    {
+      "n": 6,
+      "author": "Charlotte Anley",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Anley",
+      "title": "Earlswood: A Tale for the Times, and All Time",
+      "year": 1853,
+      "volumes": 1,
+      "ia_items": [
+        {
+          "label": "[link]",
+          "ia_identifier": "earlswoodatalef00anlegoog",
+          "url": "https://archive.org/details/earlswoodatalef00anlegoog"
+        }
+      ],
+      "raw": "Charlotte Anley, Earlswood: A Tale for the Times, and All Time [link] (1853)"
+    },
+    {
+      "n": 7,
+      "author": "Anonymous",
+      "author_wikipedia": null,
+      "title": "Uncle Tweazy and His Quizzical Neighbours: A Comi-satiric Novel",
+      "year": 1816,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "uncletweazyhisqu01obse",
+          "url": "https://archive.org/details/uncletweazyhisqu01obse"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "uncletweazyhisqu02obse",
+          "url": "https://archive.org/details/uncletweazyhisqu02obse"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "uncletweazyhisqu03obse",
+          "url": "https://archive.org/details/uncletweazyhisqu03obse"
+        }
+      ],
+      "raw": "Anonymous, Uncle Tweazy and His Quizzical Neighbours: A Comi-satiric Novel [vol 1, vol 2, vol 3] (1816)"
+    },
+    {
+      "n": 8,
+      "author": "William Delafield Arnold",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/William_Delafield_Arnold",
+      "title": "Oakfield: Or, Fellowship in the East",
+      "year": 1854,
+      "volumes": 2,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "oakfieldorfello03arnogoog",
+          "url": "https://archive.org/details/oakfieldorfello03arnogoog"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "oakfieldorfello04arnogoog",
+          "url": "https://archive.org/details/oakfieldorfello04arnogoog"
+        }
+      ],
+      "raw": "William Delafield Arnold, Oakfield: Or, Fellowship in the East [vol 1, vol 2] (1854)"
+    },
+    {
+      "n": 9,
+      "author": "Blanche Atkinson",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Blanche_Atkinson",
+      "title": "A Commonplace Girl",
+      "year": 1895,
+      "volumes": 1,
+      "ia_items": [
+        {
+          "label": "[link]",
+          "ia_identifier": "acommonplacegir00blangoog",
+          "url": "https://archive.org/details/acommonplacegir00blangoog"
+        }
+      ],
+      "raw": "Blanche Atkinson, A Commonplace Girl [link] (1895)"
+    },
+    {
+      "n": 10,
+      "author": "Isabella Banks",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Isabella_Banks",
+      "title": "Glory: A Wiltshire Story",
+      "year": 1881,
+      "volumes": 1,
+      "ia_items": [
+        {
+          "label": "[link]",
+          "ia_identifier": "glory00bankgoog",
+          "url": "https://archive.org/details/glory00bankgoog"
+        }
+      ],
+      "raw": "Isabella Banks, Glory: A Wiltshire Story [link] (1881)"
+    },
+    {
+      "n": 11,
+      "author": "Eaton Stannard Barrett",
+      "author_wikipedia": null,
+      "title": "The Metropolis",
+      "year": 1819,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "metropolisnovelb01barr",
+          "url": "https://archive.org/details/metropolisnovelb01barr"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "metropolisnovelb02barr",
+          "url": "https://archive.org/details/metropolisnovelb02barr"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "metropolisnovelb03barr",
+          "url": "https://archive.org/details/metropolisnovelb03barr"
+        }
+      ],
+      "raw": "Eaton Stannard Barrett, The Metropolis [vol 1, vol 2, vol 3] (1819)"
+    },
+    {
+      "n": 12,
+      "author": "Walter Besant",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Walter_Besant",
+      "title": "All in a Garden Fair: The Simple Story of Three Boys and a Girl",
+      "year": 1892,
+      "volumes": 1,
+      "ia_items": [
+        {
+          "label": "[link]",
+          "ia_identifier": "allingardenfairs00besauoft",
+          "url": "https://archive.org/details/allingardenfairs00besauoft"
+        }
+      ],
+      "raw": "Walter Besant, All in a Garden Fair: The Simple Story of Three Boys and a Girl [link] (1892)"
+    },
+    {
+      "n": 13,
+      "author": "Matilda Betham-Edwards",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Matilda_Betham-Edwards",
+      "title": "John and I",
+      "year": 1862,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "johni01beth",
+          "url": "https://archive.org/details/johni01beth"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "johni02beth",
+          "url": "https://archive.org/details/johni02beth"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "johni03beth",
+          "url": "https://archive.org/details/johni03beth"
+        }
+      ],
+      "raw": "Matilda Betham-Edwards, John and I [vol 1, vol 2, vol 3] (1862)"
+    },
+    {
+      "n": 14,
+      "author": "Clementina Black",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Clementina_Black",
+      "title": "The Pursuit of Camilla",
+      "year": 1899,
+      "volumes": 1,
+      "ia_items": [
+        {
+          "label": "[link]",
+          "ia_identifier": "pursuitcamillab00blacgoog",
+          "url": "https://archive.org/details/pursuitcamillab00blacgoog"
+        }
+      ],
+      "raw": "Clementina Black, The Pursuit of Camilla [link] (1899)"
+    },
+    {
+      "n": 15,
+      "author": "Robert Black",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Robert_Black_(author)",
+      "title": "Love or Lucre",
+      "year": 1879,
+      "volumes": 1,
+      "ia_items": [
+        {
+          "label": "[link]",
+          "ia_identifier": "loveorlucre03blacgoog",
+          "url": "https://archive.org/details/loveorlucre03blacgoog"
+        }
+      ],
+      "raw": "Robert Black, Love or Lucre [link] (1879)"
+    },
+    {
+      "n": 16,
+      "author": "Shirley Brooks",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Shirley_Brooks",
+      "title": "The Silver Cord",
+      "year": 1861,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "silvercordstory01broo",
+          "url": "https://archive.org/details/silvercordstory01broo"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "silvercordstory02broo",
+          "url": "https://archive.org/details/silvercordstory02broo"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "silvercordstory03broo",
+          "url": "https://archive.org/details/silvercordstory03broo"
+        }
+      ],
+      "raw": "Shirley Brooks, The Silver Cord [vol 1, vol 2, vol 3] (1861)"
+    },
+    {
+      "n": 17,
+      "author": "Rosa Nouchette Carey",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Rosa_Nouchette_Carey",
+      "title": "The Mistress of Brae Farm",
+      "year": 1899,
+      "volumes": 1,
+      "ia_items": [
+        {
+          "label": "[link]",
+          "ia_identifier": "mistressofbraefa00care",
+          "url": "https://archive.org/details/mistressofbraefa00care"
+        }
+      ],
+      "raw": "Rosa Nouchette Carey, The Mistress of Brae Farm [link] (1899)"
+    },
+    {
+      "n": 18,
+      "author": "Henry Cockton",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Henry_Cockton",
+      "title": "Stanley Thorn",
+      "year": 1841,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "stanleythorn01cock",
+          "url": "https://archive.org/details/stanleythorn01cock"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "stanleythorn02cock",
+          "url": "https://archive.org/details/stanleythorn02cock"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "stanleythorn03cock",
+          "url": "https://archive.org/details/stanleythorn03cock"
+        }
+      ],
+      "raw": "Henry Cockton, Stanley Thorn [vol 1, vol 2, vol 3] (1841)"
+    },
+    {
+      "n": 19,
+      "author": "Christabel Rose Coleridge",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Christabel_Rose_Coleridge",
+      "title": "Kingsworth: Or, The Aim of a Life",
+      "year": 1882,
+      "volumes": 1,
+      "ia_items": [
+        {
+          "label": "[link]",
+          "ia_identifier": "kingsworthoraim00colegoog",
+          "url": "https://archive.org/details/kingsworthoraim00colegoog"
+        }
+      ],
+      "raw": "Christabel Rose Coleridge, Kingsworth: Or, The Aim of a Life [link] (1882)"
+    },
+    {
+      "n": 20,
+      "author": "Mortimer Collins",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Mortimer_Collins",
+      "title": "Marquis and Merchant",
+      "year": 1868,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "marquismerchant01coll",
+          "url": "https://archive.org/details/marquismerchant01coll"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "marquismerchant02coll",
+          "url": "https://archive.org/details/marquismerchant02coll"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "marquismerchant03coll",
+          "url": "https://archive.org/details/marquismerchant03coll"
+        }
+      ],
+      "raw": "Mortimer Collins, Marquis and Merchant [vol 1, vol 2, vol 3] (1868)"
+    },
+    {
+      "n": 21,
+      "author": "Christiana Jane Davies",
+      "author_wikipedia": null,
+      "title": "The Browns and the Smiths",
+      "year": 1863,
+      "volumes": 2,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "brownssmithsintw01davi",
+          "url": "https://archive.org/details/brownssmithsintw01davi"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "brownssmithsintw02davi",
+          "url": "https://archive.org/details/brownssmithsintw02davi"
+        }
+      ],
+      "raw": "Christiana Jane Davies, The Browns and the Smiths [vol 1, vol 2] (1863)"
+    },
+    {
+      "n": 22,
+      "author": "Pierce Egan",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Pierce_Egan",
+      "title": "The Pilgrims of the Thames, in Search of the National!",
+      "year": 1838,
+      "volumes": 1,
+      "ia_items": [
+        {
+          "label": "link",
+          "ia_identifier": "pilgrimsofthames00eganrich",
+          "url": "https://archive.org/details/pilgrimsofthames00eganrich"
+        }
+      ],
+      "raw": "Pierce Egan, The Pilgrims of the Thames, in Search of the National! [link] (1838)"
+    },
+    {
+      "n": 23,
+      "author": "Henry Erroll",
+      "author_wikipedia": null,
+      "title": "The Academician",
+      "year": 1888,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "academician01erro",
+          "url": "https://archive.org/details/academician01erro"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "academician02erro",
+          "url": "https://archive.org/details/academician02erro"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "academician03erro",
+          "url": "https://archive.org/details/academician03erro"
+        }
+      ],
+      "raw": "Henry Erroll, The Academician [vol 1, vol 2, vol 3] (1888)"
+    },
+    {
+      "n": 24,
+      "author": "Percy Hetherington Fitzgerald",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Percy_Hetherington_Fitzgerald",
+      "title": "The Middle-Aged Lover",
+      "year": 1873,
+      "volumes": 2,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "middleagedlovers01fitz",
+          "url": "https://archive.org/details/middleagedlovers01fitz"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "middleagedlovers02fitz",
+          "url": "https://archive.org/details/middleagedlovers02fitz"
+        }
+      ],
+      "raw": "Percy Hetherington Fitzgerald, The Middle-Aged Lover [vol 1, vol 2] (1873)"
+    },
+    {
+      "n": 25,
+      "author": "Maria M. Grant",
+      "author_wikipedia": null,
+      "title": "Lescar, the Universalist",
+      "year": 1874,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "lescaruniversali01gran",
+          "url": "https://archive.org/details/lescaruniversali01gran"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "lescaruniversali02gran",
+          "url": "https://archive.org/details/lescaruniversali02gran"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "lescaruniversali03gran",
+          "url": "https://archive.org/details/lescaruniversali03gran"
+        }
+      ],
+      "raw": "Maria M. Grant, Lescar, the Universalist [vol 1, vol 2, vol 3] (1874)"
+    },
+    {
+      "n": 26,
+      "author": "Barbara Hofland",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Barbara_Hofland",
+      "title": "Says She to Her Neighbour, What?",
+      "year": 1812,
+      "volumes": 4,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "saysshetoherneig01hofl",
+          "url": "https://archive.org/details/saysshetoherneig01hofl"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "saysshetoherneig02hofl",
+          "url": "https://archive.org/details/saysshetoherneig02hofl"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "saysshetoherneig03hofl",
+          "url": "https://archive.org/details/saysshetoherneig03hofl"
+        },
+        {
+          "label": "vol 4",
+          "ia_identifier": "saysshetoherneig04hofl",
+          "url": "https://archive.org/details/saysshetoherneig04hofl"
+        }
+      ],
+      "raw": "Barbara Hofland, Says She to Her Neighbour, What? [vol 1, vol 2, vol 3, vol 4] (1812)"
+    },
+    {
+      "n": 27,
+      "author": "John Isabell",
+      "author_wikipedia": null,
+      "title": "By the Cornish Sea",
+      "year": 1885,
+      "volumes": 2,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "bycornishsea01isab",
+          "url": "https://archive.org/details/bycornishsea01isab"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "bycornishsea02isab",
+          "url": "https://archive.org/details/bycornishsea02isab"
+        }
+      ],
+      "raw": "John Isabell, By the Cornish Sea [vol 1, vol 2] (1885)"
+    },
+    {
+      "n": 28,
+      "author": "Kitty Lee [Katharine] Jenner",
+      "author_wikipedia": null,
+      "title": "In London Town",
+      "year": 1884,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "inlondontownnove01jenn",
+          "url": "https://archive.org/details/inlondontownnove01jenn"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "inlondontownnove02jenn",
+          "url": "https://archive.org/details/inlondontownnove02jenn"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "inlondontownnove03jenn",
+          "url": "https://archive.org/details/inlondontownnove03jenn"
+        }
+      ],
+      "raw": "Kitty Lee [Katharine] Jenner, In London Town [vol 1, vol 2, vol 3] (1884)"
+    },
+    {
+      "n": 29,
+      "author": "Theo Kennedy",
+      "author_wikipedia": null,
+      "title": "Farnorth",
+      "year": 1866,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "farnorth01kenn",
+          "url": "https://archive.org/details/farnorth01kenn"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "farnorth02kenn",
+          "url": "https://archive.org/details/farnorth02kenn"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "farnorth03kenn",
+          "url": "https://archive.org/details/farnorth03kenn"
+        }
+      ],
+      "raw": "Theo Kennedy, Farnorth [vol 1, vol 2, vol 3] (1866)"
+    },
+    {
+      "n": 30,
+      "author": "William Henry Giles Kingston",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Giles_Kingston",
+      "title": "The Circassian Chief: A Romance of Russia",
+      "year": 1843,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "circassianchiefr01king",
+          "url": "https://archive.org/details/circassianchiefr01king"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "circassianchiefr02king",
+          "url": "https://archive.org/details/circassianchiefr02king"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "circassianchiefr03king",
+          "url": "https://archive.org/details/circassianchiefr03king"
+        }
+      ],
+      "raw": "William Henry Giles Kingston, The Circassian Chief: A Romance of Russia [vol 1, vol 2, vol 3] (1843)"
+    },
+    {
+      "n": 31,
+      "author": "Susan Rowley Richmond Lee (pseudonym: Curtis Yorke)",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Curtis_Yorke",
+      "title": "A Romance of Modern London",
+      "year": 1892,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "romanceofmodernl01york",
+          "url": "https://archive.org/details/romanceofmodernl01york"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "romanceofmodernl03york",
+          "url": "https://archive.org/details/romanceofmodernl03york"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "romanceofmodernl02york",
+          "url": "https://archive.org/details/romanceofmodernl02york"
+        }
+      ],
+      "raw": "Susan Rowley Richmond Lee (pseudonym: Curtis Yorke), A Romance of Modern London [vol 1, vol 2, vol 3] (1892)"
+    },
+    {
+      "n": 32,
+      "author": "Alethea Lewis (pseudonym: Eugenia de Acton)",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Alethea_Lewis",
+      "title": "The Microcosm",
+      "year": 1801,
+      "volumes": 5,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "microcosm01acto",
+          "url": "https://archive.org/details/microcosm01acto"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "microcosm02acto",
+          "url": "https://archive.org/details/microcosm02acto"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "microcosm03acto",
+          "url": "https://archive.org/details/microcosm03acto"
+        },
+        {
+          "label": "vol 4",
+          "ia_identifier": "microcosm04acto",
+          "url": "https://archive.org/details/microcosm04acto"
+        },
+        {
+          "label": "vol 5",
+          "ia_identifier": "microcosm05acto",
+          "url": "https://archive.org/details/microcosm05acto"
+        }
+      ],
+      "raw": "Alethea Lewis (pseudonym: Eugenia de Acton), The Microcosm [vol 1, vol 2, vol 3, vol 4, vol 5] (1801)"
+    },
+    {
+      "n": 33,
+      "author": "Charlotte Trimmer Moore",
+      "author_wikipedia": null,
+      "title": "Country Houses",
+      "year": 1832,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "countryhouses01moor",
+          "url": "https://archive.org/details/countryhouses01moor"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "countryhouses02moor",
+          "url": "https://archive.org/details/countryhouses02moor"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "countryhouses03moor",
+          "url": "https://archive.org/details/countryhouses03moor"
+        }
+      ],
+      "raw": "Charlotte Trimmer Moore, Country Houses [vol 1, vol 2, vol 3] (1832)"
+    },
+    {
+      "n": 34,
+      "author": "Samuel Phillips",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Samuel_Phillips_(journalist)",
+      "title": "Caleb Stukely",
+      "year": 1844,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "calebstukely01phil",
+          "url": "https://archive.org/details/calebstukely01phil"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "calebstukely02phil",
+          "url": "https://archive.org/details/calebstukely02phil"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "calebstukely03phil",
+          "url": "https://archive.org/details/calebstukely03phil"
+        }
+      ],
+      "raw": "Samuel Phillips, Caleb Stukely [vol 1, vol 2, vol 3] (1844)"
+    },
+    {
+      "n": 35,
+      "author": "Sophia Reeve",
+      "author_wikipedia": null,
+      "title": "The Mysterious Wanderer",
+      "year": 1807,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "mysteriouswander01reev",
+          "url": "https://archive.org/details/mysteriouswander01reev"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "mysteriouswander02reev",
+          "url": "https://archive.org/details/mysteriouswander02reev"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "mysteriouswander03reev",
+          "url": "https://archive.org/details/mysteriouswander03reev"
+        }
+      ],
+      "raw": "Sophia Reeve, The Mysterious Wanderer [vol 1, vol 2, vol 3] (1807)"
+    },
+    {
+      "n": 36,
+      "author": "Rita",
+      "author_wikipedia": null,
+      "title": "“Corinna”: A Study",
+      "year": 1800,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "corinnastudy01rita",
+          "url": "https://archive.org/details/corinnastudy01rita"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "corinnastudy02rita",
+          "url": "https://archive.org/details/corinnastudy02rita"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "corinnastudy03rita",
+          "url": "https://archive.org/details/corinnastudy03rita"
+        }
+      ],
+      "raw": "Rita, “Corinna”: A Study [vol 1, vol 2, vol 3] (1800)"
+    },
+    {
+      "n": 37,
+      "author": "Joseph Moyle Sherer",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Moyle_Sherer",
+      "title": "The Story of a Life",
+      "year": 1825,
+      "volumes": 2,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "storyoflife01sher",
+          "url": "https://archive.org/details/storyoflife01sher"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "storyoflife02sher",
+          "url": "https://archive.org/details/storyoflife02sher"
+        }
+      ],
+      "raw": "Joseph Moyle Sherer, The Story of a Life [vol 1, vol 2] (1825)"
+    },
+    {
+      "n": 38,
+      "author": "Catherine Sinclair",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Catherine_Sinclair",
+      "title": "Modern Flirtations: Or, A Month at Harrowgate",
+      "year": 1841,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "modernflirtation01sinc",
+          "url": "https://archive.org/details/modernflirtation01sinc"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "modernflirtation02sinc",
+          "url": "https://archive.org/details/modernflirtation02sinc"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "modernflirtation03sinc",
+          "url": "https://archive.org/details/modernflirtation03sinc"
+        }
+      ],
+      "raw": "Catherine Sinclair, Modern Flirtations: Or, A Month at Harrowgate [vol 1, vol 2, vol 3] (1841)"
+    },
+    {
+      "n": 39,
+      "author": "Eliza Tabor",
+      "author_wikipedia": null,
+      "title": "Dimplethorpe",
+      "year": 1880,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "dimplethorpe01tabo",
+          "url": "https://archive.org/details/dimplethorpe01tabo"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "dimplethorpe02tabo",
+          "url": "https://archive.org/details/dimplethorpe02tabo"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "dimplethorpe03tabo",
+          "url": "https://archive.org/details/dimplethorpe03tabo"
+        }
+      ],
+      "raw": "Eliza Tabor, Dimplethorpe [vol 1, vol 2, vol 3] (1880)"
+    },
+    {
+      "n": 40,
+      "author": "Floyd Tayleure",
+      "author_wikipedia": null,
+      "title": "Professions",
+      "year": 1852,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "professionsnovel01tayl",
+          "url": "https://archive.org/details/professionsnovel01tayl"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "professionsnovel02tayl",
+          "url": "https://archive.org/details/professionsnovel02tayl"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "professionsnovel03tayl",
+          "url": "https://archive.org/details/professionsnovel03tayl"
+        }
+      ],
+      "raw": "Floyd Tayleure, Professions [vol 1, vol 2, vol 3] (1852)"
+    },
+    {
+      "n": 41,
+      "author": "Katherine Thomson",
+      "author_wikipedia": null,
+      "title": "Constance",
+      "year": 1833,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "constancenovel01thom",
+          "url": "https://archive.org/details/constancenovel01thom"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "constancenovel02thom",
+          "url": "https://archive.org/details/constancenovel02thom"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "constancenovel03thom",
+          "url": "https://archive.org/details/constancenovel03thom"
+        }
+      ],
+      "raw": "Katherine Thomson, Constance [vol 1, vol 2, vol 3] (1833)"
+    },
+    {
+      "n": 42,
+      "author": "Ursula",
+      "author_wikipedia": null,
+      "title": "Mrs. Greville: The Story of a Woman’s Life",
+      "year": 1874,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "mrsgrevillestory01ursu",
+          "url": "https://archive.org/details/mrsgrevillestory01ursu"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "mrsgrevillestory02ursu",
+          "url": "https://archive.org/details/mrsgrevillestory02ursu"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "mrsgrevillestory03ursu",
+          "url": "https://archive.org/details/mrsgrevillestory03ursu"
+        }
+      ],
+      "raw": "Ursula, Mrs. Greville: The Story of a Woman’s Life [vol 1, vol 2, vol 3] (1874)"
+    },
+    {
+      "n": 43,
+      "author": "Harold Vallings",
+      "author_wikipedia": null,
+      "title": "The Transgression of Terence Clancy",
+      "year": 1893,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "transgressionoft02vall",
+          "url": "https://archive.org/details/transgressionoft02vall"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "transgressionoft01vall",
+          "url": "https://archive.org/details/transgressionoft01vall"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "transgressionoft03vall",
+          "url": "https://archive.org/details/transgressionoft03vall"
+        }
+      ],
+      "raw": "Harold Vallings, The Transgression of Terence Clancy [vol 1, vol 2, vol 3] (1893)"
+    },
+    {
+      "n": 44,
+      "author": "Susannah C. Venn",
+      "author_wikipedia": null,
+      "title": "The Dailys of Sodden Fen",
+      "year": 1884,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "dailysofsoddenfe01venn",
+          "url": "https://archive.org/details/dailysofsoddenfe01venn"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "dailysofsoddenfe02venn",
+          "url": "https://archive.org/details/dailysofsoddenfe02venn"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "dailysofsoddenfe03venn",
+          "url": "https://archive.org/details/dailysofsoddenfe03venn"
+        }
+      ],
+      "raw": "Susannah C. Venn, The Dailys of Sodden Fen [vol 1, vol 2, vol 3] (1884)"
+    },
+    {
+      "n": 45,
+      "author": "Lucy Bethia Walford",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Lucy_Bethia_Walford",
+      "title": "A Stiff-Necked Generation",
+      "year": 1889,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "stiffneckedgener01walf",
+          "url": "https://archive.org/details/stiffneckedgener01walf"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "stiffneckedgener02walf",
+          "url": "https://archive.org/details/stiffneckedgener02walf"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "stiffneckedgener03walf",
+          "url": "https://archive.org/details/stiffneckedgener03walf"
+        }
+      ],
+      "raw": "Lucy Bethia Walford, A Stiff-Necked Generation [vol 1, vol 2, vol 3] (1889)"
+    },
+    {
+      "n": 46,
+      "author": "Eliot Warburton",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Elliot_Warburton",
+      "title": "Reginald Hastings: Or, A Tale of the Troubles in 164–",
+      "year": 1850,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "reginaldhastings01warb",
+          "url": "https://archive.org/details/reginaldhastings01warb"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "reginaldhastings02warb",
+          "url": "https://archive.org/details/reginaldhastings02warb"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "reginaldhastings03warb",
+          "url": "https://archive.org/details/reginaldhastings03warb"
+        }
+      ],
+      "raw": "Eliot Warburton, Reginald Hastings: Or, A Tale of the Troubles in 164– [vol 1, vol 2, vol 3] (1850)"
+    },
+    {
+      "n": 47,
+      "author": "Robert Plumer Ward",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Robert_Plumer_Ward",
+      "title": "Tremaine: Or, The Man of Refinement",
+      "year": 1825,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "tremaineormanofr01war",
+          "url": "https://archive.org/details/tremaineormanofr01war"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "tremaineormanofr02ward",
+          "url": "https://archive.org/details/tremaineormanofr02ward"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "tremaineormanofr03ward",
+          "url": "https://archive.org/details/tremaineormanofr03ward"
+        }
+      ],
+      "raw": "Robert Plumer Ward, Tremaine: Or, The Man of Refinement [vol 1, vol 2, vol 3] (1825)"
+    },
+    {
+      "n": 48,
+      "author": "Joseph Blanco White",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Joseph_Blanco_White",
+      "title": "Vargas: A Tale of Spain",
+      "year": 1822,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "vargastaleofspai01whit",
+          "url": "https://archive.org/details/vargastaleofspai01whit"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "vargastaleofspai02whi",
+          "url": "https://archive.org/details/vargastaleofspai02whi"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "vargastaleofspai03whi",
+          "url": "https://archive.org/details/vargastaleofspai03whi"
+        }
+      ],
+      "raw": "Joseph Blanco White, Vargas: A Tale of Spain [vol 1, vol 2, vol 3] (1822)"
+    },
+    {
+      "n": 49,
+      "author": "Edmund Yates",
+      "author_wikipedia": "https://en.wikipedia.org/wiki/Edmund_Yates",
+      "title": "Castaway",
+      "year": 1872,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "castawaynovel01yate",
+          "url": "https://archive.org/details/castawaynovel01yate"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "castawaynovel02yate",
+          "url": "https://archive.org/details/castawaynovel02yate"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "castawaynovel03yate",
+          "url": "https://archive.org/details/castawaynovel03yate"
+        }
+      ],
+      "raw": "Edmund Yates, Castaway [vol 1, vol 2, vol 3] (1872)"
+    },
+    {
+      "n": 50,
+      "author": "Mary Julia Young",
+      "author_wikipedia": null,
+      "title": "A Summer at Brighton: A Modern Novel",
+      "year": 1807,
+      "volumes": 3,
+      "ia_items": [
+        {
+          "label": "vol 1",
+          "ia_identifier": "summeratbrighton01youn",
+          "url": "https://archive.org/details/summeratbrighton01youn"
+        },
+        {
+          "label": "vol 2",
+          "ia_identifier": "summeratbrighton02youn",
+          "url": "https://archive.org/details/summeratbrighton02youn"
+        },
+        {
+          "label": "vol 3",
+          "ia_identifier": "summeratbrighton03youn",
+          "url": "https://archive.org/details/summeratbrighton03youn"
+        }
+      ],
+      "raw": "Mary Julia Young, A Summer at Brighton: A Modern Novel [vol 1, vol 2, vol 3] (1807)"
+    }
+  ]
+}
