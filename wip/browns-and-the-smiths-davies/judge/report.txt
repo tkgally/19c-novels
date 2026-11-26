@@ -1,6 +1,0 @@
-judge gemini-pro: 31 spots on 14 pages: {'verified': 28, 'neither': 2, 'draft': 1}
-p0102 #1 [verified, sure: low] draft 'very ladylike, not to' | verified 'very lady-like, not to' | judge reads 'very lady-like, not to'
-p1320 #3 [neither, sure: high] draft 'AMOOR, <sc>and the russian acquisitions on the confines of india and china</sc>. By' | verified 'AMOOR, and the RUSSIAN ACQUISITIONS ON THE CONFINES OF INDIA AND CHINA. By' | judge reads 'AMOOR, and the R<sc>ussian</sc> A<sc>cquisitions on the</sc> C<sc>onfines of</sc> I<sc>ndia and</sc> C<sc>hina</sc>. By'
-p1321 #1 [draft, sure: high] draft '[[center]] THE <sc>thirty-secon' | verified '[[center]] T<sc>he thirty-secon' | judge reads '[[center]] THE <sc>thirty-secon'
-p1322 #1 [neither, sure: high] draft '</sc>, <sc>&amp;c., elegantl' | verified '</sc>, <sc>&c., elegantl' | judge reads '</sc>, &c., elegantl'
-p1323 #5 [verified, sure: medium] draft 'JEANT AT LAW.' | verified 'JEANT AT LAW,' | judge reads 'JEANT AT LAW,'

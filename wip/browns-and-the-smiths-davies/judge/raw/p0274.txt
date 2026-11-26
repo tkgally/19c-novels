@@ -1,2 +1,0 @@
-{"n": 1, "is": "B", "print": "only said——”", "sure": "high"}
-{"n": 2, "is": "A", "print": "will only——”", "sure": "high"}

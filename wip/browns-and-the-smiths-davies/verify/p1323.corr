@@ -1,7 +1,0 @@
-{"find": "DARIEN. BY ELIOT WARBURTON.", "replace": "DARIEN. BY ELIOT WARBURTON,"}
-{"find": "ARISTOCRACY. B<sc>y</sc> SIR BERNARD BURKE.", "replace": "ARISTOCRACY. <sc>by</sc> SIR BERNARD BURKE."}
-{"find": "NORLAW. B<sc>y the</sc> A<sc>uthor of</sc> “<sc>mrs. margaret maitland</sc>.”", "replace": "NORLAW. <sc>by the author of “mrs. margaret maitland.”</sc>"}
-{"find": "NOTHING NEW. <sc>by the author of</sc> “JOHN HALIFAX, <sc>gentleman</sc>.”", "replace": "NOTHING NEW. <sc>by the author of “john halifax, gentleman.”</sc>"}
-{"find": "PETER BURKE, SERJEANT AT LAW.", "replace": "PETER BURKE, SERJEANT AT LAW,"}
-{"find": "STUDIES FROM LIFE. <sc>by the author of</sc> “JOHN HALIFAX, <sc>gentleman</sc>.”", "replace": "STUDIES FROM LIFE. <sc>by the author of “john halifax, gentleman.”</sc>"}
-{"find": "MISTRESS AND MAID. <sc>by the author of</sc> “JOHN <sc>halifax, gentleman</sc>.”", "replace": "MISTRESS AND MAID. <sc>by the author of “john halifax, gentleman.”</sc>"}

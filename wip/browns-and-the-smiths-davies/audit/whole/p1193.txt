@@ -1,5 +1,0 @@
-{"given": "sensibility to the charms moonlight and mountains.", "print": "sensibility to the charms of moonlight and mountains.", "sure": "high"}
-{"given": "every good quality unitcd in the same person,", "print": "every good quality united in the same person,", "sure": "high"}
-{"given": "secret of happiness, then Destiny has condemned us", "print": "secret of happiness, when Destiny has condemned us", "sure": "high"}
-{"given": "peopled by Browns aud smiths, and people with", "print": "peopled by Browns aud Smiths, and people with", "sure": "high"}
-{"given": "ordinary characteristics of humanity; is to take them", "print": "ordinary characteristics of humanity, is to take them", "sure": "high"}

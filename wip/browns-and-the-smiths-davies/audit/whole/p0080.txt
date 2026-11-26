@@ -1,5 +1,0 @@
-{"given": "making a sling of this handkerchief, he placed", "print": "making a sling of his handkerchief, he placed", "sure": "high"}
-{"given": "was very kind, and spite of her late", "print": "was very kind, and in spite of her late", "sure": "high"}
-{"given": "reader has often said; and often heard, and", "print": "reader has often said, and often heard, and", "sure": "high"}
-{"given": "little to his surprize and chagrin.", "print": "little to his surprise and chagrin.", "sure": "high"}
-{"given": "is either sweet and bittcr at", "print": "is either sweet and bitter at", "sure": "high"}

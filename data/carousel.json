@@ -1,3 +1,10 @@
 {
- "books": {}
+ "books": {
+  "browns-and-the-smiths-davies": {
+   "image": "title page",
+   "width": 270,
+   "height": 450,
+   "sha256": "88779c8db7d869172034b7b9013f6683d15b5aed5076dcc6bc7333fc4f7b614d"
+  }
+ }
 }

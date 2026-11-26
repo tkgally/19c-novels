@@ -33,7 +33,7 @@ Run `python3 tools/session_meter.py` after every finished stage or novel:
 | no transcript meter found | at most two ordinary single-volume novels or one multi-volume novel completed, then close |
 
 To spare main-session context:
-- Delegate all page drafting (`Model: "pro"`), second-pass verification (`Model: "flash"`), blind judging (`Model: "pro"`), batch crop inspection (`Model: "pro"`), blind auditing (`Model: "pro"`), and candidate vetting (`Model: "pro"`) to subagents via `invoke_subagent`.
+- Delegate all page drafting (`Model: "pro"`), second-pass verification (`Model: "flash"`), blind judging (`Model: "pro"`), batch crop inspection (`Model: "pro"`), blind auditing (`Model: "pro"`), and candidate vetting (`Model: "pro"`) to subagents via `invoke_subagent`. Judge and audit subagents must use `view_file` and `write_to_file` only (`NEVER call run_command`).
 - Never print whole page files or long logs into the main conversation; redirect command output to scratch files when long and inspect summaries.
 
 ## 4. Checkpoints and quality discipline

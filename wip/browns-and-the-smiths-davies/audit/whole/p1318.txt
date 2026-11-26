@@ -1,4 +1,0 @@
-{"given": "consist in the conception it as a whole,", "print": "consist in the conception of it as a whole,", "sure": "high"}
-{"given": "rare works which have a stroug personal interest", "print": "rare works which have a strong personal interest", "sure": "high"}
-{"given": "he has the faculty; which hardly any other", "print": "he has the faculty, which hardly any other", "sure": "high"}
-{"given": "its perfect purity. Anyone who reads the Bible", "print": "its perfect purity. Any one who reads the Bible", "sure": "high"}

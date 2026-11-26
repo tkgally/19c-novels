@@ -22,9 +22,11 @@
    "period": "Mid-19th century",
    "from": "blog_2021",
    "blog_2021": 21,
-   "status": "in progress",
+   "status": "published",
    "eligibility": "Checked 2026-11-26: original English novel published in 1863 (London: Hurst and Blackett, 2 vols., first ed.). Complete, crisp 500 ppi UIUC scans on Internet Archive (brownssmithsintw01davi: 326 images, pp. [1]–311; brownssmithsintw02davi: 332 images, pp. [1]–309 plus publisher ads; zero pagination gaps in scandata, _jp2.zip present for both). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource (Author:Christiana_Jane_Douglas lists it unlinked), Faded Page, A Celebration of Women Writers, VWWP, or Penn Online Books Page. Open Library and web search (incl. title/author and post-1914 reprint publishers) show no post-1914 print edition or free digital reading text. Christiana Jane Davies (née Douglas, 1822–1887) died >70 years ago (Rule 5 met).",
-   "started": "2026-11-26"
+   "started": "2026-11-26",
+   "version": 1,
+   "published": "2026-11-26"
   },
   {
    "slug": "by-the-cornish-sea-isabell",

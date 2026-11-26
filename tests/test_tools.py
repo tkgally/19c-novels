@@ -168,7 +168,7 @@ class SampleBookAndPreflight(unittest.TestCase):
 class SiteAndReleases(unittest.TestCase):
     def test_site_build_and_lists(self):
         with tempfile.TemporaryDirectory() as tmp:
-            subprocess.run([sys.executable, os.path.join(REPO, "tools", "build_site.py"), "--out", tmp, "--bookdir", SAMPLE],
+            subprocess.run([sys.executable, os.path.join(REPO, "tools", "build_site.py"), "--out", tmp, "--bookdir", SAMPLE, "--only", "sample"],
                            check=True, capture_output=True, text=True)
             idx = open(os.path.join(tmp, "index.html"), encoding="utf-8").read()
             self.assertIn("Forgotten Novels", idx)
