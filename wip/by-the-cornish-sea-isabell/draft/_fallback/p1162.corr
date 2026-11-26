@@ -1,0 +1,4 @@
+{"find": "[[page ?]]\n\n154 BY THE CORNISH SEA.\n\nSt. Cyrus", "replace": "[[page 154]]\n\n[[cont]] St. Cyrus"}
+{"find": "*« This is a putty business,”", "replace": "“This is a putty business,”"}
+{"find": "up inthe thatch", "replace": "up in the thatch"}
+{"find": "ef you put\n\n99:9\n\nyour money into a stockin’.", "replace": "ef you put your money into a stockin’.”"}

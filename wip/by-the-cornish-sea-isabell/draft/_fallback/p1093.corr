@@ -1,0 +1,6 @@
+{"find": "[[page ?]]\n\nTHE AMOROUS ANTIQUARY. 85\n\nhad very little", "replace": "[[page 85]]\n\n[[cont]]had very little"}
+{"find": "“T don’t know about that,’ answered", "replace": "“I don’t know about that,” answered"}
+{"find": "* You can’t have helped", "replace": "“You can’t have helped"}
+{"find": "“T assure you", "replace": "“I assure you"}
+{"find": "*“T more than like you,” continued Mr. Burlington, ‘I feel that", "replace": "“I more than like you,” continued Mr. Burlington, “I feel that"}
+{"find": "“Oh, please sir, you must not talk\n\nlike that,” exclaimed Jenifer; “you area", "replace": "“Oh, please sir, you must not talk like that,” exclaimed Jenifer; “you are a"}

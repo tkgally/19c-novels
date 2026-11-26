@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\n86 BY THE CORNISH SEA,\n\ngentleman", "replace": "[[page 86]]\n\n[[cont]]gentleman"}
+{"find": "expression of my love for you, it must come: out.", "replace": "expression of my love for you, it must come out."}
+{"find": "‘Please don’t talk like this,” said Jenifer, ‘‘or I shall not go on.”", "replace": "“Please don’t talk like this,” said Jenifer, “or I shall not go on.”"}
+{"find": "what if I amin a different social position? JI am rich enough", "replace": "what if I am in a different social position? I am rich enough"}
+{"find": "**Love you!”’ exclaimed Jenifer, an-\n\ngrily extricating her hand from his tight", "replace": "“Love you!” exclaimed Jenifer, angrily extricating her hand from his tight"}

@@ -1,0 +1,6 @@
+{"find": "[[page ?]]\n\n32 BY THE CORNISH SEA.\n\nVery like", "replace": "[[page 32]]\n\n“Very like"}
+{"find": "‘But what I was going", "replace": "“But what I was going"}
+{"find": "Mr. Burlington. *“Your uncle", "replace": "Mr. Burlington. “Your uncle"}
+{"find": "‘Yes, sir, dead as", "replace": "“Yes, sir, dead as"}
+{"find": "« Ah! I’msorry for that,", "replace": "“Ah! I’m sorry for that,"}
+{"find": "shall be there\n\nin two or three", "replace": "shall be there in two or three"}

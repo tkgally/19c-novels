@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\n8 BY THE CORNISH SEA.", "replace": "[[page 8]]"}
+{"find": "“No, not in this letter; he did in the Jast.", "replace": "[[cont]]“No, not in this letter; he did in the last."}
+{"find": "seven hundred pounds it es, so Hsther towld me;", "replace": "seven hundred pounds it es, so Esther towld me;"}
+{"find": "‘**T don’t believe for a minute that Mark was thinking of that,’’ said Jenifer, standing up for her old friend and playmate; * but yet ’tis a little strange", "replace": "“I don’t believe for a minute that Mark was thinking of that,” said Jenifer, standing up for her old friend and playmate; “but yet ’tis a little strange"}
+{"find": "Your father and Arthur are now coming up the street,’ said Mrs. Tre-\n\nwhella, looking out of the window. ‘‘Teeake", "replace": "“Your father and Arthur are now coming up the street,” said Mrs. Trewhella, looking out of the window. “Teeake"}

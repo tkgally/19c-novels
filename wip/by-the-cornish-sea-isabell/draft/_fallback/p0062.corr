@@ -1,0 +1,3 @@
+{"find": "[[page ?]]\n\n54 BY THE CORNISH SEA.", "replace": "[[page 54]]"}
+{"find": "many centuries of rubbing", "replace": "[[cont]]many centuries of rubbing"}
+{"find": "barque Mary, of Liverpool,", "replace": "barque <i>Mary</i>, of Liverpool,"}

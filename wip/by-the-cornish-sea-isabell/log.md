@@ -4,7 +4,7 @@ IA: `bycornishsea01isab` (Vol. I, 318 leaves) and `bycornishsea02isab` (Vol. II,
 Eligibility: checked 2026-11-26 (`data/queue.json`, blog_2021 #27): original English novel (1885, London: Sampson Low, Marston, Searle, & Rivington, 2 vols.), complete UIUC `_jp2.zip` scans for both volumes, not on Project Gutenberg, Standard Ebooks, Wikisource, Faded Page, or VWWP (Online Books Page links only to HathiTrust scans); no post-1914 print edition; author Rev. John Isabell (1851–1921).
 
 ## Status
-Stage reached: Stage 1 (scan check, Drive cache, cover crop) | Next step: Stage 2 (Gemini Pro draft).
+Stage reached: Stage 2 (648-page Gemini Pro draft + 90-page OCR fallback complete and normalized) | Next step: Stage 3 (Gemini Flash second-pass verify + blind judge).
 
 ## Page map
 - **Volume I (`p0000`–`p0317`, 318 leaves)**:
@@ -29,6 +29,7 @@ Stage reached: Stage 1 (scan check, Drive cache, cover crop) | Next step: Stage 
 ## Runs
 | Stage | Date | Model | Pages | Notes |
 |---|---|---|---|---|
+| Draft | 2026-11-26 | `gemini-pro` (+ `ocr_fallback.py`) | 648 (`p0005`–`p0308`, `p1005`–`p1348`) | 558 direct Pro draft + 90 Tesseract + Pro JSONL fallback (`fallback.json`: `p0059`–`p0065`, `p0067`, `p0070`, `p1011`–`p1025`, `p1035`–`p1040`, `p1042`, `p1044`, `p1054`–`p1056`, `p1077`–`p1078`, `p1089`–`p1132`, `p1162`–`p1167`, `p1194`, `p1196`–`p1197`); normalized |
 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |

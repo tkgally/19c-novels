@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\n94, BY THE CORNISH SEA.\n\nswered Jenifer;", "replace": "[[page 94]]\n\n[[cont]]swered Jenifer;"}
+{"find": "*T mean that Goliath", "replace": "“I mean that Goliath"}
+{"find": "*“‘If you mean Arthur", "replace": "“If you mean Arthur"}
+{"find": "**'You seem to place", "replace": "“You seem to place"}
+{"find": "to write to her and take\n\nall her malicious speeches for gospel. The", "replace": "to write to her and take all her malicious speeches for gospel. The"}

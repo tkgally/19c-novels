@@ -1,0 +1,8 @@
+{"find": "[[page ?]]\n\n118 BY THE CORNISH SEA.\n\n“Yes, but", "replace": "[[page 118]]\n\n“Yes, but"}
+{"find": "he said; ‘it isn’t", "replace": "he said; “it isn’t"}
+{"find": "that, Jenny?”’", "replace": "that, Jenny?”"}
+{"find": "**T don’t know,” she said hesitatingly; **T like", "replace": "“I don’t know,” she said hesitatingly; “I like"}
+{"find": "* But what, Jenny?”’", "replace": "“But what, Jenny?”"}
+{"find": "** Do you care more for anybody else?”’", "replace": "“Do you care more for anybody else?”"}
+{"find": "“No,not an engagement", "replace": "“No, not an engagement"}
+{"find": "time, we would\n\nbecome engaged.”", "replace": "time, we would become engaged.”"}

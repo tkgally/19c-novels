@@ -1,0 +1,4 @@
+{"find": "[[page ?]]\n\nBILLING AND COOING. 115\n\nthe street", "replace": "[[page 115]]\n\n[[cont]] the street"}
+{"find": "**What if they are?” was the answer; * girls don’t", "replace": "“What if they are?” was the answer; “girls don’t"}
+{"find": "prefer Rundle to you —I’m sure", "replace": "prefer Rundle to you—I’m sure"}
+{"find": "were present.\n\nand sometimes perhaps on Sundays, and Tee", "replace": "were present. and sometimes perhaps on Sundays, and"}

@@ -1,0 +1,8 @@
+{"find": "[[page ?]]\n\nTHOUGHTS OF LOVE. 3", "replace": "[[page 3]]"}
+{"find": "owld eyes aren’t so blind", "replace": "[[cont]]owld eyes aren’t so blind"}
+{"find": "* Jokin’!”’ said the old", "replace": "“Jokin’!” said the old"}
+{"find": "hands weth \"ee, so rud", "replace": "hands weth ’ee, so rud"}
+{"find": "and so rud.as fire might do ef fire wodn sometimes blue —well so rud", "replace": "and so rud as fire might do ef fire wodn sometimes blue—well so rud"}
+{"find": "pocket-handkercher?”’", "replace": "pocket-handkercher?”"}
+{"find": "more than usual,’ admitted Arthur,", "replace": "more than usual,” admitted Arthur,"}
+{"find": "her blushing was only\n\nBoo\n\na", "replace": "her blushing was only"}

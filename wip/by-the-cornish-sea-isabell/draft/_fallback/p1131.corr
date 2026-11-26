@@ -1,0 +1,3 @@
+{"find": "[[page ?]]\n\n125\n\nCHAPTER VIII. ST. VALENTINE’S DAY.\n\nNow what could artless Jeanie do? She had na will to say him na’: At length she blush’d a sweet consent, And love was ay between them twa. Burns.", "replace": "[[page 123]]\n\n# Chapter VIII.\n\n[[subtitle]] St. Valentine’s Day.\n\n<verse>\nNow what could artless Jeanie do?\nShe had na will to say him na’:\nAt length she blush’d a sweet consent,\nAnd love was ay between them twa.\n</verse>\n[[right]] <i>Burns.</i>"}
+{"find": "THE evening of St. Valentine’s", "replace": "T<sc>he</sc> evening of St. Valentine’s"}
+{"find": "Her beautiful\n\nface gave no sign", "replace": "Her beautiful face gave no sign"}

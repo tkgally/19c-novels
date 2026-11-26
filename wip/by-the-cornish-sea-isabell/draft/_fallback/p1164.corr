@@ -1,0 +1,7 @@
+{"find": "[[page ?]]\n\n156 BY THE CORNISH SEA.\n\n39\n\n“You can’t see him to-day,” was the\n\nreply.", "replace": "[[page 156]]\n\n“You can’t see him to-day,” was the reply."}
+{"find": "““Ceeant see un?” exclaimed Daniel, indignantly; ‘why we comed ovver from St. Hnodoc a purpose to see un.”", "replace": "“Ceeant see un?” exclaimed Daniel, indignantly; “why we comed ovver from St. Enodoc a purpose to see un.”"}
+{"find": "** But he’s engaged,”", "replace": "“But he’s engaged,”"}
+{"find": "** You plaise to tell", "replace": "“You plaise to tell"}
+{"find": "any of them,’’ said the maid", "replace": "any of them,” said the maid"}
+{"find": "“T tell ’ee what ’tes", "replace": "“I tell ’ee what ’tes"}
+{"find": "and another\n\npeal, longer and, if possible, louder than", "replace": "and another peal, longer and, if possible, louder than"}

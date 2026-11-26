@@ -1,0 +1,4 @@
+{"find": "[[page ?]]\n\nHA, HA, THE WOOING O’T. OL\n\n“Aw, I know", "replace": "[[page 91]]\n\n“Aw, I know"}
+{"find": "father,’ remonstrated Rebecca, “doant", "replace": "father,” remonstrated Rebecca, “doant"}
+{"find": "“J wish you wouldn’t taise her so,” said Rebecca, “‘you can see", "replace": "“I wish you wouldn’t taise her so,” said Rebecca, “you can see"}
+{"find": "answer; ‘“‘you do knaw", "replace": "answer; “you do knaw"}

@@ -1,0 +1,6 @@
+{"find": "[[page ?]]\n\nTHE SEAL HUNT. 27\n\nshark?", "replace": "[[page 27]]\n\n[[cont]]shark?"}
+{"find": "“You're right,", "replace": "“You’re right,"}
+{"find": "wasashurk, areg’ler", "replace": "was a shurk, a reg’ler"}
+{"find": "size of un. *Twas like", "replace": "size of un. ’Twas like"}
+{"find": "called the Flying Cloud, sailing", "replace": "called the <i>Flying Cloud</i>, sailing"}
+{"find": "three times—\n\nwould show", "replace": "three times—would show"}

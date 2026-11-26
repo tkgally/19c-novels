@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\n‘THE GREAT SHOAL. 107\n\nanimation to the scene", "replace": "[[page 107]]\n\n[[cont]] animation to the scene"}
+{"find": "the Nelson seine", "replace": "the <i>Nelson</i> seine"}
+{"find": "“sharing’”’ was held", "replace": "“sharing” was held"}
+{"find": "twenty pounds .to his mother", "replace": "twenty pounds to his mother"}
+{"find": "while he announced :that another\n\ntwenty pounds would probably be realized", "replace": "while he announced that another twenty pounds would probably be realized"}

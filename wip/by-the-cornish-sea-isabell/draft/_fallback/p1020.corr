@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\n12 BY THE CORNISH SEA.", "replace": "[[page 12]]"}
+{"find": "like we to teeake un", "replace": "[[cont]]like we to teeake un"}
+{"find": "will ’ee goP”", "replace": "will ’ee go?”"}
+{"find": "“Yes, -P1l go. with all my hear”", "replace": "“Yes, I’ll go with all my heart,”"}
+{"find": "I'll ax George Roskilly.", "replace": "I’ll ax George Roskilly."}

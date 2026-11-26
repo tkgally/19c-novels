@@ -1,0 +1,3 @@
+{"find": "[[page ?]]\n\n84 BY THE CORNISH SBA.\n\nnoticed that", "replace": "[[page 84]]\n\n[[cont]]noticed that"}
+{"find": "“Your mother is an ornament to her sex,”’ said he, “‘but it was of your mother’s daughter that I was speaking. The fact is, I have admired you ever since I first saw you.”", "replace": "“Your mother is an ornament to her sex,” said he, “but it was of your mother’s daughter that I was speaking. The fact is, I have admired <i>you</i> ever since I first saw you.”"}
+{"find": "“T am afraid then your visits have not\n\ngiven you much pleasure, for you have", "replace": "“I am afraid then your visits have not given you much pleasure, for you have"}

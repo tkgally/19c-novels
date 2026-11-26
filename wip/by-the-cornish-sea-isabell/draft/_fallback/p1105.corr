@@ -1,0 +1,6 @@
+{"find": "[[page ?]]\n\nHA, HA, THE WOOTNG O’T, 97\n\napply for", "replace": "[[page 97]]\n\n[[cont]]apply for"}
+{"find": "‘* But listen to reason, Hsther.”’", "replace": "“But listen to reason, Esther.”"}
+{"find": "*T’m not going", "replace": "“I’m not going"}
+{"find": "“V’ve heard nothing about it,” said Mark, ‘‘and I didn’t", "replace": "“I’ve heard nothing about it,” said Mark, “and I didn’t"}
+{"find": "*Confound you,” said", "replace": "“Confound you,” said"}
+{"find": "woman in St. Enodoc were\n\nVOL. I. H", "replace": "woman in St. Enodoc were"}
