@@ -5,6 +5,7 @@
 | Date | Novel (`slug` vN) | Year / Vols | Leaves | Flash changes | Judge spots (Pro / Flash / scan) | Corrections (`[[corr]]`) | Audit (pages, recall, real errors) | Notes |
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-26 | `browns-and-the-smiths-davies` v1 | 1863 / 2 vols | 662 (635 transcribed) | 39 (`0` unapplied) | 31 on 14 pp (`1` / `28` / `2` `neither`; scan crop overturned `1` false misprint on `p0054`) | 25 | 6 pp, `28/30` (`93%`), `0` real errors | 0 recitation blocks; 0 `〓`; combined 2-vol edition |
+| 2026-11-26 | `browns-and-the-smiths-davies` v2 | 1863 / 2 vols | 662 (635 transcribed) | — | — | 25 | Carried from v1 | Compiler fix for page-break hyphens inside inline tags (`p0009`–`p0010` *ad nauseam*; GitHub #2) |
 
 ## Preflight checks (false alarms and promotions)
 

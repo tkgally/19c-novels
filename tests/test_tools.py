@@ -77,6 +77,22 @@ class CompileAndMultiVolume(unittest.TestCase):
         self.assertEqual(t[1], 'The road was with<pb n="2" leaf="p0002"/>out end, and long <pb n="3" leaf="p0003"/>as well.')
         self.assertEqual(len([x for x in w if x.startswith("hyphen join")]), 1)
 
+    def test_join_hyphen_inside_inline_tags(self):
+        book, w = comp([
+            "[[page 1]]\n# Chapter I.\n\nYou have heard, <i>ad nau-</i>",
+            "[[page 2]]\n[[cont]]<i>seam</i>, of the <i>well-</i>",
+            "[[page 3]]\n[[cont]]<i>known</i>—",
+            "[[page 4]]\n[[cont]]<i>yes</i>, indeed.",
+        ], keep_hyphens=["p0003"])
+        t = texts(book)
+        self.assertEqual(
+            t[1],
+            'You have heard, <i>ad nau</i><pb n="2" leaf="p0002"/><i>seam</i>, '
+            'of the <i>well-</i><pb n="3" leaf="p0003"/><i>known</i>—<pb n="4" leaf="p0004"/><i>yes</i>, indeed.',
+        )
+        self.assertEqual(inline.plain(t[1]), "You have heard, ad nauseam, of the well-known—yes, indeed.")
+        self.assertEqual(len([x for x in w if x.startswith("hyphen join")]), 1)
+
     def test_multivolume_three_decker_parts_and_titlepages(self):
         """Tom (2026-11-26): multi-volume novels open with Vol. I's title page, group each volume under Volume I / II…
         as Parts keeping each volume's own chapter numbering, and keep later volumes' title pages in the JSON only."""

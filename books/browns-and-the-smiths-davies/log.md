@@ -4,7 +4,7 @@ IA: `brownssmithsintw01davi` (Vol. I, 328 leaves) and `brownssmithsintw02davi` (
 Eligibility: checked 2026-11-26 (`data/queue.json`, blog_2021 #21): original English novel (1863, 2 vols.), complete UIUC `_jp2.zip` scans for both volumes, not on Project Gutenberg, Standard Ebooks, Wikisource, Faded Page, Celebration of Women Writers, VWWP, or Online Books Page; no post-1914 print edition; author Christiana Jane Davies (née Douglas, 1822–1887).
 
 ## Status
-Stage reached: Published (`v1`) | Next step: none.
+Stage reached: Published (`v2`) | Next step: none.
 
 ## Page map
 - **Volume I (`p0000`–`p0327`)**:
@@ -39,3 +39,4 @@ Stage reached: Published (`v1`) | Next step: none.
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-26 | `preflight PASS: browns-and-the-smiths-davies v1 — 0 to fix, 0 waived … tools@b293dbc 2026-11-26` | 6 pages (`p0080`, `p0138`, `p0198`, `p1110`, `p1193`, `p1318`), recall `28/30` (`93%`), `0` real errors | First publication |
+| 2 | 2026-11-26 | `preflight PASS: browns-and-the-smiths-davies v2 — 0 to fix, 0 waived … tools@d9cf8f1 2026-11-26` | Carried from v1 (no page text changed; compiler rebuild) | Fixed page-break hyphen joining inside italic tags (`p0009`–`p0010`, *ad nauseam*; GitHub #2) |

@@ -13,7 +13,8 @@
 [       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
 [       ok] odt: LibreOffice opens the ODT and converts it to PDF
 [       ok] audit: book.json records the sampled audit of this version
-[look (11)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+[look (12)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0010: … <i>ad nau-</i>|<i>seam</i>, of… (hyphen removed; check)
             - hyphen join at p0063: … in, head-fore-|most, with her … (hyphen removed; check)
             - hyphen join at p0100: …new their over-|night’s convers… (hyphen removed; check) — the book hyphenates other “over-” words: keep_hyphens?
             - hyphen join at p0127: …s valued by un-|married women a… (hyphen removed; check)
@@ -57,4 +58,4 @@
 [       ok] italic-brackets: parentheses or square brackets placed inside <i>…</i> tags: check whether the brackets themselves are roman
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: browns-and-the-smiths-davies v1 — 0 to fix, 0 waived; to look at: hyphen-joins 11, folios 2, openings 1, accents 3, rare-forms 3, missing-stop 1 — tools@b293dbc 2026-11-26
+preflight PASS: browns-and-the-smiths-davies v2 — 0 to fix, 0 waived; to look at: hyphen-joins 12, folios 2, openings 1, accents 3, rare-forms 3, missing-stop 1 — tools@d9cf8f1 2026-11-26

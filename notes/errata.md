@@ -10,4 +10,4 @@ Errors reported by Tom or readers (via GitHub Issues or direct messages) and err
 
 ## Log
 
-*(None yet.)*
+- **2026-11-26 · GitHub #2 (Tom) · `browns-and-the-smiths-davies` · `p0009`–`p0010` (`ad nau- seam`) · closed** — `compile_book.join_text` did not recognize a page-break hyphen immediately before a closing inline tag (`<i>ad nau-</i>` + `[[cont]]<i>seam</i>`), inserting a space and keeping the hyphen. Fixed in `tools/compile_book.py` with regression test `test_join_hyphen_inside_inline_tags`, rebuilt and republished `browns-and-the-smiths-davies` as v2.

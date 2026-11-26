@@ -155,14 +155,19 @@ def pbtok(leaf, number):
     return f"⟦pb:{leaf}:{number}⟧"
 
 
+CLOSE_INLINE = r"(?:</(?:%s)>)+" % "|".join(inline.INLINE)
+OPEN_INLINE = r"(?:<(?:%s)>)+" % "|".join(inline.INLINE)
+
+
 def join_text(prev, text, leaf, number, keep, warn, what=""):
     tok = pbtok(leaf, number)
-    if prev.endswith("-"):
+    m = re.search(rf"-({CLOSE_INLINE})?$", prev)
+    if m:
         if leaf in keep:
             return prev + tok + text
         warn(f"hyphen join{what} at {leaf}: …{prev[-15:]}|{no_side(text)[:15]}… (hyphen removed; check)")
-        return prev[:-1] + tok + text
-    if prev.endswith("—") or text.startswith("—"):
+        return prev[:m.start()] + (m.group(1) or "") + tok + text
+    if re.search(rf"—(?:{CLOSE_INLINE})?$", prev) or re.match(rf"^(?:{OPEN_INLINE})?—", no_side(text)):
         return prev + tok + text
     return prev + " " + tok + text
 

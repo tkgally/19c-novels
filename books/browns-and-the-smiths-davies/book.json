@@ -1,6 +1,6 @@
 {
  "id": "browns-and-the-smiths-davies",
- "version": 1,
+ "version": 2,
  "date": "2026-11-26",
  "title": "The Browns and the Smiths",
  "subtitle": "",
@@ -75,10 +75,15 @@
    "version": 1,
    "date": "2026-11-26",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-26",
+   "note": "Rebuilt with fixed page-break hyphen joining inside italic tags (p0009–p0010, “ad nauseam”; GitHub #2)."
   }
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-26",
   "pages": 6,
   "recall": "28/30",
