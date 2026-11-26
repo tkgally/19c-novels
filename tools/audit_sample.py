@@ -280,7 +280,9 @@ def main():
         lines = [
             f"# Blind Sampled Audit ({len(todo)} task(s))",
             "",
-            "STRICT BLINDNESS RULE: Read ONLY the task files in this `blind/` directory and the scan images they reference. NEVER read `_secret/`, `pages/`, `draft/`, `verify/`, or `judge/`.",
+            "STRICT BLINDNESS & EFFICIENCY RULES:",
+            "1. Use ONLY `view_file` and `write_to_file` — NEVER call `run_command` or write scripts.",
+            "2. Read ONLY the task files in this `blind/` directory and the scan images they reference. NEVER read `_secret/`, `pages/`, `draft/`, `verify/`, or `judge/`.",
             "",
         ] + [f"- `{nm}` ({cond}): read `{tf}` -> write `{of}`" for nm, cond, tf, of in todo]
         Path(inst).write_text("\n".join(lines) + "\n", encoding="utf-8")

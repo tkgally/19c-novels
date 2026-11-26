@@ -19,4 +19,9 @@ Every novel should leave the pipeline cleaner and sharper than it found it.
 
 | Date | Novels covered | Findings and changes |
 |---|---|---|
-| 2026-11-26 | set-up | Adapted pipeline, renderers, preflight checks, website, and test suite from `travel-books` for 1700–1914 English novels (`Forgotten Novels`); added multi-volume `parts` and `--offset` support, `gdrive` CLI caching in “19C Novels”, `ocr_batch.py` + `ocr_fallback.py` for Gemini Pro/Flash subagents, and `italic-brackets` observe check from 2026-11-25 Gemini benchmark. |
+| 2026-11-26 | set-up | Adapted pipeline, renderers, preflight checks, website, and test suite from `travel-books` for 1700–1914 English novels (`Forgotten Novels`); added multi-volume `parts` and `--offset` support, `gdrive` caching in “19C Novels”, `ocr_batch.py` + `ocr_fallback.py` for Gemini Pro/Flash subagents, and `italic-brackets` observe check from 2026-11-25 Gemini benchmark. |
+
+## Candidate checks for next review
+
+- **`quote-balance` (`“ > ”` inside a compiled paragraph):** extend `quote-balance` to flag compiled paragraphs where `count("“") > count("”")` even when the paragraph ends cleanly after narration resumes (caught `p1181` stray opening `“` on narration and `p1243` missing closing `”` before `And Mr. Bradley…` in *The Browns and the Smiths*).
+- **`lowercase-after-stop`:** flag `word. lowercase` outside `<sc>` and standard abbreviations (`Mr.`, `Mrs.`, `Dr.`, `St.`, `Rev.`, `&c.`, `viz.`, `vol.`, `p.`, `pp.`, `8vo.`), which caught `p0264` (`laughed at her. cut her short`).

@@ -237,6 +237,7 @@ class SubagentPipelineTools(unittest.TestCase):
                             "--spots", spots_p, "--verified", verify_dir, "--images", img_dir, "--out", judge_dir, "--prepare"],
                            check=True, capture_output=True)
             self.assertTrue(os.path.exists(os.path.join(judge_dir, "tasks", "p0001.md")))
+            self.assertIn("NEVER call `run_command`", open(os.path.join(judge_dir, "tasks", "INSTRUCTIONS.md"), encoding="utf-8").read())
             pick_draft = "A" if judge.labels("p0001", 1) else "B"
             open(os.path.join(judge_dir, "raw", "p0001.txt"), "w", encoding="utf-8").write(
                 json.dumps({"n": 1, "is": pick_draft, "print": "quietly through", "sure": "high"}) + "\n"

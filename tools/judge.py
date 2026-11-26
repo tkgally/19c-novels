@@ -147,7 +147,10 @@ def prepare_tasks(spots, images_dir, out_dir):
     idx_lines = [
         f"# Blind Judge Tasks ({len(todo)} pages)",
         "",
-        "For each task file below, read the task file, inspect ONLY the referenced scan image with `view_file` (do NOT read `draft/`, `verify/`, or `spots.json`), and write the JSONL verdicts to the specified `raw/pNNNN.txt` file.",
+        "CRITICAL RULES:",
+        "1. Use ONLY `view_file` and `write_to_file` — NEVER call `run_command` or write image/pixel-analysis scripts.",
+        "2. Do NOT read `draft/`, `verify/`, or `spots.json`.",
+        "3. Write each `raw/pNNNN.txt` file immediately after viewing its page image; if a tiny mark or cap height is borderline, choose the best visual reading and set `\"sure\": \"medium\"` or `\"low\"` rather than stalling.",
         "",
     ] + [f"- `{pg}`: task `{tf}` -> write `{rf}`" for pg, tf, rf in todo]
     Path(idx_file).write_text("\n".join(idx_lines) + "\n", encoding="utf-8")

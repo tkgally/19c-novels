@@ -49,7 +49,7 @@ Key notes:
 - Required fields checked by `preflight.py`: `id`, `version`, `date`, `title`, `authors`, `place`, `publisher`, `year` (`1700 <= year <= 1913`), `setting`, `period`, `summary` (30–220 words), `source`, `history`, and `audit`.
 - For anonymous novels, use `[{"name": "Anonymous", "sort": "Anonymous"}]` in `authors`.
 - Single-volume novels need only `source.ia_identifier` and `source.hidden_leaves` (no `volumes` > 1, `source.items`, or `parts` unless divided into Parts in print).
-- Optional keys: `subtitle`, `volumes`, `edition_statement`, `subjects`, `notes_on_text`, `omitted_from_reading`, `toc`, `toc_entries`, `frontispiece`, `ornaments`, `keep_hyphens`, `leaf_order`, `waivers`, `editor_images`, `body_start`, `css_extra`.
+- Optional keys: `subtitle`, `volumes`, `edition_statement`, `subjects`, `notes_on_text`, `omitted_from_reading`, `toc`, `toc_entries`, `frontispiece`, `ornaments`, `keep_hyphens` (list of continuation leaf IDs such as `["p0014"]` where a page-break hyphen is kept), `leaf_order`, `waivers`, `editor_images`, `body_start`, `css_extra`.
 
 ## source.json
 
