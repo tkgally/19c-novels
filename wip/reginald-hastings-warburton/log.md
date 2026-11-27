@@ -4,7 +4,7 @@ IA: `reginaldhastings01warb`, `reginaldhastings02warb`, `reginaldhastings03warb`
 Eligibility: re-checked 2026-11-27: original English historical novel published in 1850 (London: Henry Colburn, 3 vols., first edition). Complete 500 ppi UIUC scans with `_jp2.zip` for all three volumes. No free digital reading edition on Project Gutenberg, Standard Ebooks, Wikisource, Faded Page, or Penn Online Books Page (scan images only). No post-1914 reset print edition (only POD scan reprints). Eliot Warburton (1810–1852) died >70 years ago (Rule 5 met).
 
 ## Status
-Stage reached: Stage 1 complete (scans downloaded, all 26 contact sheets + sample leaves inspected, cover.jpg cropped, working leaves cached in Google Drive) | Next step: Stage 2 Gemini Pro draft.
+Stage reached: Stage 2 complete (968/968 printed pages drafted by Gemini Pro with 0 recitation blocks + 2 blank versos, normalized) | Next step: Stage 3 Gemini Flash second-pass verification and blind Pro spot-judging.
 
 ## Page map
 - **Volume I (`p0000`–`p0367`, 368 leaves):** `p0000` cradle · `p0001` library cover (no printed title) · `p0002`–`p0006` marbled endpapers & UIUC circulation slip · `p0007` title page (`cover.jpg`) · `p0008` imprint verso (`Schulze & Co.`) · `p0009` Dedication (`To the Rev. Walter Halliday, of Glenthorne`) · `p0010` blank verso (IA card) · `p0011`–`p0014` Introduction (pp. [v]–viii, dated March 20, 1850) · `p0015`–`p0019` body pp. [1]–5 · `p0020`–`p0021` Delete (blurry duplicates of pp. 6–7) · `p0022`–`p0355` body pp. 6–339 (`END OF VOL. I.` + colophon) · `p0356` back ad (Colburn novels) · `p0357`–`p0367` flyleaves, marbled endpapers, back board, calibration cards.
@@ -17,12 +17,13 @@ Scan check: all 26 contact sheets (`sheet-01.jpg`–`sheet-26.jpg`) and 40+ full
 - Volume I cover is a plain UIUC library rebinding; Volume I title page (`p0007`) used for `images/cover.jpg`.
 - Transcribe 968 printed leaves (`p0007`–`p0009`, `p0011`–`p0019`, `p0022`–`p0356`, `p1009`, `p1011`–`p1097`, `p1100`–`p1330`, `p2007`–`p2059`, `p2062`–`p2310`) plus 2 blank versos (`p0010`, `p1010`).
 - Note printed chapter-numbering irregularity in Volume I (`p0253` restarts at `CHAPTER XV.`, skips `XIX`, ends `CHAPTER XXI.`); preserve printed chapter headings faithfully and document in `notes_on_text`.
-- Spot-check Fraktur German epigraph on `p2210` (Vol. III Ch. X, Schiller) and asterisk footnotes across all three volumes.
+- Spot-check Fraktur German epigraphs on `p1088` (Vol. II Ch. VI) and `p2210` (Vol. III Ch. X, Schiller), plus asterisk footnotes across all three volumes.
 
 ## Runs
 | Stage | Date | Model | Pages | Notes |
 |---|---|---|---|---|
 | 1. Fetch & inspect | 2026-11-27 | Gemini Pro | 1,032 leaves | All 26 contact sheets + sample leaves verified clean; 6 Delete duplicates confirmed continuous |
+| 2. Draft | 2026-11-27 | Gemini Pro | 968 + 2 blank | 39 batches, 0 recitation blocks, normalized |
 
 ## Versions
 | Version | Date | Preflight stamp | Audit | Notes |
