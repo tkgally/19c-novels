@@ -95,20 +95,27 @@ def cmd_apply(a):
         print("ocr_fallback apply: nothing in _fallback")
         return
     raws = sorted(f[:-8] for f in os.listdir(fb_dir) if f.endswith(".raw.txt"))
-    done = []
+    done, skipped_all = [], []
     for stem in raws:
         corr_p = os.path.join(fb_dir, stem + ".corr")
         if not os.path.exists(corr_p):
             sys.exit(f"ocr_fallback apply: missing {corr_p}")
         rtext = open(os.path.join(fb_dir, stem + ".raw.txt"), encoding="utf-8").read()
         ctext = open(corr_p, encoding="utf-8").read()
-        out, n_app, _ = corrections.apply(rtext, ctext)
+        out, n_app, skipped = corrections.apply(rtext, ctext)
+        if skipped:
+            skipped_all.append((stem, skipped))
         open(os.path.join(a.draft, stem + ".txt"), "w", encoding="utf-8").write(normalize.norm_page(out))
         done.append(stem)
     fb_json = os.path.join(a.draft, "fallback.json")
     prev = json.load(open(fb_json, encoding="utf-8")) if os.path.exists(fb_json) else []
     merged = sorted(set(prev) | set(done))
     json.dump(merged, open(fb_json, "w", encoding="utf-8"), indent=1)
+    if skipped_all:
+        n_sk = sum(len(s) for _, s in skipped_all)
+        print(f"ocr_fallback apply: WARNING {n_sk} skipped patch(es) on {len(skipped_all)} page(s):", file=sys.stderr)
+        for st, sk in skipped_all:
+            print(f"  {st}: {sk}", file=sys.stderr)
     print(f"ocr_fallback apply: wrote {len(done)} page(s) to {a.draft}; fallback.json={merged}")
 
 

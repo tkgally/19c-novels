@@ -64,6 +64,7 @@ CHECKS = collections.OrderedDict([
     ("title-page",      ("observe", "the reading editions do not begin with the book's title page (divisions: kind \"titlepage\")")),
     ("serial-commas",   ("observe", "book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)")),
     ("missing-stop",    ("observe", "a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan")),
+    ("lowercase-after-stop", ("observe", "a lower-case word immediately after a full stop outside abbreviations and Roman numerals: broken comma or compositor typo?")),
     ("italic-brackets", ("observe", "parentheses or square brackets placed inside <i>…</i> tags: check whether the brackets themselves are roman")),
     ("images",          ("enforce", "image files not used by any page")),
     ("source",          ("enforce", "source.json: the Drive cache of the page images is recorded")),
@@ -691,12 +692,21 @@ def spacing_items(book):
     return items[:80]
 
 
+STOP_ABBR = {
+    "mr", "mrs", "ms", "dr", "st", "rev", "hon", "capt", "col", "gen", "maj", "lieut", "sergt", "prof",
+    "messrs", "no", "nos", "vol", "vols", "p", "pp", "etc", "viz", "cf", "vs", "co", "ltd", "jr", "sr",
+    "esq", "ch", "chap", "nem", "con", "fig", "ed", "cent", "8vo", "12mo",
+    "jan", "feb", "mar", "apr", "aug", "sept", "oct", "nov", "dec",
+}
+
+
 def check_quote_balance(book):
     items = []
     for d in book["divisions"]:
         if not d.get("reading"):
             continue
-        for b in d["blocks"]:
+        blks = d["blocks"]
+        for i, b in enumerate(blks):
             if b["type"] != "paragraph":
                 continue
             t = inline.plain(b["text"])
@@ -712,7 +722,45 @@ def check_quote_balance(book):
                 items.append(f"{b['leaf']}: closing ” with no opening “: {t[:60]!r}")
             elif depth > 1:
                 items.append(f"{b['leaf']}: {depth} quotations left open: {t[:60]!r}")
+            elif depth == 1:
+                nxt = blks[i + 1] if i + 1 < len(blks) else None
+                nxt_ok = (
+                    (nxt and nxt["type"] == "paragraph" and inline.plain(nxt["text"]).lstrip().startswith("“"))
+                    or (nxt and nxt["type"] in ("quote", "verse"))
+                )
+                if not nxt_ok:
+                    items.append(f"{b['leaf']}: unclosed “ (next block does not continue quotation): {t[:60]!r}")
     return items
+
+
+def check_lowercase_after_stop(book):
+    """Five-novel review (2026-11-27): flag `word. lowercase` in reading prose outside abbreviations,
+    Roman numerals, small caps, and ellipses (caught *Browns* p0264 `her. cut` and *Middle-Aged Lover*
+    p1053 `malady. and`)."""
+    items = []
+    rx = re.compile(r"(?<!\.\s)(?<!\.)\b([A-Za-z0-9’]+)\.\s+([a-z][a-z’]+)\b")
+    for d in book["divisions"]:
+        if not d.get("reading") or d.get("kind") == "titlepage":
+            continue
+        def _scan(blks):
+            for b in blks:
+                if b["type"] == "paragraph":
+                    raw = re.sub(r"<sc>.*?</sc>", " ; ", b["text"], flags=re.S)
+                    t = inline.plain(raw)
+                    for m in rx.finditer(t):
+                        w1 = m.group(1)
+                        if len(w1) == 1 or w1.lower() in STOP_ABBR:
+                            continue
+                        if re.fullmatch(r"[IVXLCDM]+|\d+[sd]", w1):
+                            continue
+                        if re.search(r"\.\s*\.\s*$", t[:m.start() + len(w1) + 1]):
+                            continue
+                        ctx = t[max(0, m.start() - 20):m.end() + 15].strip()
+                        items.append(f"{b['leaf']}: “{w1}. {m.group(2)}” in …{ctx}…")
+                elif b["type"] == "quote":
+                    _scan(b.get("blocks", []))
+        _scan(d["blocks"])
+    return items[:60]
 
 
 def check_image_splits(book):
@@ -1000,6 +1048,7 @@ def run(bookdir, epubcheck=None, skip_epubcheck=False, skip_odt=False, verbose=F
             res[k] = base or res[k]
         res["spacing"] = spacing_items(book)
         res["quote-balance"] = check_quote_balance(book)
+        res["lowercase-after-stop"] = check_lowercase_after_stop(book)
         res["image-splits"] = check_image_splits(book)
         res["contents"] = check_contents(book)
         res["title-page"] = check_title_page(book)

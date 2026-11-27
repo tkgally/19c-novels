@@ -180,6 +180,61 @@ class SampleBookAndPreflight(unittest.TestCase):
         good_18c = dict(CFG, id="sample", year=1749)
         self.assertEqual(preflight.check_meta(good_18c, SAMPLE), [])
 
+    def test_quote_balance_flags_unclosed_single_quote_without_continuation(self):
+        book = {
+            "divisions": [{
+                "reading": True,
+                "kind": "chapter",
+                "blocks": [
+                    {"type": "paragraph", "leaf": "p0010", "text": "“First paragraph of a two-paragraph speech."},
+                    {"type": "paragraph", "leaf": "p0010", "text": "“Second paragraph closes cleanly.”"},
+                    {"type": "paragraph", "leaf": "p0011", "text": "“Spoken line missing its closing mark before narration."},
+                    {"type": "paragraph", "leaf": "p0012", "text": "He walked out into the lane without another word."},
+                    {"type": "paragraph", "leaf": "p0013", "text": "“Listen to the bill:"},
+                    {"type": "quote", "leaf": "p0013", "blocks": [{"type": "paragraph", "leaf": "p0013", "text": "Part the Second."}]},
+                ],
+            }]
+        }
+        items = preflight.check_quote_balance(book)
+        self.assertEqual(len(items), 1)
+        self.assertIn("p0011", items[0])
+
+    def test_lowercase_after_stop_observe_check(self):
+        book = {
+            "divisions": [{
+                "reading": True,
+                "kind": "chapter",
+                "blocks": [
+                    {"type": "paragraph", "leaf": "p0020", "text": "He laughed at her. cut her short at the door."},
+                    {"type": "paragraph", "leaf": "p0021", "text": "Mr. Smith paid five per cent. to Henry IV. and left."},
+                    {"type": "paragraph", "leaf": "p0022", "text": "The nature of the <corr was=\"malady.\">malady,</corr> and hurried home."},
+                ],
+            }, {
+                "reading": False,
+                "kind": "advertisements",
+                "blocks": [
+                    {"type": "paragraph", "leaf": "p0099", "text": "Illustrated edition, sm. post 8vo. cloth."},
+                ],
+            }]
+        }
+        items = preflight.check_lowercase_after_stop(book)
+        self.assertEqual(len(items), 1)
+        self.assertIn("p0020", items[0])
+        self.assertIn("her. cut", items[0])
+
+    def test_ocr_fallback_apply_warns_on_skipped_patch(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            fb = os.path.join(tmp, "_fallback")
+            os.makedirs(fb)
+            open(os.path.join(fb, "p0001.raw.txt"), "w", encoding="utf-8").write("[[page 1]]\n\nHello world.\n")
+            open(os.path.join(fb, "p0001.corr"), "w", encoding="utf-8").write(
+                '{"find": "nonexistent phrase", "replace": "replacement"}\n'
+            )
+            res = subprocess.run([sys.executable, os.path.join(REPO, "tools", "ocr_fallback.py"), "apply", "--draft", tmp],
+                                 check=True, capture_output=True, text=True)
+            self.assertIn("WARNING", res.stdout + res.stderr)
+            self.assertIn("p0001", res.stdout + res.stderr)
+
 
 class SiteAndReleases(unittest.TestCase):
     def test_site_build_and_lists(self):
