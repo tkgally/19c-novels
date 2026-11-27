@@ -8,6 +8,7 @@
 | 2026-11-26 | `browns-and-the-smiths-davies` v2 | 1863 / 2 vols | 662 (635 transcribed) | — | — | 25 | Carried from v1 | Compiler fix for page-break hyphens inside inline tags (`p0009`–`p0010` *ad nauseam*; GitHub #2) |
 | 2026-11-26 | `by-the-cornish-sea-isabell` v1 | 1885 / 2 vols | 676 (648 transcribed) | 30 (`3` skipped) | 15 on 14 pp (`5` / `10` / `0`; magnified crop caught `p1018` printed period `[[corr again.”|again,”]]`) | 20 | 7 pp (incl. 2 fallback), `34/35` (`97%`), `0` real errors | 90 fallback pages (`ocr_fallback.py`); 0 `〓`; combined 2-vol edition |
 | 2026-11-26 | `story-of-a-life-sherer` v1 | 1825 / 2 vols | 726 (692 transcribed) | 38 (`0` skipped) | 16 on 16 pp (`10` / `6` / `0`; 61 magnified crops checked, caught `p1014` `countenance` misread) | 34 | 7 pp (incl. 2 fallback), `34/35` (`97%`), `0` real errors | 35 fallback pages (`ocr_fallback.py`); 0 `〓`; unchaptered 2-vol novel split into 19 reading sections via `toc_entries` |
+| 2026-11-26 | `transgression-of-terence-clancy-vallings` v1 | 1893 / 3 vols | 938 (875 transcribed + 6 blank versos) | 60 (`0` skipped) | 34 on 32 pp (`16` / `17` / `1` manual; 31 scan spots verified) | 21 | 6 pp (incl. 3 fallback), `28/29` (`97%`), `0` real errors | First three-decker; 435 fallback pages (`ocr_fallback.py`); Flash caught wrong-page draft on `p1223`; 0 `〓` |
 
 ## Preflight checks (false alarms and promotions)
 

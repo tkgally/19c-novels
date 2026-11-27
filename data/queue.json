@@ -338,9 +338,11 @@
    "period": "1890s",
    "from": "blog_2021",
    "blog_2021": 43,
-   "status": "in progress",
+   "status": "published",
    "started": "2026-11-26",
-   "eligibility": "Checked 2026-11-26: original English novel published in 1893 (London: Richard Bentley & Son, 3 vols., first ed.). Complete 500 ppi UIUC scans on Internet Archive (note IA identifier swap: Vol. I = transgressionoft02vall, 332 images; Vol. II = transgressionoft01vall, 288 images; Vol. III = transgressionoft03vall, 304 images; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or VWWP; Online Books Page links only to HathiTrust page images. Open Library and web search show no post-1914 print edition or free digital reading text. Published 1893 (before 1914) -> Rule 5 met (assumed >70 years dead; biographical dates 1857–1940)."
+   "eligibility": "Checked 2026-11-26: original English novel published in 1893 (London: Richard Bentley & Son, 3 vols., first ed.). Complete 500 ppi UIUC scans on Internet Archive (note IA identifier swap: Vol. I = transgressionoft02vall, 332 images; Vol. II = transgressionoft01vall, 288 images; Vol. III = transgressionoft03vall, 304 images; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or VWWP; Online Books Page links only to HathiTrust page images. Open Library and web search show no post-1914 print edition or free digital reading text. Published 1893 (before 1914) -> Rule 5 met (assumed >70 years dead; biographical dates 1857–1940).",
+   "version": 1,
+   "published": "2026-11-26"
   }
  ],
  "rejected": [
