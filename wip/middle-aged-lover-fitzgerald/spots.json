@@ -1,0 +1,220 @@
+{
+ "p0005": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[center]] VOL. I.\n\n[[center]] LONDON:",
+   "replace": "[[center]] VOL. I.\n\n[[image: publisher’s device]]\n\n[[center]] LONDON:",
+   "draft": " VOL. I.\n\n[[center]] LON",
+   "verified": " VOL. I.\n\n[[image: publisher’s device]]\n\n[[center]] LON",
+   "context": " AUTHOR OF “BELLA DONNA,” ETC. ⏎  ⏎ [[center]] IN TWO VOLUMES. ⏎  ⏎ [[center]] VOL. I. ⏎  ⏎ [[center]] LONDON: ⏎  ⏎ [[center]] RICHARD BENTLEY AND SON. ⏎  ⏎ [[center]] 1873. ⏎  ⏎ [[c"
+  }
+ ],
+ "p0008": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "[[center]] The Lampoon. <pref>302</pref>",
+   "replace": "[[center]] The Lampoon <pref>302</pref>",
+   "draft": " The Lampoon. <pref>302</",
+   "verified": " The Lampoon <pref>302</",
+   "context": "Doctor Spooner. <pref>291</pref> ⏎  ⏎ [[center]] Chapter XXIII. ⏎ [[center]] The Lampoon. <pref>302</pref> ⏎ "
+  }
+ ],
+ "p0021": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page 13]]",
+   "replace": "[[page ?]]",
+   "draft": "[[page 13]]",
+   "verified": "[[page ?]]",
+   "context": "[[page 13]] ⏎  ⏎ # Chapter II. ⏎ [[subtitle]] The Braham Nagles. ⏎  ⏎ THE dinner "
+  }
+ ],
+ "p0041": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "“Come, Corinna,’ he said",
+   "replace": "“Come, Corinna,” he said",
+   "draft": "me, Corinna,’ he said",
+   "verified": "me, Corinna,” he said",
+   "context": "> made, however. But Mr. Nagle intervened authoritatively. ⏎  ⏎ “Come, Corinna,’ he said, with a sweet smile, “it is most kind of Mr. Gardiner to as"
+  }
+ ],
+ "p0114": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "MR. NAGLE had",
+   "replace": "M<sc>r</sc>. N<sc>agle</sc> had",
+   "draft": "MR. NAGLE had",
+   "verified": "M<sc>r</sc>. N<sc>agle</sc> had",
+   "context": " 106]] ⏎  ⏎ # Chapter IX. ⏎  ⏎ [[subtitle]] An Unwelcome Intruder. ⏎  ⏎ MR. NAGLE had the great poster open before him, with Mr. Alfred Duke’s na"
+  }
+ ],
+ "p0128": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "THIS little incident",
+   "replace": "T<sc>his</sc> little incident",
+   "draft": "THIS little inci",
+   "verified": "T<sc>his</sc> little inci",
+   "context": "[[page 120]] ⏎  ⏎ # Chapter X. ⏎  ⏎ [[subtitle]] A New Ally. ⏎  ⏎ THIS little incident soon got abroad in Brickford. It was a delightful piece of "
+  }
+ ],
+ "p0143": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "WHEN Corinna",
+   "replace": "W<sc>hen</sc> Corinna",
+   "draft": "WHEN Corinna",
+   "verified": "W<sc>hen</sc> Corinna",
+   "context": "[[page 135]] ⏎  ⏎ # Chapter XI. ⏎ [[subtitle]] Cold Water. ⏎  ⏎ WHEN Corinna and her friend arrived to report progress, and while Mr. Ga"
+  }
+ ],
+ "p0155": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "A FLUSH of joy",
+   "replace": "A <sc>flush</sc> of joy",
+   "draft": "A FLUSH of joy",
+   "verified": "A <sc>flush</sc> of joy",
+   "context": "[[page 147]] ⏎  ⏎ # Chapter XII. ⏎ [[subtitle]] Reconciliation. ⏎  ⏎ A FLUSH of joy spread over her face. But she recollected herself, and drew"
+  }
+ ],
+ "p0207": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "A PARTY of singers was being led",
+   "replace": "A <sc>party</sc> of singers was being led",
+   "draft": "A PARTY of singers ",
+   "verified": "A <sc>party</sc> of singers ",
+   "context": "age ?]] ⏎  ⏎ # Chapter XV. ⏎ [[subtitle]] Mr. Doughty’s Concert. ⏎  ⏎ A PARTY of singers was being led round the country by a musical “farmer,” whose posters flam"
+  }
+ ],
+ "p0221": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "HE stood before the pair",
+   "replace": "H<sc>e</sc> stood before the pair",
+   "draft": "HE stood befor",
+   "verified": "H<sc>e</sc> stood befor",
+   "context": "[[page ?]] ⏎  ⏎ # Chapter XVI. ⏎ [[subtitle]] A Discovery. ⏎  ⏎ HE stood before the pair, and in a quiet, calm voice said to her: “You are missing a"
+  }
+ ],
+ "p0292": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "occasional dances—certainly a most generous",
+   "replace": "occasional dances——certainly a most generous",
+   "draft": "ional dances—certainly a",
+   "verified": "ional dances——certainly a",
+   "context": "the Soirées Musicales and tuneful “Après-midis,” and to the occasional dances—certainly a most generous and handsome “geeney’s” worth. It was a prodigious scheme t"
+  }
+ ],
+ "p1005": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[center]] VOL. II.\n\n[[center]] LONDON:",
+   "replace": "[[center]] VOL. II.\n\n[[image: publisher’s device]]\n\n[[center]] LONDON:",
+   "draft": "VOL. II.\n\n[[center]] LON",
+   "verified": "VOL. II.\n\n[[image: publisher’s device]]\n\n[[center]] LON",
+   "context": " AUTHOR OF “BELLA DONNA,” ETC. ⏎  ⏎ [[center]] IN TWO VOLUMES. ⏎  ⏎ [[center]] VOL. II. ⏎  ⏎ [[center]] LONDON: ⏎  ⏎ [[center]] RICHARD BENTLEY AND SON. ⏎  ⏎ [[center]] 1873. ⏎  ⏎ [[c"
+  }
+ ],
+ "p1022": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "purpose you have had in you mind ever since",
+   "replace": "purpose you have had in [[corr you|your]] mind ever since",
+   "draft": "have had in you mind ever s",
+   "verified": "have had in [[corr you|your]] mind ever s",
+   "context": "ve seen all along, what perhaps no one else did, the unkind purpose you have had in you mind ever since—I must say it—of humiliating me—” ⏎  ⏎ “As I live, no,” he answ"
+  },
+  {
+   "n": 2,
+   "kind": "punctuation",
+   "find": "feel to you—what I—”",
+   "replace": "feel to you—what I——”",
+   "draft": " you—what I—”",
+   "verified": " you—what I——”",
+   "context": "d desert you. But why should I not tell you formally what I feel to you—what I—” ⏎  ⏎ It was the most unlucky thing in the ⏎ "
+  }
+ ],
+ "p1059": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page 51]]",
+   "replace": "[[page ?]]",
+   "draft": "[[page 51]]",
+   "verified": "[[page ?]]",
+   "context": "[[page 51]] ⏎  ⏎ # Chapter V. ⏎ [[subtitle]] Early Skirmishing Round the Pati"
+  }
+ ],
+ "p1188": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "as he did so, were—‘See, this",
+   "replace": "as he did so, were——‘See, this",
+   "draft": "id so, were—‘See, this",
+   "verified": "id so, were——‘See, this",
+   "context": "e papers and tore them furiously into shreds. And his words as he did so, were—‘See, this was intended for <i>her</i>. But I’ll be a fool no longer.’"
+  }
+ ],
+ "p1273": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "I <sc>have had no money</sc>!",
+   "replace": "I <sc>Have had no money</sc>!",
+   "draft": "I <sc>have had no m",
+   "verified": "I <sc>Have had no m",
+   "context": "use I had money. Now, curious as it may seem, all this time I <sc>have had no money</sc>!” ⏎  ⏎ The whole party started, then exchanged looks. ⏎  ⏎ “To be su"
+  }
+ ],
+ "p1296": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page 288]]",
+   "replace": "[[page 88]]",
+   "draft": "[[page 288]]",
+   "verified": "[[page 88]]",
+   "context": "[[page 288]] ⏎  ⏎ [[cont]]do a good deal. I see you have wisely chosen a mor"
+  }
+ ],
+ "p1322": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "as they called me—excluded everything",
+   "replace": "as they called me——excluded everything",
+   "draft": "ey called me—excluded ev",
+   "verified": "ey called me——excluded ev",
+   "context": "her’s position, your own, and mine—the ‘great millionaire,’ as they called me—excluded everything from the matter but self-interest. Yours was too lofty a na"
+  }
+ ],
+ "p1350": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>Billing, Printer, Guildford, Surrey.</sc>",
+   "replace": "BILLING, PRINTER, GUILDFORD, SURREY.",
+   "draft": "<sc>Billing, Printer, Guildford, Surrey.</sc>",
+   "verified": "BILLING, PRINTER, GUILDFORD, SURREY.",
+   "context": " “be put to her election.” ⏎  ⏎ [[center]] THE END. ⏎  ⏎ [[center]] <sc>Billing, Printer, Guildford, Surrey.</sc> ⏎ "
+  }
+ ]
+}

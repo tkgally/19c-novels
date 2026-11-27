@@ -69,7 +69,9 @@
  },
  "omitted_from_reading": "The printed tables of contents of both volumes, the title page of Volume II, and the publisher’s advertisement at the end of Volume II are in the JSON only.",
  "notes_on_text": [
-  "Originally published in two volumes; combined here into a single digital volume."
+  "Originally published in two volumes; combined here into a single digital volume.",
+  "Authorial and period spellings, punctuation, and musical/foreign terms (including variants such as Gluck/Glück and Matinées/Matinees) are preserved as printed; three unmistakable printer’s errors (p1022, p1053, p1114) are marked in the JSON and corrected in the reading editions.",
+  "Seventy-four pages that triggered an automated recitation filter during primary drafting (p0026, p0041, p0081–p0085, p0104, p0138–p0139, p0185, p0187, p0189, p0231–p0235, p0246–p0250, p0276, p0291–p0295, p1050, p1064, p1074, p1076, p1092, p1102, p1124–p1126, p1131, p1136, p1145, p1150, p1158–p1159, p1161, p1163, p1167, p1207–p1216, p1252, p1254, p1259–p1260, p1323–p1332, p1334–p1335, and p1337) were drafted via local Tesseract OCR followed by page-by-page Gemini Pro corrections against the scan, then verified by Gemini Flash and included in the blind sampled audit."
  ],
  "history": [
   {
@@ -115,5 +117,9 @@
    "before": "p1009",
    "title": "Volume II"
   }
+ ],
+ "keep_hyphens": [
+  "p1314",
+  "p1325"
  ]
 }

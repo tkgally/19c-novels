@@ -1,0 +1,3 @@
+{"find": "[[center]]<b>BRICKFORD HALL, BRICKFORD.</b>", "replace": "[[center]]BRICKFORD HALL, BRICKFORD."}
+{"find": "[[center]]Of the —th Du Barry’s own Hussars,", "replace": "[[center]]Of the—th Du Barry’s own Hussars,"}
+{"find": "[[center]]P<sc>art the</sc> F<sc>irst</sc>.", "replace": "[[center]]P<sc>art the</sc> F<sc>irst.</sc>"}
