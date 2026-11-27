@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\nAlhance. 137,", "replace": "[[page 137]]"}
+{"find": "anything for you/ It’s for", "replace": "anything for <i>you</i>! It’s for"}
+{"find": "conviction. |", "replace": "conviction."}
+{"find": "heroines. There's nothing", "replace": "heroines. There’s nothing"}
+{"find": "authority over your\n\nchildren, I suppose?”", "replace": "authority over your children, I suppose?”"}

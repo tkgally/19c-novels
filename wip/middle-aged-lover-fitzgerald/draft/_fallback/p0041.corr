@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\n“Cherry Ripe.” 33\n\nyour charming voice.", "replace": "[[page 33]]\n\n[[cont]]your charming voice."}
+{"find": "Excuses were made, however.", "replace": "Excuses <i>were</i> made, however."}
+{"find": "give them the “Cherry... Uhe. ‘Cherry ‘Ripe.’;, Iyjheard Waylett", "replace": "give them the ‘Cherry.’ The ‘Cherry Ripe.’ I heard Waylett"}
+{"find": "considered that “e was going", "replace": "considered that <i>he</i> was going"}
+{"find": "the enjoy-\n\nVOL. I. 2", "replace": "the enjoy-"}

@@ -1,0 +1,4 @@
+{"find": "[[page ?]]\n\nOld Doughty. 73", "replace": "[[page 73]]"}
+{"find": "he wore a modern coat", "replace": "[[cont]]he wore a modern coat"}
+{"find": "He had a _ nervous fidgety", "replace": "He had a nervous fidgety"}
+{"find": "tried hard to be friends with him; but he\n\nseemed to shiver", "replace": "tried hard to be friends with him; but he seemed to shiver"}

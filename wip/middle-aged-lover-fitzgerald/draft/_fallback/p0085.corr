@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\nOld Doughty. 77", "replace": "[[page 77]]"}
+{"find": "“None of you were pleased when [I last", "replace": "[[cont]]“None of you were pleased when I last"}
+{"find": "fellow-creatures >”", "replace": "fellow-creatures?”"}
+{"find": "keep clear of that in music!”", "replace": "keep clear of that in <sc>music</sc>!”"}
+{"find": "He continued\n\nhis life, and they continued theirs.", "replace": "He continued his life, and they continued theirs."}

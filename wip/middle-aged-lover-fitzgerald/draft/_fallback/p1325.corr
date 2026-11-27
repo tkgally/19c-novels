@@ -1,0 +1,6 @@
+{"find": "[[page ?]]\n\nAn Angel in the House. 317\n\n", "replace": "[[page 317]]\n\n"}
+{"find": "morrow, if not sooner.", "replace": "[[cont]]morrow, if not sooner."}
+{"find": "“Tt was you, recollect,”", "replace": "“It was <i>you</i>, recollect,”"}
+{"find": "Corinna,’ he added,", "replace": "Corinna,” he added,"}
+{"find": "truth! I am the poor man", "replace": "truth! I <i>am</i> the poor man"}
+{"find": "saw me!” He did not dare", "replace": "saw me!”\n\nHe did not dare"}

@@ -1,0 +1,3 @@
+{"find": "[[page ?]]\n\n244 The Middle-aged Lover.\n\ncarried out", "replace": "[[page 244]]\n\n[[cont]]carried out"}
+{"find": "“JT don’t know what", "replace": "“I don’t know what"}
+{"find": "calmly. ‘“There zs some such plan on foot?”", "replace": "calmly. “There <i>is</i> some such plan on foot?”"}

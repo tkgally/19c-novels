@@ -1,0 +1,4 @@
+{"find": "[[page ?]]\n\nA Warning. 241\n\n“That is enough", "replace": "[[page 241]]\n\n“That is enough"}
+{"find": "Now mark me I look on you", "replace": "Now mark me. I look on you"}
+{"find": "which ismore than you", "replace": "which is more than you"}
+{"find": "at once\n\nVOL 16", "replace": "at once"}

@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\nThe Conspirators Discomfited. 32%\n\n", "replace": "[[page 321]]\n\n"}
+{"find": "a disagreeable task,", "replace": "[[cont]]a disagreeable task,"}
+{"find": "“I am sorry te say I must", "replace": "“I am sorry to say I must"}
+{"find": "“TJ know all that,’ he", "replace": "“I know all that,” he"}
+{"find": "That is, of course.”\n\nVOL, II. 21\n", "replace": "That is, of course.”\n"}

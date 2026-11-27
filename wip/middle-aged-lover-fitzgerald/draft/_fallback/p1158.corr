@@ -1,0 +1,4 @@
+{"find": "[[page ?]]\n\n150 The Middle-aged Lover.", "replace": "[[page 150]]"}
+{"find": "wish you to know that,", "replace": "[[cont]]wish you to know that,"}
+{"find": "influence with her, I dare say >?”", "replace": "influence with her, I dare say?”"}
+{"find": "“I'll undertake to manage it.”", "replace": "“I’ll undertake to manage it.”"}

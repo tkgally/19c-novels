@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\nA Discovery. 229\n\n", "replace": "[[page 225]]\n\n"}
+{"find": "“it isa new world to me; something like the angels playing!”", "replace": "“it is a new world to me; something like the <i>angels playing!</i>”"}
+{"find": "anything like that?’ He,", "replace": "anything like that?” He,"}
+{"find": "never was lovemaking in this world.", "replace": "never was love-making in this world."}
+{"find": "to pass across\n\nVOL. 1. 15\n", "replace": "to pass across\n"}

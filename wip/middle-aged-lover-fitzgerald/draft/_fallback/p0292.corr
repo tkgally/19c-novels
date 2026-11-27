@@ -1,0 +1,3 @@
+{"find": "[[page ?]]\n\n284 The Middle-aged Lover.\n\npersonal contact", "replace": "[[page 284]]\n\n[[cont]]personal contact"}
+{"find": "to af the rehearsals, to al the Harmonic Matinées, to al the Soirées Musicales and tuneful “Aprés-midis,”", "replace": "to <i>all</i> the rehearsals, to <i>all</i> the Harmonic Matinées, to <i>all</i> the Soirées Musicales and tuneful “Après-midis,”"}
+{"find": "the subscrip-\n\ntions began to flow in.", "replace": "the subscriptions began to flow in."}

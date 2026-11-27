@@ -1,0 +1,5 @@
+{"find": "[[page ?]]\n\nAn Angel tn the House. 315\n\nshould have done", "replace": "[[page 315]]\n\n[[cont]]should have done"}
+{"find": "nervously, “you would have done", "replace": "nervously, “you <i>would</i> have done"}
+{"find": "“‘As you have spoken", "replace": "“As you have spoken"}
+{"find": "or think 50 meanly of me?", "replace": "or think so meanly of me?"}
+{"find": "no real worth, When I found", "replace": "no real worth. When I found"}
