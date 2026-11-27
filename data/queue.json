@@ -350,6 +350,123 @@
    "eligibility": "Checked 2026-11-26: original English novel published in 1893 (London: Richard Bentley & Son, 3 vols., first ed.). Complete 500 ppi UIUC scans on Internet Archive (note IA identifier swap: Vol. I = transgressionoft02vall, 332 images; Vol. II = transgressionoft01vall, 288 images; Vol. III = transgressionoft03vall, 304 images; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or VWWP; Online Books Page links only to HathiTrust page images. Open Library and web search show no post-1914 print edition or free digital reading text. Published 1893 (before 1914) -> Rule 5 met (assumed >70 years dead; biographical dates 1857–1940).",
    "version": 2,
    "published": "2026-11-27"
+  },
+  {
+   "slug": "says-she-to-her-neighbour-hofland",
+   "title": "Says She to Her Neighbour, What?",
+   "author": "Barbara Hofland",
+   "year": 1812,
+   "volumes": 4,
+   "ia": "saysshetoherneig01hofl",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "saysshetoherneig01hofl"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "saysshetoherneig02hofl"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "saysshetoherneig03hofl"
+    },
+    {
+     "label": "vol. 4",
+     "ia_identifier": "saysshetoherneig04hofl"
+    }
+   ],
+   "images": 1324,
+   "setting": "Fairborough (Yorkshire), London, Bath, and France",
+   "period": "1811–1812 (narrated opening in November 1811)",
+   "from": "blog_2021",
+   "blog_2021": 26,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-27: Qualifies under all four rules. Complete, readable 500 ppi UIUC scans of all 4 volumes on IA with _jp2.zip (306+310+354+354 = 1,324 images): Vol. I pp. [1]–285 (“END OF VOL. I.”), Ch. I–X; Vol. II pp. [1]–291 (“END OF VOL. II.”), Ch. I–XI; Vol. III pp. [1]–336 (“END OF VOL. III.”), Ch. I–XVI; Vol. IV pp. [1]–336 (“THE END.”), Ch. I–XVI (verified internal scandata Delete leaves are unprinted/duplicate blanks with continuous prose across them; _scandata.xml page numbers show zero gaps). English novel published 1812 (London: Minerva Press / A. K. Newman & Co.; published anonymously; Barbara Hofland, 1770–1844). Not in PG pg_catalog.csv (PG #21975 and #35193 are other Hofland works), Standard Ebooks, Wikisource (unlinked on Author:Barbara_Hofland), Faded Page, or Celebration of Women Writers; Online Books Page lists only HathiTrust page images (1812 and 1815). Open Library (OL607433W) and web search show only 1812 and 1815 editions, Readex microfiche, and modern POD scan reprints (HardPress, Forgotten Books)."
+  },
+  {
+   "slug": "summer-at-brighton-young",
+   "title": "A Summer at Brighton: A Modern Novel",
+   "author": "Mary Julia Young",
+   "year": 1807,
+   "volumes": 3,
+   "ia": "summeratbrighton01youn",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "summeratbrighton01youn"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "summeratbrighton02youn"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "summeratbrighton03youn"
+    }
+   ],
+   "images": 812,
+   "setting": "Beacon Priory and Brighton (Sussex) and London",
+   "period": "Early 19th century (Regency Brighton, c. 1805–1807; after Nelson’s death)",
+   "from": "blog_2021",
+   "blog_2021": 50,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-27: Qualifies under all four rules. Complete, readable 500 ppi UIUC scans of all 3 volumes on IA with _jp2.zip (274+276+262 = 812 images): Vol. I pp. [1]–256 (“END OF THE FIRST VOLUME.”), Ch. I–XIII; Vol. II pp. [1]–257 (“END OF THE SECOND VOLUME.”), Ch. I–VIII (Ch. IV misprinted as III); Vol. III pp. [1]–246 (“THE END.”), Ch. I–IX (verified internal scandata Delete leaves are unprinted blanks with continuous prose across them; _scandata.xml page numbers show zero gaps). English novel published 1807 (London: printed by D. N. Shury for J. F. Hughes; issued in 3 vols before later 4-vol editions added “The Story of the Modern Laïs”; Mary Julia Young, fl. 1775–1810). Not in PG pg_catalog.csv, Standard Ebooks, Wikisource, Faded Page, Celebration of Women Writers, or Google quoted-phrase searches; Online Books Page lists only HathiTrust page images. Open Library (OL32892605W) and web search show only 1807–1808 editions and modern POD scan reprints (HardPress, Forgotten Books)."
+  },
+  {
+   "slug": "stanley-thorn-cockton",
+   "title": "Stanley Thorn",
+   "author": "Henry Cockton",
+   "year": 1841,
+   "volumes": 3,
+   "ia": "stanleythorn01cock",
+   "ia_items": [
+    {
+     "label": "vol. 1",
+     "ia_identifier": "stanleythorn01cock"
+    },
+    {
+     "label": "vol. 2",
+     "ia_identifier": "stanleythorn02cock"
+    },
+    {
+     "label": "vol. 3",
+     "ia_identifier": "stanleythorn03cock"
+    }
+   ],
+   "images": 1024,
+   "setting": "London, Eton, Richmond, Epsom, and an English borough election",
+   "period": "1830s",
+   "from": "blog_2021",
+   "blog_2021": 18,
+   "status": "queued",
+   "eligibility": "Checked 2026-11-27: Qualifies under all four rules. Complete, readable 500 ppi UIUC scans of all 3 volumes of the 1841 Bentley first edition on IA with _jp2.zip (348+334+342 = 1,024 images, all 15 plates by George Cruikshank and John Leech present, _scandata.xml shows zero gaps). Binder note: UIUC bound Vol. I and Vol. III bodies swapped after p. 2 — stanleythorn01cock holds Vol. I title page, 15-plate list, and Vol. I pp. 1–2 followed by Vol. III pp. 3–318 (“THE END.”, Ch. I–XVII); stanleythorn02cock is unswapped Vol. II pp. [1]–304 (“END OF VOL. II.”, Ch. I–XVI); stanleythorn03cock holds Vol. III title page and Vol. III pp. 1–2 followed by Vol. I pp. 3–315 (“END OF VOL. I.”, Ch. I–XVI). Verified word-for-word continuity across the swap against the unswapped 1841 1-vol Philadelphia alternate stanleythorn00cockuoft (400 ppi UofT, 384 images, _jp2.zip). English novel published 1841 (London: Richard Bentley; serialized in Bentley’s Miscellany 1840–1841; Henry Cockton, 1807–1853). Not in PG pg_catalog.csv, Standard Ebooks, Wikisource (unlinked on Author:Henry_Cockton), or Faded Page; Online Books Page lists only HathiTrust page images (1841, 1842, 1854, 1860). Open Library (OL7604201W) and web search show only 1840–1860 editions and modern POD scan reprints (Creative Media Partners, Kessinger)."
+  },
+  {
+   "slug": "loves-old-sweet-song-bingham",
+   "title": "“Love’s Old Sweet Song”: A Novel",
+   "author": "Clifton Bingham",
+   "year": 1912,
+   "volumes": 1,
+   "ia": "lovesoldsweetson00bing",
+   "images": 312,
+   "setting": "London (Hampstead Heath) and Surrey (Redhill Common)",
+   "period": "Early 20th century (c. 1910s)",
+   "status": "queued",
+   "eligibility": "Checked 2026-11-27: Qualifies under all four rules. Complete, readable 300 ppi University of Toronto scan on IA (lovesoldsweetson00bing_jp2.zip, 312 images; _scandata.xml shows zero gaps and zero internal Delete leaves), comprising front matter, song lyrics, Ch. I–XLIV, and Epilogue (pp. [7]–302 plus end ads). Original English novel published 1912 (Toronto: Copp, Clark Co. / London: Stanley Paul & Co.; Graham Clifton Bingham, 1859–1913). Not in PG pg_catalog.csv (PG #54148 is an unrelated anthology with the same title), Standard Ebooks, Wikisource (only the 1884 song lyric is on Wikisource), Faded Page, Online Books Page, or Google quoted-phrase searches. Open Library (OL10491223W) and web search show only 1912 editions and modern POD scan reprints (Forgotten Books, LeatherBound)."
+  },
+  {
+   "slug": "loyal-traitors-bridgman",
+   "title": "Loyal Traitors: A Story of Friendship for the Filipinos",
+   "author": "Raymond L. Bridgman",
+   "year": 1903,
+   "volumes": 1,
+   "ia": "loyaltraitorssto00bridrich",
+   "images": 332,
+   "setting": "Boston, Massachusetts and the Philippines (Manila and Luzon)",
+   "period": "1898–1902 (Philippine–American War)",
+   "status": "queued",
+   "eligibility": "Checked 2026-11-27: Qualifies under all four rules. Complete, readable 600 ppi UC Berkeley / CDL scan on IA (loyaltraitorssto00bridrich_jp2.zip, 332 images; _page_numbers.json shows continuous pages 7–309 with zero gaps and zero Delete leaves in scandata.zip), covering title page, dedication, epigraphs, Contents, and Ch. I–XXX (pp. 9–310). Original English novel published 1903 (Boston: James H. West Company; Raymond Landon Bridgman, 1848–1925). Not in PG pg_catalog.csv, Standard Ebooks, Wikisource, Faded Page, or Google quoted-phrase searches; Online Books Page lists only HathiTrust page images (1903). Open Library (OL1494084W) and web search show only the 1903 edition, NDLI’s IA mirror, and modern POD scan reprints (Creative Media Partners, Gyan/Facsimile Publisher)."
   }
  ],
  "rejected": [
@@ -488,6 +605,14 @@
    "ia": "modernflirtation01sinc",
    "blog_2021": 38,
    "why": "Rule 3 (free digital reading edition exists): Published in Project Gutenberg as PG #43358 (verified in pg_catalog.csv)."
+  },
+  {
+   "title": "Caleb Stukely",
+   "author": "Samuel Phillips",
+   "year": 1844,
+   "ia": "calebstukely01phil",
+   "blog_2021": 34,
+   "why": "Rule 3 (free digital reading edition exists for a substantial portion): Project Gutenberg hosts the complete concluding third of the novel (matching 1844 Vol. III, Parts XI–XIV + Part the Last, ~83,000 words of ~252,000 raw OCR words) in Blackwood’s Edinburgh Magazine Vol. 53: PG #9992 (Jan 1843), PG #13062 (Feb 1843), PG #12761 (Mar 1843), PG #11745 (Apr 1843), and PG #12263 (May 1843). Note: Vols. I–II (serialized in Blackwood’s Vols. 51–52, 1842) are not in PG, and all three 1844 UIUC volumes (calebstukely01phil–03phil, 500 ppi, 994 images, _jp2.zip) are complete and free of post-1914 non-POD print editions."
   }
  ]
 }
