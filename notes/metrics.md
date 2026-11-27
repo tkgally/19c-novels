@@ -9,6 +9,7 @@
 | 2026-11-26 | `by-the-cornish-sea-isabell` v1 | 1885 / 2 vols | 676 (648 transcribed) | 30 (`3` skipped) | 15 on 14 pp (`5` / `10` / `0`; magnified crop caught `p1018` printed period `[[corr again.”|again,”]]`) | 20 | 7 pp (incl. 2 fallback), `34/35` (`97%`), `0` real errors | 90 fallback pages (`ocr_fallback.py`); 0 `〓`; combined 2-vol edition |
 | 2026-11-26 | `story-of-a-life-sherer` v1 | 1825 / 2 vols | 726 (692 transcribed) | 38 (`0` skipped) | 16 on 16 pp (`10` / `6` / `0`; 61 magnified crops checked, caught `p1014` `countenance` misread) | 34 | 7 pp (incl. 2 fallback), `34/35` (`97%`), `0` real errors | 35 fallback pages (`ocr_fallback.py`); 0 `〓`; unchaptered 2-vol novel split into 19 reading sections via `toc_entries` |
 | 2026-11-26 | `transgression-of-terence-clancy-vallings` v1 | 1893 / 3 vols | 938 (875 transcribed + 6 blank versos) | 60 (`0` skipped) | 34 on 32 pp (`16` / `17` / `1` manual; 31 scan spots verified) | 21 | 6 pp (incl. 3 fallback), `28/29` (`97%`), `0` real errors | First three-decker; 435 fallback pages (`ocr_fallback.py`); Flash caught wrong-page draft on `p1223`; 0 `〓` |
+| 2026-11-27 | `middle-aged-lover-fitzgerald` v1 | 1873 / 2 vols | 692 (660 transcribed + 2 blank versos) | 36 (`1` already-applied skipped) | 20 on 19 pp (`6` / `14` / `0`; 17 magnified crops checked; scan overturned judge on `p1273` `<sc>have had no money</sc>`) | 3 | 6 pp (incl. 1 fallback `p0139`), `28/30` (`93%`), `0` real errors | 74 fallback pages (`ocr_fallback.py`, 0 skipped patches); full `_djvu.txt` word-stream diff showed 0 dropped lines; 0 `〓` |
 
 ## Preflight checks (false alarms and promotions)
 
@@ -20,3 +21,6 @@
 | 2026-11-26 | `hyphen-joins` | `story-of-a-life-sherer` | `an every-|together` (`p0277`–`p0278`) | Caught missed bottom line on `p0277` (`day street; priests in groups were taking snuff`) missed by both Pro and Flash |
 | 2026-11-26 | `quote-balance` | `story-of-a-life-sherer` | `p0104`, `p0292`, `p0295`/`p0297`, `p1022`, `p1299`, `p1302` | All 6 flagged real compositor missing/spurious quotation marks on the scan |
 | 2026-11-26 | `verse-joins` | `story-of-a-life-sherer` | `p1360`–`p1361` (`[9] | [9]`) | Caught spurious `[[cont]]` between two separate 9-line Spenserian stanzas |
+| 2026-11-27 | `contents` | `middle-aged-lover-fitzgerald` | `p1008` (`A Confession 238`) | Genuine Victorian printer mismatch between Vol. II Contents (`A CONFESSION`) and Ch. XXI heading (`A CONVERSION.` on `p1246`) |
+| 2026-11-27 | `folios` | `middle-aged-lover-fitzgerald` | `p1296` (`88` after `287`) | Verified genuine dropped leading `2` on Vol. II p. 288 |
+| 2026-11-27 | `misprints` | `middle-aged-lover-fitzgerald` | `p0110`–`p0111` (`—th`) | Verified genuine redacted regiment number (`—th Du Barry’s own Hussars`) |

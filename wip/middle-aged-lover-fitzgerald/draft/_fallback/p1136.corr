@@ -1,7 +1,0 @@
-{"find": "[[page ?]]\n\n128 The Middle-aged Lover.\n\n", "replace": "[[page 128]]\n\n"}
-{"find": "capable enough to see her,", "replace": "[[cont]]capable enough to see her,"}
-{"find": "to see me. I tell you what, sir, I know there’s a game going onhere.", "replace": "to see <i>me</i>. I tell you what, sir, I <i>know</i> there’s a game going on here."}
-{"find": "“JT shall be admitted!", "replace": "“I shall be admitted!"}
-{"find": "captain or commander-inchief here?", "replace": "captain or commander-in-chief here?"}
-{"find": "“T think you must see,", "replace": "“I think you must see,"}
-{"find": "due allowance for\n\nyour excitement", "replace": "due allowance for your excitement"}
