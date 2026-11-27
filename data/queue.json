@@ -196,8 +196,9 @@
    "period": "1640s (English Civil War)",
    "from": "blog_2021",
    "blog_2021": 46,
-   "status": "queued",
-   "eligibility": "Checked 2026-11-26: original English historical novel published in 1850 (London: Henry Colburn, 3 vols., first ed.; TP subtitle 'A Tale of the Troubles in 164–'). Complete 500 ppi UIUC scans on Internet Archive (reginaldhastings01warb: 364 images; 02warb: 336 images; 03warb: 318 images; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or Penn Online Books Page. Open Library and web search show only 1850 editions and no post-1914 print edition or free digital reading text. Eliot Warburton (1810–1852) died >70 years ago (Rule 5 met)."
+   "status": "in progress",
+   "started": "2026-11-27",
+   "eligibility": "Checked 2026-11-26 (re-checked 2026-11-27): original English historical novel published in 1850 (London: Henry Colburn, 3 vols., first ed.; TP subtitle 'A Tale of the Troubles in 164—'). Complete 500 ppi UIUC scans on Internet Archive (reginaldhastings01warb: 368 leaves, pp. [i]–viii, [1]–339 + ad; 02warb: 342 leaves, pp. [1]–315 + ad; 03warb: 322 leaves, pp. [1]–300; _jp2.zip present for all 3; 3 Delete duplicate pairs verified continuous). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, or Penn Online Books Page (HathiTrust/IA images only). Open Library and web search show only 1850 editions and POD scan reprints, no post-1914 reset print edition or free digital reading text. Eliot Warburton (1810–1852) died >70 years ago (Rule 5 met)."
   },
   {
    "slug": "anne-sherwood-aikin-kortright",

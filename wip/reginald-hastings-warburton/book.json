@@ -1,0 +1,82 @@
+{
+ "id": "reginald-hastings-warburton",
+ "version": 1,
+ "date": "2026-11-27",
+ "title": "Reginald Hastings",
+ "subtitle": "Or, A Tale of the Troubles in 164—",
+ "short_title": "Reginald Hastings",
+ "authors": [
+  {
+   "name": "Eliot Warburton",
+   "sort": "Warburton, Eliot",
+   "born": 1810,
+   "died": 1852
+  }
+ ],
+ "place": "London",
+ "publisher": "Henry Colburn",
+ "year": 1850,
+ "volumes": 3,
+ "edition_statement": "First edition, in three volumes",
+ "setting": "England and Holland",
+ "period": "1640s (English Civil War)",
+ "subjects": [
+  "English Civil War",
+  "Cavaliers",
+  "historical fiction",
+  "England",
+  "Holland"
+ ],
+ "summary": "Draft placeholder summary — to be completed after drafting and reviewing the full text of Eliot Warburton’s three-volume historical novel Reginald Hastings (1850).",
+ "source": {
+  "ia_identifier": "reginaldhastings01warb",
+  "contributor": "University of Illinois Urbana-Champaign",
+  "hidden_leaves": [0, 20, 21, 363, 364, 365, 366, 367],
+  "items": [
+   {
+    "ia_identifier": "reginaldhastings01warb",
+    "first_leaf": "p0000",
+    "hidden_leaves": [0, 20, 21, 363, 364, 365, 366, 367],
+    "label": "Volume I"
+   },
+   {
+    "ia_identifier": "reginaldhastings02warb",
+    "first_leaf": "p1000",
+    "hidden_leaves": [0, 1, 2, 98, 99, 337, 338, 339, 340, 341],
+    "label": "Volume II"
+   },
+   {
+    "ia_identifier": "reginaldhastings03warb",
+    "first_leaf": "p2000",
+    "hidden_leaves": [0, 60, 61, 317, 318, 319, 320, 321],
+    "label": "Volume III"
+   }
+  ]
+ },
+ "omitted_from_reading": "Volume II’s half-title, the title pages and printer’s imprints of Volumes II and III, and the publisher’s advertisements at the backs of Volumes I and II are in the JSON only.",
+ "notes_on_text": [
+  "Published originally in three volumes, combined here into a single digital edition with each volume presented as a part keeping its own chapter numbering.",
+  "Six duplicate or motion-blurred scanner re-shoot leaves (Volume I: leaves 20–21; Volume II: leaves 98–99; Volume III: leaves 60–61) were excluded; continuous text was verified across each skip."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-27",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {"at": "p0007", "kind": "titlepage"},
+  {"at": "p0009", "kind": "dedication", "title": "Dedication"},
+  {"at": "p0011", "kind": "preface", "title": "Introduction"},
+  {"at": "p0356", "kind": "advertisements", "title": "Publisher’s advertisements (Volume I)"},
+  {"at": "p1009", "kind": "front", "reading": false, "title": "Front matter (Volume II)"},
+  {"at": "p1330", "kind": "advertisements", "title": "Publisher’s advertisements (Volume II)"},
+  {"at": "p2007", "kind": "front", "reading": false, "title": "Front matter (Volume III)"}
+ ],
+ "parts": [
+  {"before": "p0015", "title": "Volume I"},
+  {"before": "p1013", "title": "Volume II"},
+  {"before": "p2009", "title": "Volume III"}
+ ]
+}
