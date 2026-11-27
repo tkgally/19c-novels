@@ -26,7 +26,7 @@
   "secret guilt",
   "courtship"
  ],
- "summary": "Draft summary — to be completed after transcription and reading of the novel.",
+ "summary": "Set in Little Chillington, a West Country market town at the edge of a moor, this three-volume novel by Harold Vallings (1857–1940) follows Terence Clancy, a charming young Irish doctor who settles in the district with the backing of his reserved friend Simon Secretan. Both men are drawn to Nell Tredethlyn, daughter of the local squire. After Terence wins Nell’s hand and inherits a thriving practice, a secret from his earlier attachment to a village woman threatens his marriage, his friendship with Simon, and his standing in the town. Published in 1893 by Richard Bentley & Son, the three volumes are combined here into a single digital edition.",
  "source": {
   "ia_identifier": "transgressionoft02vall",
   "contributor": "University of Illinois Urbana-Champaign",
@@ -52,11 +52,14 @@
    }
   ]
  },
- "omitted_from_reading": "The half-titles and the title pages of Volumes II and III are in the JSON only.",
+ "omitted_from_reading": "The half-titles, the title pages of Volumes II and III, and the repeating printer’s stock chapter ornaments are omitted from the reading editions; the half-titles and later title pages remain in the JSON.",
  "notes_on_text": [
   "Published originally in three volumes, combined here into a single digital edition with each volume presented as a part keeping its own chapter numbering.",
-  "On the Internet Archive, the identifiers for Volumes I and II are swapped (transgressionoft02vall holds Volume I and transgressionoft01vall holds Volume II); this edition follows the printed volume numbers."
+  "On the Internet Archive, the identifiers for Volumes I and II are swapped: transgressionoft02vall holds Volume I and transgressionoft01vall holds Volume II. This edition follows the printed volume numbers.",
+  "Eight duplicate or motion-blurred scanner re-shoot leaves (Volume I: leaves 132–133, 322–323; Volume III: leaves 152–153, 284–285) were excluded; Volume III leaves 294–295 (printed pp. 282–283) are retained as the sole scans of those pages.",
+  "During drafting, 435 leaves (mostly in Volumes II and III, listed in draft/fallback.json and log.md) were transcribed via the local Tesseract OCR fallback pipeline with Gemini Pro JSONL corrections against the scans, followed by full Gemini Flash second-pass verification and blind Pro spot-judging."
  ],
+ "keep_hyphens": ["p0021", "p0222", "p1119", "p1168", "p1197", "p2010", "p2135"],
  "history": [
   {
    "version": 1,
