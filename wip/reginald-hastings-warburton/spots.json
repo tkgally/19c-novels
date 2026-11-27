@@ -1,0 +1,397 @@
+{
+ "p0010": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[blank]]",
+   "replace": "[[page ?]]\n\n[[blank]]",
+   "draft": "[[blank]]",
+   "verified": "[[page ?]]\n\n[[blank]]",
+   "context": "[[blank]] ⏎ "
+  }
+ ],
+ "p0084": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "from pre-possession on either",
+   "replace": "from prepossession on either",
+   "draft": "from pre-possession o",
+   "verified": "from prepossession o",
+   "context": "ersies with which Sir Janus endeavours to ‘preserve himself from pre-possession on either sides,’ as he says; I read that book, at first patiently, t"
+  }
+ ],
+ "p0095": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>Absalom.</sc>",
+   "replace": "<sc>absalom.</sc>",
+   "draft": "<sc>Absalom.</sc>",
+   "verified": "<sc>absalom.</sc>",
+   "context": "s and camps, in towns and country fares. ⏎ </verse> ⏎ [[right]] <sc>Absalom.</sc> ⏎  ⏎ <verse> ⏎ He’s reason’s renegade; one with whom ⏎ The word <i>"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "<sc>Jordan.</sc>",
+   "replace": "<sc>jordan.</sc>",
+   "draft": "<sc>Jordan.</sc>",
+   "verified": "<sc>jordan.</sc>",
+   "context": "Whose cogitation is the child of action. ⏎ </verse> ⏎ [[right]] <sc>Jordan.</sc> ⏎  ⏎ I <sc>had</sc> scarcely cleared the first enclosure, when "
+  }
+ ],
+ "p0109": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "—<sc>Shakespere.</sc>",
+   "replace": "—<sc>shakespere.</sc>",
+   "draft": "—<sc>Shakespere.</",
+   "verified": "—<sc>shakespere.</",
+   "context": " his noble nature,) not to let ⏎ Thy noble service perish too.—<sc>Shakespere.</sc> ⏎ </verse> ⏎  ⏎ T<sc>he</sc> sun was setting as we rode away from"
+  }
+ ],
+ "p0122": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>Old Play.</sc>",
+   "replace": "<sc>old play.</sc>",
+   "draft": "<sc>Old Play.</sc>",
+   "verified": "<sc>old play.</sc>",
+   "context": "t, and repel this first rebellious crew. ⏎ </verse> ⏎ [[right]] <sc>Old Play.</sc> ⏎  ⏎ “W<sc>ell</sc>!” said Lord Digby, looking wistfully at the"
+  }
+ ],
+ "p0137": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "and their late prisoners, I found",
+   "replace": "and their late prisoner, I found",
+   "draft": "ate prisoners, I found",
+   "verified": "ate prisoner, I found",
+   "context": "r as the river Witham. Following close after the Roundheads and their late prisoners, I found Blount stationed at the mouth of the pass, sitting stiffly "
+  }
+ ],
+ "p0150": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "stalked into the hostelry as if the",
+   "replace": "stalked into the hostelrie as if the",
+   "draft": " the hostelry as if the",
+   "verified": " the hostelrie as if the",
+   "context": "lier had dismounted, flung his bridle to a man-at-arms, and stalked into the hostelry as if the ⏎ "
+  }
+ ],
+ "p0195": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<i>mélée</i>",
+   "replace": "<i>mêlée</i>",
+   "draft": "<i>mélée</i>",
+   "verified": "<i>mêlée</i>",
+   "context": "y strength failing me, and I only sought to reach the first <i>mélée</i>, to fling myself among the enemy, and perish in the ⏎ "
+  }
+ ],
+ "p0309": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>The Birtle Tragedy.</sc>",
+   "replace": "<sc>the birtle tragedy.</sc>",
+   "draft": "<sc>The Birtle Tragedy.</sc>",
+   "verified": "<sc>the birtle tragedy.</sc>",
+   "context": "oh that’s sudden— ⏎ Spare him! spare him! ⏎ </verse> ⏎  ⏎ [[right]] <sc>The Birtle Tragedy.</sc> ⏎  ⏎ I <sc>lay</sc> in a strange state of reckless discomfort i"
+  }
+ ],
+ "p0338": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[right]] <sc>Shakespere.</sc>",
+   "replace": "[[right]] <sc>shakespere.</sc>",
+   "draft": "right]] <sc>Shakespere.</",
+   "verified": "right]] <sc>shakespere.</",
+   "context": "opinion that fire cannot melt out of me. I will die in it. ⏎  ⏎ [[right]] <sc>Shakespere.</sc> ⏎ </blockquote> ⏎  ⏎ D<sc>ays</sc> passed on; Essex had retired h"
+  }
+ ],
+ "p1010": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[blank]]",
+   "replace": "[[page ?]]\n\n[[blank]]",
+   "draft": "[[blank]]",
+   "verified": "[[page ?]]\n\n[[blank]]",
+   "context": "[[blank]] ⏎ "
+  }
+ ],
+ "p1013": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>shakespere.</sc>",
+   "replace": "<sc>Shakespere.</sc>",
+   "draft": "<sc>shakespere.</",
+   "verified": "<sc>Shakespere.</",
+   "context": " ⏎ How say you?—My prisoner, or my guest? ⏎ </verse> ⏎  ⏎ [[right]] <sc>shakespere.</sc> ⏎  ⏎ A<sc>fter</sc> some hours’ rest, Hugo was again summoned t"
+  }
+ ],
+ "p1023": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>shakespere.</sc>",
+   "replace": "<sc>Shakespere.</sc>",
+   "draft": "<sc>shakespere.</",
+   "verified": "<sc>Shakespere.</",
+   "context": "ffian! let go that rude, uncivil touch! ⏎ </verse> ⏎  ⏎ [[right]] <sc>shakespere.</sc> ⏎  ⏎ T<sc>he</sc> second morning of Hugo’s captivity passed slo"
+  }
+ ],
+ "p1150": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>Spenser’s “Faerie Queene.”</sc>",
+   "replace": "<sc>spenser’s “faerie queene.”</sc>",
+   "draft": "<sc>Spenser’s “Faerie Queene.”</sc>",
+   "verified": "<sc>spenser’s “faerie queene.”</sc>",
+   "context": ", ⏎ And ’gan to highest God entirely pray. ⏎ </verse> ⏎ [[right]] <sc>Spenser’s “Faerie Queene.”</sc> ⏎  ⏎ O<sc>n</sc> my return towards the town, I met Blount with "
+  }
+ ],
+ "p1223": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>Shakspere</sc>.",
+   "replace": "<sc>Shakespere</sc>.",
+   "draft": "<sc>Shakspere</sc>.",
+   "verified": "<sc>Shakespere</sc>.",
+   "context": "ood, ⏎ To shew the world I am a gentleman. ⏎ </verse> ⏎ [[right]] <sc>Shakspere</sc>. ⏎  ⏎ How vainly we attempt to mete out our lives by spaces of t"
+  }
+ ],
+ "p1226": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "When my gaoler entered, he",
+   "replace": "When my goaler entered, he",
+   "draft": "When my gaoler entered,",
+   "verified": "When my goaler entered,",
+   "context": "se than usual, and the sound of troops mustering on parade. When my gaoler entered, he informed me, that Colonel Cromwell was arrived, and that th"
+  }
+ ],
+ "p1281": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "had scarcely enough",
+   "replace": "had scarcsely enough",
+   "draft": "had scarcely enough",
+   "verified": "had scarcsely enough",
+   "context": "ride. She succumbed to her sickness, and when she died, she had scarcely enough left of all her once-boasted linen to make her shroud. ⏎  ⏎ And"
+  }
+ ],
+ "p1294": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>Shakespere.</sc>",
+   "replace": "<sc>shakespere.</sc>",
+   "draft": "<sc>Shakespere.</",
+   "verified": "<sc>shakespere.</",
+   "context": ", farewell—and farewell life with thee! ⏎ </verse> ⏎  ⏎ [[right]] <sc>Shakespere.</sc> ⏎  ⏎ O<sc>ur</sc> escape had been planned with all possible sec"
+  }
+ ],
+ "p1308": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>Andrew Marvel.</sc>",
+   "replace": "<sc>andrew marvel.</sc>",
+   "draft": "<sc>Andrew Marvel.</sc>",
+   "verified": "<sc>andrew marvel.</sc>",
+   "context": "hipwrecked cockle and the muscle shell. ⏎ </verse> ⏎  ⏎ [[right]] <sc>Andrew Marvel.</sc> ⏎  ⏎ [[break]] ⏎  ⏎ <verse> ⏎ A land that rides at anchor, and is moo"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "<sc>Butler.</sc>",
+   "replace": "<sc>butler.</sc>",
+   "draft": "<sc>Butler.</sc>",
+   "verified": "<sc>butler.</sc>",
+   "context": "ne does not dwell, but goes “on board.” ⏎ </verse> ⏎  ⏎ [[right]] <sc>Butler.</sc> ⏎  ⏎ T<sc>hat</sc> evening we procured a light waggon to transp"
+  }
+ ],
+ "p1309": [
+  {
+   "n": 1,
+   "kind": "punctuation",
+   "find": "hunter’s house.",
+   "replace": "hunter’s house,",
+   "draft": "nter’s house.",
+   "verified": "nter’s house,",
+   "context": "Sgravenhage, or the “Count’s Hedge,” which fenced round the hunter’s house. ⏎ "
+  }
+ ],
+ "p1321": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "anxious countenence, and",
+   "replace": "anxious countenance, and",
+   "draft": "ious countenence, and",
+   "verified": "ious countenance, and",
+   "context": "I was immediately joined by Bryan, who led me aside with an anxious countenence, and told me he had some news to communicate. ⏎  ⏎ “That evil destin"
+  }
+ ],
+ "p1330": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "From the SPECTATOR.",
+   "replace": "From the <sc>spectator</sc>.",
+   "draft": "From the SPECTATOR.",
+   "verified": "From the <sc>spectator</sc>.",
+   "context": "k]] ⏎  ⏎ [[center]] CRITICAL OPINIONS ON THIS WORK. ⏎  ⏎ [[center]] From the SPECTATOR. ⏎  ⏎ Nothing but the already overdone topics prevented Mr. Warb"
+  },
+  {
+   "n": 2,
+   "kind": "words",
+   "find": "From the MORNING POST.",
+   "replace": "From the <sc>morning post</sc>.",
+   "draft": "From the MORNING POST.",
+   "verified": "From the <sc>morning post</sc>.",
+   "context": "city, or humour are to be found in the volumes. ⏎  ⏎ [[center]] From the MORNING POST. ⏎  ⏎ This delightful work is, from first to last, a splendid pa"
+  },
+  {
+   "n": 3,
+   "kind": "words",
+   "find": "From the GLOBE.",
+   "replace": "From the <sc>globe</sc>.",
+   "draft": "From the GLOBE.",
+   "verified": "From the <sc>globe</sc>.",
+   "context": "ng and grouping which are happily demonstrated. ⏎  ⏎ [[center]] From the GLOBE. ⏎  ⏎ Mr. Warburton has fulfilled the promise of his title-page."
+  },
+  {
+   "n": 4,
+   "kind": "words",
+   "find": "From the QUARTERLY REVIEW.",
+   "replace": "From the <sc>quarterly review</sc>.",
+   "draft": "From the QUARTERLY REVIEW.",
+   "verified": "From the <sc>quarterly review</sc>.",
+   "context": "eliefs from the <i>ennui</i> of every-day life. ⏎  ⏎ [[center]] From the QUARTERLY REVIEW. ⏎  ⏎ This is an account of a tour in the Levant, including Egyp"
+  },
+  {
+   "n": 5,
+   "kind": "words",
+   "find": "HENRY COLBURN, Publisher",
+   "replace": "H<sc>enry</sc> C<sc>olburn</sc>, Publisher",
+   "draft": "HENRY COLBURN, Publisher",
+   "verified": "H<sc>enry</sc> C<sc>olburn</sc>, Publisher",
+   "context": "prises much useful and interesting information. ⏎  ⏎ [[center]] HENRY COLBURN, Publisher, 13, Great Marlborough Street. ⏎ "
+  }
+ ],
+ "p2052": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>Spenser.</sc>",
+   "replace": "<sc>spenser.</sc>",
+   "draft": "<sc>Spenser.</sc>",
+   "verified": "<sc>spenser.</sc>",
+   "context": "angry eyes, and stiff, upstanding eares. ⏎ </verse> ⏎ [[right]] <sc>Spenser.</sc> ⏎  ⏎ As I approached the town, I had heard the roar of an angry"
+  }
+ ],
+ "p2071": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>Shakespere.</sc>",
+   "replace": "<sc>shakespere.</sc>",
+   "draft": "<sc>Shakespere.</",
+   "verified": "<sc>shakespere.</",
+   "context": "t, ⏎ And time hath sworn us into slovenry. ⏎ </verse> ⏎ [[right]] <sc>Shakespere.</sc> ⏎  ⏎ T<sc>he</sc> time that I have passed over lightly, I need "
+  }
+ ],
+ "p2105": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[page 9]]",
+   "replace": "[[page 95]]",
+   "draft": "[[page 9]]",
+   "verified": "[[page 95]]",
+   "context": "[[page 9]] ⏎  ⏎ # Chapter V. ⏎  ⏎ <verse> ⏎ What strain again!—it had a dying fa"
+  }
+ ],
+ "p2141": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "when the travelers must depart",
+   "replace": "when the travellers must depart",
+   "draft": "en the travelers must de",
+   "verified": "en the travellers must de",
+   "context": " now entered the room, and told us that the hour approached when the travelers must depart, and our parole would terminate. He had “at length got rid "
+  }
+ ],
+ "p2178": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "visaged old portress, who",
+   "replace": "visaged old fortress, who",
+   "draft": "visaged old portress, who",
+   "verified": "visaged old fortress, who",
+   "context": "traight to the convent door, where I was answered by a sour-visaged old portress, who just looked at me, and then shut the door in my face. I did"
+  }
+ ],
+ "p2179": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "that the portress had sworn",
+   "replace": "that the fortress had sworn",
+   "draft": "that the portress had ",
+   "verified": "that the fortress had ",
+   "context": " Then his reverence explained to me, by the equerry’s help, that the portress had sworn her life was persecuted out of her by heretics and islander"
+  }
+ ],
+ "p2189": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "<sc>cancionero de amberes</sc>.",
+   "replace": "<sc>Cancionero de Amberes</sc>.",
+   "draft": "<sc>cancionero de amberes</sc>.",
+   "verified": "<sc>Cancionero de Amberes</sc>.",
+   "context": " mine own misery: ⏎ Who then will pity me? ⏎ </verse> ⏎ [[right]] <sc>cancionero de amberes</sc>. ⏎  ⏎ I<sc>f</sc> labour be a struggle, it is a brief one, or se"
+  }
+ ],
+ "p2210": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "Nachseßet der Jäger",
+   "replace": "Nachsetzet der Jäger",
+   "draft": "Nachseßet der Jäger",
+   "verified": "Nachsetzet der Jäger",
+   "context": " ⏎ Hinan! hinan! ⏎ Dort pfeifet die Gems’! Ha, springe nur vor, ⏎ Nachseßet der Jäger, und fliegt empor. ⏎ </verse> ⏎ [[right]] “Kaiser Max.” ⏎  ⏎ A<sc>t"
+  }
+ ],
+ "p2281": [
+  {
+   "n": 1,
+   "kind": "words",
+   "find": "[[right]] <sc>Old Ballad.</sc>",
+   "replace": "[[right]] <sc>old ballad.</sc>",
+   "draft": "right]] <sc>Old Ballad.</sc>",
+   "verified": "right]] <sc>old ballad.</sc>",
+   "context": ", ⏎ Says, I’ll shine on ye yet in your ain countree. ⏎ </verse> ⏎ [[right]] <sc>Old Ballad.</sc> ⏎  ⏎ I <sc>could</sc> easily imagine the manner in which the Pu"
+  }
+ ]
+}

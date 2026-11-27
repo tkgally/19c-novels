@@ -1,0 +1,5 @@
+{"find": "From the SPECTATOR.", "replace": "From the <sc>spectator</sc>."}
+{"find": "From the MORNING POST.", "replace": "From the <sc>morning post</sc>."}
+{"find": "From the GLOBE.", "replace": "From the <sc>globe</sc>."}
+{"find": "From the QUARTERLY REVIEW.", "replace": "From the <sc>quarterly review</sc>."}
+{"find": "HENRY COLBURN, Publisher", "replace": "H<sc>enry</sc> C<sc>olburn</sc>, Publisher"}

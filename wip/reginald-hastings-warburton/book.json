@@ -18,16 +18,16 @@
  "year": 1850,
  "volumes": 3,
  "edition_statement": "First edition, in three volumes",
- "setting": "England and Holland",
- "period": "1640s (English Civil War)",
+ "setting": "England, Holland, and Switzerland",
+ "period": "1640s to the Restoration (English Civil War)",
  "subjects": [
   "English Civil War",
   "Cavaliers",
+  "Puritans",
   "historical fiction",
-  "England",
-  "Holland"
+  "exile"
  ],
- "summary": "Draft placeholder summary — to be completed after drafting and reviewing the full text of Eliot Warburton’s three-volume historical novel Reginald Hastings (1850).",
+ "summary": "Set in England, Holland, and Switzerland during the English Civil War and its aftermath, this three-volume historical novel by Eliot Warburton (1810–1852) takes the form of a memoir written by Reginald Hastings, a young Cavalier of Beaumanoir. As war breaks out between Charles I and Parliament, Reginald and his brother Hugo take up arms for the King, fighting at Edgehill, Newbury, and Naseby while entangled with royalist commanders, Parliamentary officers, and a Puritan household at a neighbouring castle. Between imprisonment, escape, and exile on the Continent, Reginald’s loyalty to his family and to Zillah is tested through the years leading up to the Restoration. Published in 1850 by Henry Colburn, the three volumes are combined here into a single digital edition.",
  "source": {
   "ia_identifier": "reginaldhastings01warb",
   "contributor": "University of Illinois Urbana-Champaign",
@@ -53,11 +53,14 @@
    }
   ]
  },
- "omitted_from_reading": "Volume II’s half-title, the title pages and printer’s imprints of Volumes II and III, and the publisher’s advertisements at the backs of Volumes I and II are in the JSON only.",
+ "omitted_from_reading": "Volume II’s half-title, the later volume title pages, the later printer’s imprints, and the publisher’s advertisements are in the JSON only.",
  "notes_on_text": [
   "Published originally in three volumes, combined here into a single digital edition with each volume presented as a part keeping its own chapter numbering.",
-  "Six duplicate or motion-blurred scanner re-shoot leaves (Volume I: leaves 20–21; Volume II: leaves 98–99; Volume III: leaves 60–61) were excluded; continuous text was verified across each skip."
+  "In the 1850 print edition, Volume I’s chapter numbering repeats Chapters XV and XVI (after p. 236) and skips Chapter XIX; the printed chapter numbers are preserved here.",
+  "Six duplicate or motion-blurred scanner re-shoot leaves (Volume I: leaves 20–21; Volume II: leaves 98–99; Volume III: leaves 60–61) were excluded; continuous text was verified across each skip.",
+  "Three misprinted page numbers in the original volumes (Volume I p. 182 printed as 82; Volume III p. 95 printed as 9; Volume III p. 291 printed as 391) are recorded as printed in the JSON page markers."
  ],
+ "keep_hyphens": ["p0269"],
  "history": [
   {
    "version": 1,
