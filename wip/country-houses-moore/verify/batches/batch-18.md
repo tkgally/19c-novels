@@ -1,0 +1,34 @@
+# Second-Pass Verification Batch 18 (25 pages)
+
+1. Read `/home/antigravity/tkgally/19c-novels/prompts/verify.md` carefully.
+2. For each page below, view the scan image (`view_file`) AND view the draft `.txt` file (`view_file`), comparing every word, letter, punctuation mark, italic/small-caps tag, heading, paragraph join (`[[cont]]`), and footnote against the scan.
+3. Write ONLY the corrections output to the `.corr` file: either the single word `NONE` if the draft matches the scan under the rules, or one JSON object per line: `{"find": "exact unique substring from draft", "replace": "corrected text"}`.
+4. Never modernize old spellings (`shew`, `connexion`, `to-day`), and never pull roman brackets/parentheses inside `<i>…</i>`.
+
+## Pages in this batch
+
+- `p1120`: image `/tmp/novels/country-houses-moore/pages/p1120.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1120.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1120.corr`
+- `p1121`: image `/tmp/novels/country-houses-moore/pages/p1121.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1121.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1121.corr`
+- `p1122`: image `/tmp/novels/country-houses-moore/pages/p1122.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1122.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1122.corr`
+- `p1123`: image `/tmp/novels/country-houses-moore/pages/p1123.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1123.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1123.corr`
+- `p1124`: image `/tmp/novels/country-houses-moore/pages/p1124.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1124.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1124.corr`
+- `p1125`: image `/tmp/novels/country-houses-moore/pages/p1125.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1125.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1125.corr`
+- `p1126`: image `/tmp/novels/country-houses-moore/pages/p1126.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1126.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1126.corr`
+- `p1127`: image `/tmp/novels/country-houses-moore/pages/p1127.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1127.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1127.corr`
+- `p1128`: image `/tmp/novels/country-houses-moore/pages/p1128.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1128.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1128.corr`
+- `p1129`: image `/tmp/novels/country-houses-moore/pages/p1129.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1129.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1129.corr`
+- `p1130`: image `/tmp/novels/country-houses-moore/pages/p1130.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1130.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1130.corr`
+- `p1131`: image `/tmp/novels/country-houses-moore/pages/p1131.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1131.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1131.corr`
+- `p1132`: image `/tmp/novels/country-houses-moore/pages/p1132.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1132.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1132.corr`
+- `p1133`: image `/tmp/novels/country-houses-moore/pages/p1133.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1133.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1133.corr`
+- `p1134`: image `/tmp/novels/country-houses-moore/pages/p1134.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1134.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1134.corr`
+- `p1135`: image `/tmp/novels/country-houses-moore/pages/p1135.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1135.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1135.corr`
+- `p1136`: image `/tmp/novels/country-houses-moore/pages/p1136.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1136.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1136.corr`
+- `p1137`: image `/tmp/novels/country-houses-moore/pages/p1137.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1137.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1137.corr`
+- `p1138`: image `/tmp/novels/country-houses-moore/pages/p1138.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1138.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1138.corr`
+- `p1139`: image `/tmp/novels/country-houses-moore/pages/p1139.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1139.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1139.corr`
+- `p1140`: image `/tmp/novels/country-houses-moore/pages/p1140.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1140.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1140.corr`
+- `p1141`: image `/tmp/novels/country-houses-moore/pages/p1141.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1141.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1141.corr`
+- `p1142`: image `/tmp/novels/country-houses-moore/pages/p1142.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1142.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1142.corr`
+- `p1143`: image `/tmp/novels/country-houses-moore/pages/p1143.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1143.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1143.corr`
+- `p1144`: image `/tmp/novels/country-houses-moore/pages/p1144.jpg` | draft `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/draft/p1144.txt` -> write `/home/antigravity/tkgally/19c-novels/wip/country-houses-moore/verify/p1144.corr`

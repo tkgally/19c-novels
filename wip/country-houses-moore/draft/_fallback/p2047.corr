@@ -1,0 +1,5 @@
+{"find": "CHAPTER XxX.", "replace": "# Chapter XX."}
+{"find": "AmonestT the letters", "replace": "A<sc>mongst</sc> the letters"}
+{"find": "Lady Willoughby, part of which", "replace": "Lady Willoughby, <i>part</i> of which"}
+{"find": "saying, ‘‘that as", "replace": "saying, “that as"}
+{"find": "the handcome and liberal", "replace": "the handsome and liberal"}

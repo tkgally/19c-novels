@@ -1,0 +1,5 @@
+{"find": "[[page ?]]", "replace": "[[page 34]]"}
+{"find": "34 COUNTRY HOUSES.\n\n", "replace": ""}
+{"find": "received from her daughter", "replace": "[[cont]]received from her daughter"}
+{"find": "charcoal bon bons,", "replace": "charcoal <i>bon bons</i>,"}
+{"find": "retired to\n\nher own apartment.", "replace": "retired to her own apartment."}
