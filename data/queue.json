@@ -162,13 +162,14 @@
      "ia_identifier": "countryhouses03moor"
     }
    ],
-   "images": 1108,
+   "images": 1114,
    "setting": "English country houses, industrial districts, and Brighton / London society",
    "period": "Early 1830s (late Regency / Reform era)",
    "from": "blog_2021",
    "blog_2021": 33,
-   "status": "queued",
-   "eligibility": "Checked 2026-11-26: original English silver-fork novel published in 1832 (London: Saunders and Otley, 3 vols., anonymous). Complete 500 ppi UIUC scans on Internet Archive (countryhouses01moor: 336 images; 02moor: 378 images; 03moor: 394 images; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, Celebration of Women Writers, VWWP, or Penn Online Books Page. Open Library and web search show only the 1832 London edition and POD scan reprints (2018), no post-1914 trade/scholarly edition or free digital reading text. Published 1832; Rule 5 met."
+   "status": "in progress",
+   "started": "2026-11-27",
+   "eligibility": "Checked 2026-11-26 (re-checked 2026-11-27): original English silver-fork novel published in 1832 (London: Saunders and Otley, 3 vols., anonymous; Vol. I flyleaf provenance note by great-grandson Robert Henry Hobart Cust identifies author as Mrs. Richard Moore, née Charlotte Trimmer, 1763–1836, eldest daughter of Sarah Trimmer). Complete 500 ppi UIUC scans on Internet Archive (countryhouses01moor: 338 leaves, pp. [1]–312; 02moor: 380 leaves, pp. [1]–353; 03moor: 396 leaves, pp. [1]–372; zero scandata gaps, _jp2.zip present for all 3). Not in Project Gutenberg (pg_catalog.csv), Standard Ebooks, Wikisource, Faded Page, Celebration of Women Writers, VWWP, or Penn Online Books Page. Open Library and web search show only the 1832 London edition and POD scan reprints (2018–2023), no post-1914 trade/scholarly edition or free digital reading text. Charlotte Trimmer Moore (1763–1836) died >70 years ago (Rule 5 met)."
   },
   {
    "slug": "reginald-hastings-warburton",
