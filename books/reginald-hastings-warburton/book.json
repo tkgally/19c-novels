@@ -1,0 +1,93 @@
+{
+ "id": "reginald-hastings-warburton",
+ "version": 1,
+ "date": "2026-11-27",
+ "title": "Reginald Hastings",
+ "subtitle": "Or, A Tale of the Troubles in 164—",
+ "short_title": "Reginald Hastings",
+ "authors": [
+  {
+   "name": "Eliot Warburton",
+   "sort": "Warburton, Eliot",
+   "born": 1810,
+   "died": 1852
+  }
+ ],
+ "place": "London",
+ "publisher": "Henry Colburn",
+ "year": 1850,
+ "volumes": 3,
+ "edition_statement": "First edition, in three volumes",
+ "setting": "England, Holland, and Switzerland",
+ "period": "1640s to the Restoration (English Civil War)",
+ "subjects": [
+  "English Civil War",
+  "Cavaliers",
+  "Puritans",
+  "historical fiction",
+  "exile"
+ ],
+ "summary": "Set in England, Holland, and Switzerland during the English Civil War and its aftermath, this three-volume historical novel by Eliot Warburton (1810–1852) takes the form of a memoir written by Reginald Hastings, a young Cavalier of Beaumanoir. As war breaks out between Charles I and Parliament, Reginald and his brother Hugo take up arms for the King, fighting at Edgehill, Newbury, and Naseby while entangled with royalist commanders, Parliamentary officers, and a Puritan household at a neighbouring castle. Between imprisonment, escape, and exile on the Continent, Reginald’s loyalty to his family and to Zillah is tested through the years leading up to the Restoration. Published in 1850 by Henry Colburn, the three volumes are combined here into a single digital edition.",
+ "source": {
+  "ia_identifier": "reginaldhastings01warb",
+  "contributor": "University of Illinois Urbana-Champaign",
+  "hidden_leaves": [0, 20, 21, 363, 364, 365, 366, 367],
+  "items": [
+   {
+    "ia_identifier": "reginaldhastings01warb",
+    "first_leaf": "p0000",
+    "hidden_leaves": [0, 20, 21, 363, 364, 365, 366, 367],
+    "label": "Volume I"
+   },
+   {
+    "ia_identifier": "reginaldhastings02warb",
+    "first_leaf": "p1000",
+    "hidden_leaves": [0, 1, 2, 98, 99, 337, 338, 339, 340, 341],
+    "label": "Volume II"
+   },
+   {
+    "ia_identifier": "reginaldhastings03warb",
+    "first_leaf": "p2000",
+    "hidden_leaves": [0, 60, 61, 317, 318, 319, 320, 321],
+    "label": "Volume III"
+   }
+  ]
+ },
+ "omitted_from_reading": "Volume II’s half-title, the later volume title pages, the later printer’s imprints, and the publisher’s advertisements are in the JSON only.",
+ "notes_on_text": [
+  "Published originally in three volumes, combined here into a single digital edition with each volume presented as a part keeping its own chapter numbering.",
+  "In the 1850 print edition, Volume I’s chapter numbering repeats Chapters XV and XVI (after p. 236) and skips Chapter XIX; the printed chapter numbers are preserved here.",
+  "Six duplicate or motion-blurred scanner re-shoot leaves (Volume I: leaves 20–21; Volume II: leaves 98–99; Volume III: leaves 60–61) were excluded; continuous text was verified across each skip.",
+  "Three misprinted page numbers in the original volumes (Volume I p. 182 printed as 82; Volume III p. 95 printed as 9; Volume III p. 291 printed as 391) are recorded as printed in the JSON page markers."
+ ],
+ "keep_hyphens": ["p0269"],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-27",
+   "note": "First publication."
+  }
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-27",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ },
+ "divisions": [
+  {"at": "p0007", "kind": "titlepage"},
+  {"at": "p0009", "kind": "dedication", "title": "Dedication"},
+  {"at": "p0011", "kind": "preface", "title": "Introduction"},
+  {"at": "p0356", "kind": "advertisements", "title": "Publisher’s advertisements (Volume I)"},
+  {"at": "p1009", "kind": "front", "reading": false, "title": "Front matter (Volume II)"},
+  {"at": "p1330", "kind": "advertisements", "title": "Publisher’s advertisements (Volume II)"},
+  {"at": "p2007", "kind": "front", "reading": false, "title": "Front matter (Volume III)"}
+ ],
+ "parts": [
+  {"before": "p0015", "title": "Volume I"},
+  {"before": "p1013", "title": "Volume II"},
+  {"before": "p2009", "title": "Volume III"}
+ ]
+}
