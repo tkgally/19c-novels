@@ -1,0 +1,78 @@
+{
+ "id": "transgression-of-terence-clancy-vallings",
+ "version": 1,
+ "date": "2026-11-26",
+ "title": "The Transgression of Terence Clancy",
+ "subtitle": "",
+ "short_title": "The Transgression of Terence Clancy",
+ "authors": [
+  {
+   "name": "Harold Vallings",
+   "sort": "Vallings, Harold",
+   "born": 1857,
+   "died": 1940
+  }
+ ],
+ "place": "London",
+ "publisher": "Richard Bentley & Son",
+ "year": 1893,
+ "volumes": 3,
+ "edition_statement": "First edition, in three volumes",
+ "setting": "Little Chillington, a West Country moorland town",
+ "period": "Late 19th century",
+ "subjects": [
+  "West Country",
+  "country doctors",
+  "secret guilt",
+  "courtship"
+ ],
+ "summary": "Draft summary — to be completed after transcription and reading of the novel.",
+ "source": {
+  "ia_identifier": "transgressionoft02vall",
+  "contributor": "University of Illinois Urbana-Champaign",
+  "hidden_leaves": [0, 132, 133, 322, 323, 333, 334, 335, 336, 337],
+  "items": [
+   {
+    "ia_identifier": "transgressionoft02vall",
+    "first_leaf": "p0000",
+    "hidden_leaves": [0, 132, 133, 322, 323, 333, 334, 335, 336, 337],
+    "label": "Volume I"
+   },
+   {
+    "ia_identifier": "transgressionoft01vall",
+    "first_leaf": "p1000",
+    "hidden_leaves": [0, 285, 286, 287, 288, 289],
+    "label": "Volume II"
+   },
+   {
+    "ia_identifier": "transgressionoft03vall",
+    "first_leaf": "p2000",
+    "hidden_leaves": [0, 152, 153, 284, 285, 305, 306, 307, 308, 309],
+    "label": "Volume III"
+   }
+  ]
+ },
+ "omitted_from_reading": "The half-titles and the title pages of Volumes II and III are in the JSON only.",
+ "notes_on_text": [
+  "Published originally in three volumes, combined here into a single digital edition with each volume presented as a part keeping its own chapter numbering.",
+  "On the Internet Archive, the identifiers for Volumes I and II are swapped (transgressionoft02vall holds Volume I and transgressionoft01vall holds Volume II); this edition follows the printed volume numbers."
+ ],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-26",
+   "note": "First publication."
+  }
+ ],
+ "divisions": [
+  {"at": "p0005", "kind": "front", "reading": false, "title": "Half-title (Volume I)"},
+  {"at": "p0007", "kind": "titlepage"},
+  {"at": "p1005", "kind": "front", "reading": false, "title": "Front matter (Volume II)"},
+  {"at": "p2005", "kind": "front", "reading": false, "title": "Front matter (Volume III)"}
+ ],
+ "parts": [
+  {"before": "p0009", "title": "Volume I"},
+  {"before": "p1009", "title": "Volume II"},
+  {"before": "p2009", "title": "Volume III"}
+ ]
+}
