@@ -38,28 +38,27 @@
 [ look (1)] accents: words the book spells with different accents (or with and without): look at each group on the scan
             - a: a (p0009, p0010, p0011, p0012, p0013, p0014…); à (p0272, p2090)
 [       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
-[look (21)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
-            - p0181: “laughin” — “laughing” is common (46; a letter dropped or transposed?)
-            - p0185: “hack” — “back” is common (331)
-            - p0198: “hitter” — “bitter” is common (75)
-            - p0215: “heave” — “heaven” is common (64; a letter dropped or transposed?)
-            - p1027: “tool” — “fool” is common (49)
-            - p1051: “walkin” — “walking” is common (42; a letter dropped or transposed?)
-            - p1051: “makin” — “making” is common (120; a letter dropped or transposed?)
-            - p1104: “ridge” — “bridge” is common (55; a letter dropped or transposed?)
-            - p1132: “meetin” — “meeting” is common (49; a letter dropped or transposed?)
-            - p1151: “natur” — “nature” is common (125; a letter dropped or transposed?)
-            - p1153: “evenin” — “evening” is common (189; a letter dropped or transposed?)
-            - p1165: “lever” — “clever” is common (40; a letter dropped or transposed?)
-            - p1234: “waned” — “wanted” is common (46; a letter dropped or transposed?)
-            - p1254: “leavin” — “leaving” is common (51; a letter dropped or transposed?)
-            - p1257: “lovin” — “loving” is common (40; a letter dropped or transposed?)
-            - p1266: “livin” — “living” is common (64; a letter dropped or transposed?)
-            - p1270: “givin” — “giving” is common (68; a letter dropped or transposed?)
-            - p1271: “thinkin” — “thinking” is common (68; a letter dropped or transposed?)
-            - p2084: “sopped” — “stopped” is common (41; a letter dropped or transposed?)
-            - p2132: “marred” — “married” is common (87; a letter dropped or transposed?)
-            - p2148: “hears” — “hearts” is common (44; a letter dropped or transposed?)
+[look (20)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0181: “laughin” — “laughing” is common (48; a letter dropped or transposed?)
+            - p0185: “hack” — “back” is common (399)
+            - p0198: “hitter” — “bitter” is common (83)
+            - p0215: “heave” — “heaven” is common (72; a letter dropped or transposed?)
+            - p1027: “tool” — “fool” is common (54)
+            - p1051: “walkin” — “walking” is common (47; a letter dropped or transposed?)
+            - p1051: “makin” — “making” is common (148; a letter dropped or transposed?)
+            - p1104: “ridge” — “bridge” is common (56; a letter dropped or transposed?)
+            - p1132: “meetin” — “meeting” is common (52; a letter dropped or transposed?)
+            - p1151: “natur” — “nature” is common (141; a letter dropped or transposed?)
+            - p1153: “evenin” — “evening” is common (214; a letter dropped or transposed?)
+            - p1165: “lever” — “clever” is common (57; a letter dropped or transposed?)
+            - p1234: “waned” — “wanted” is common (55; a letter dropped or transposed?)
+            - p1254: “leavin” — “leaving” is common (62; a letter dropped or transposed?)
+            - p1257: “lovin” — “loving” is common (42; a letter dropped or transposed?)
+            - p1266: “livin” — “living” is common (72; a letter dropped or transposed?)
+            - p1270: “givin” — “giving” is common (82; a letter dropped or transposed?)
+            - p1271: “thinkin” — “thinking” is common (81; a letter dropped or transposed?)
+            - p2084: “sopped” — “stopped” is common (47; a letter dropped or transposed?)
+            - p2132: “marred” — “married” is common (92; a letter dropped or transposed?)
 [       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
 [ look (1)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
             - book.json notes_on_text: … corrections against the scans, then checked by Gemini Flash verification and blind Pro spot-judgi…
@@ -67,4 +66,4 @@
 [       ok] italic-brackets: parentheses or square brackets placed inside <i>…</i> tags: check whether the brackets themselves are roman
 [       ok] images: image files not used by any page
 [       ok] source: source.json: the Drive cache of the page images is recorded
-preflight PASS: transgression-of-terence-clancy-vallings v1 — 0 to fix, 0 waived; to look at: hyphen-joins 5, folios 2, quote-balance 1, accents 1, rare-forms 21, serial-commas 1 — tools@34616f1 2026-11-27
+preflight PASS: transgression-of-terence-clancy-vallings v2 — 0 to fix, 0 waived; to look at: hyphen-joins 5, folios 2, quote-balance 1, accents 1, rare-forms 20, serial-commas 1 — tools@9108e7b 2026-11-27

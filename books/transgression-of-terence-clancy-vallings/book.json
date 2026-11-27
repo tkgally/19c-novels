@@ -1,7 +1,7 @@
 {
  "id": "transgression-of-terence-clancy-vallings",
- "version": 1,
- "date": "2026-11-26",
+ "version": 2,
+ "date": "2026-11-27",
  "title": "The Transgression of Terence Clancy",
  "subtitle": "",
  "short_title": "The Transgression of Terence Clancy",
@@ -65,10 +65,15 @@
    "version": 1,
    "date": "2026-11-26",
    "note": "First publication."
+  },
+  {
+   "version": 2,
+   "date": "2026-11-27",
+   "note": "Restored missing paragraph continuation (`[[cont]]`) on Volume II p. 144 (`p1152`) found during the five-novel sweep."
   }
  ],
  "audit": {
-  "version": 1,
+  "version": 2,
   "date": "2026-11-26",
   "pages": 6,
   "recall": "28/29",

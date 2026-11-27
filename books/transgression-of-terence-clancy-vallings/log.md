@@ -31,3 +31,4 @@ Stage reached: Published v1 (`books/transgression-of-terence-clancy-vallings/`, 
 | Version | Date | Preflight stamp | Audit | Notes |
 |---|---|---|---|---|
 | 1 | 2026-11-26 | `preflight PASS: transgression-of-terence-clancy-vallings v1 — 0 to fix, 0 waived — tools@34616f1 2026-11-27` | 6 pp, 28/29 (97%), 0 real errors | First publication; 3 vols. combined into 1 digital edition; 21 `[[corr]]` marks; 0 `〓` |
+| 2 | 2026-11-27 | `preflight PASS: transgression-of-terence-clancy-vallings v2 — 0 to fix, 0 waived — tools@9108e7b 2026-11-27` | Carried from v1 | Restored missing `[[cont]]` on `p1152` (Vol. II p. 144) caught by 5-novel `quote-balance` review sweep |
