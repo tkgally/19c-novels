@@ -1,0 +1,93 @@
+{
+ "id": "country-houses-moore",
+ "version": 1,
+ "date": "2026-11-27",
+ "title": "Country Houses",
+ "subtitle": "",
+ "short_title": "Country Houses",
+ "authors": [
+  {
+   "name": "Charlotte Trimmer Moore",
+   "sort": "Moore, Charlotte Trimmer",
+   "born": 1763,
+   "died": 1836
+  }
+ ],
+ "place": "London",
+ "publisher": "Saunders and Otley",
+ "year": 1832,
+ "volumes": 3,
+ "edition_statement": "First edition, in three volumes",
+ "setting": "English country houses, provincial towns, Brighton, and London",
+ "period": "Early 1830s",
+ "subjects": [
+  "English country houses",
+  "silver-fork fiction",
+  "social satire",
+  "marriage and family",
+  "Regency and Reform-era society"
+ ],
+ "summary": "Set in English country houses, provincial towns, Brighton, and London during the early 1830s, Country Houses is an anonymous three-volume social satire by Charlotte Trimmer Moore (1763–1836), eldest daughter of the writer and educationalist Sarah Trimmer. Structured in four linked sequences—opening with a Christmas gathering at the Vernons’ estate, continuing through Easter holidays at Stoke Park and a matchmaking house party at Inglewood, and closing with a portrait of literary society in “Old Maids and Bas Blues” and an authorial postscript—the novel follows aristocratic families, fortune-hunters, and provincial neighbours as ambition, fashion, and vanity collide with domestic life. First published by Saunders and Otley in 1832, the three volumes are combined here into a single digital edition.",
+ "source": {
+  "ia_identifier": "countryhouses01moor",
+  "contributor": "University of Illinois Urbana-Champaign",
+  "hidden_leaves": [0, 333, 334, 335, 336, 337],
+  "items": [
+   {
+    "ia_identifier": "countryhouses01moor",
+    "first_leaf": "p0000",
+    "hidden_leaves": [0, 333, 334, 335, 336, 337],
+    "label": "Volume I"
+   },
+   {
+    "ia_identifier": "countryhouses02moor",
+    "first_leaf": "p1000",
+    "hidden_leaves": [0, 375, 376, 377, 378, 379],
+    "label": "Volume II"
+   },
+   {
+    "ia_identifier": "countryhouses03moor",
+    "first_leaf": "p2000",
+    "hidden_leaves": [0, 391, 392, 393, 394, 395],
+    "label": "Volume III"
+   }
+  ]
+ },
+ "omitted_from_reading": "The title pages and printer’s imprints of Volumes II and III, and the printed errata leaves of all three volumes, are in the JSON only.",
+ "notes_on_text": [
+  "Published anonymously in 1832 in three volumes, combined here into a single digital edition with each volume presented as a part keeping its own chapter numbering (including the novel’s four internal Chapter I sequences: “Christmas Gambols,” “Easter Holidays, at Stoke Park,” “Winding Up,” and “Old Maids and Bas Blues”).",
+  "A handwritten provenance note on the front flyleaf of the University of Illinois copy by Robert Henry Hobart Cust identifies the author as his great-grandmother, Mrs. Richard Moore (née Charlotte Trimmer, 1763–1836, eldest daughter of Sarah Trimmer).",
+  "Eighty-four verified corrections from the three printed errata leaves (Volumes I–III) are applied in the text and marked as editorial corrections in the JSON; five errata entries (Volume I p. 305 l. 13; Volume II p. 216 l. 24; Volume III p. 131 l. 8, p. 190 l. 7, and p. 279 l. 10) do not match errors in this copy and were left unapplied.",
+  "Two pages (p2046 and p2047) were drafted through the OCR fallback (local Tesseract OCR corrected against the scans by Gemini Pro) after hitting an automated recitation filter, then independently verified by Gemini Flash; p2046 was included in the blind sampled audit and p2047 was visually verified word-for-word against the scan.",
+  "One misprinted page number in Volume II (p. 290 printed as 251 on leaf p1304) is recorded as printed in the JSON page markers."
+ ],
+ "keep_hyphens": ["p0193", "p0235"],
+ "history": [
+  {
+   "version": 1,
+   "date": "2026-11-27",
+   "note": "First publication."
+  }
+ ],
+ "audit": {
+  "version": 1,
+  "date": "2026-11-27",
+  "pages": 6,
+  "recall": "30/30",
+  "real_errors": 0,
+  "fixed": 0
+ },
+ "divisions": [
+  {"at": "p0011", "kind": "titlepage"},
+  {"at": "p0014", "kind": "front", "reading": false, "title": "Errata (Volume I)"},
+  {"at": "p1011", "kind": "front", "reading": false, "title": "Front matter (Volume II)"},
+  {"at": "p1014", "kind": "front", "reading": false, "title": "Errata (Volume II)"},
+  {"at": "p2009", "kind": "front", "reading": false, "title": "Front matter (Volume III)"},
+  {"at": "p2012", "kind": "front", "reading": false, "title": "Errata (Volume III)"}
+ ],
+ "parts": [
+  {"before": "p0015", "title": "Volume I"},
+  {"before": "p1015", "title": "Volume II"},
+  {"before": "p2013", "title": "Volume III"}
+ ]
+}

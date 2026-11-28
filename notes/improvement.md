@@ -25,4 +25,4 @@ Every novel should leave the pipeline cleaner and sharper than it found it.
 ## Candidate checks for next review
 
 - **Word-stream completeness check (`_djvu.txt` vs. `pages/`):** consider a lightweight helper script (never copying text from `_djvu.txt`) to flag runs of ≥ 8 words present in `_djvu.txt` and missing from `pages/` during Stage 4, formalizing the manual check that caught a dropped page-end line on *The Story of a Life* (`p0277`).
-- **Promote `italic-brackets` or `lowercase-after-stop`:** evaluate false-alarm rates after 10 published novels before promoting any `observe` check to `enforce`.
+- **Promote `italic-brackets` or `lowercase-after-stop`:** evaluate false-alarm rates after 10 published novels before promoting any `observe` check to `enforce`. Note: strip `[[corr …|…]]` / `[[supplied …]]` markup before running `italic-brackets` so `<i>[[corr printed|corrected]]</i>` does not trigger false alarms (10 observed on *Country Houses*).

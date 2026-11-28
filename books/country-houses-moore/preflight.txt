@@ -1,0 +1,101 @@
+[       ok] meta: book.json: required fields present and sane
+[       ok] markup: page files: every [[…]] is a known form, inline tags balanced, no 〓
+[       ok] compile: compile warnings other than page-break hyphen joins (notes, images, [[cont]], divisions)
+[       ok] conservation: the words of the page files are in the JSON, and the reading parts in HTML, EPUB and ODT, in order, nothing else
+[       ok] stray-markup: no markup ([[…]], escaped tags, 〓) shows in the reading editions
+[       ok] straight-quotes: no straight ' or " in the text
+[       ok] spacing: modern spacing: no space before ; : ! ? , . or inside quotation marks, no doubled spaces
+[       ok] sc-caps: text inside <sc> is typed in lower case with real capitals, not in capitals
+[       ok] heading-caps: headings, chapter titles and captions are in upper and lower case, not all capitals
+[       ok] links: every link inside the book's web pages and EPUB has a target
+[       ok] wellformed: HTML pages, EPUB documents and ODT XML parse
+[       ok] nav: contents: at least one reading division; each has a title and text
+[       ok] epubcheck: epubcheck: 0 fatals / 0 errors / 0 warnings
+[       ok] odt: LibreOffice opens the ODT and converts it to PDF
+[       ok] audit: book.json records the sampled audit of this version
+[ look (8)] hyphen-joins: page-break hyphen joins (hyphen removed) that the book does not settle: read the list once
+            - hyphen join at p0054: …t, since vacci-|nation has been… (hyphen removed; check)
+            - hyphen join at p0184: …uld soon be re-|inforced, for t… (hyphen removed; check)
+            - hyphen join at p0214: … such it decid-|[[corr ly|edly]… (hyphen removed; check)
+            - hyphen join at p1088: …urn from catho-|licism to prote… (hyphen removed; check)
+            - hyphen join at p1247: …ll bet you any-|thing I set off… (hyphen removed; check) — the book prints “any-thing” elsewhere: keep_hyphens?
+            - hyphen join at p1332: …little revenge-|ful; but girls … (hyphen removed; check)
+            - hyphen join at p2019: …e mayoress reg-|nant, or as she… (hyphen removed; check)
+            - (and 99 joins giving a word the book prints whole elsewhere: not listed)
+[       ok] joins: page joins: missing [[cont]]
+[ look (4)] folios: printed page numbers that break the sequence
+            - p1015: page 1 after page 312 (p0326)
+            - p1304: page 251 after page 289 (p1303)
+            - p1305: page 291 after page 251 (p1304)
+            - p2014: page 2 after page 353 (p1367)
+[       ok] leaves: no leaf without a page file between the first and the last page file (a draft refused or lost); leaves IA hides do not count
+[ look (2)] quote-balance: paragraphs with a closing double quote and no opening one, or the reverse at the paragraph end
+            - p1051: unclosed “ (next block does not continue quotation): '“Dear, how extraordinary! well then, do, there’s a love! giv'
+            - p1051: closing ” with no opening “: '‘I’d be a butterfly.’”'
+[       ok] image-splits: a paragraph cut in two by a picture: text before it unclosed, text after it in lower case (no [[cont]] after the caption)
+[       ok] contents: entries of the printed contents with no matching heading
+[       ok] site-text: book.json text shown on the site (titles, summary, notes, contents entries): no straight ' or "
+[       ok] note-tail: text after a page's notes that is not a note (a table or paragraph of a note set as body text)
+[       ok] caption-tail: a short line after a picture's caption (a cross-reference, “To face p. N”): part of the caption, or left out?
+[       ok] image-before-heading: a picture above a # heading on the same page (not an ornament): it falls into the division before; move it after the heading?
+[       ok] openings: chapter openings typed in a style unlike the book's other chapters (full capitals or small capitals): look at each on the scan
+[       ok] verse-joins: verse continued at a page top ([[cont]]): stanza lengths on both sides, to compare on the scan
+[       ok] cover: images/cover.jpg (or .png) exists: the front cover if its title is readable, otherwise the title page
+[look (17)] accents: words the book spells with different accents (or with and without): look at each group on the scan
+            - a: a (p0011, p0014, p0015, p0016, p0017, p0018…); à (p1265, p2166, p2257, p2292)
+            - ca: ca (p1359, p2347); ça (p2127)
+            - chaprone: chaprone (p2027, p2119, p2167, p2172, p2207); chaprône (p1191)
+            - charge: charge (p0141, p0142, p0189, p0280, p0301, p1106…); chargé (p0159)
+            - coute: coute (p0265); coûte (p0024)
+            - crepe: crepé (p0201); crêpé (p0219, p0225, p0226)
+            - debut: debût (p2081); début (p0177)
+            - ecarte: ecarté (p0022, p0025, p0044, p0104, p0303, p0307…); écarté (p1072, p2123, p2138)
+            - eclat: eclât (p1095, p1299, p1316); éclat (p1160); éclát (p1160)
+            - expose: expose (p2079, p2170, p2377); exposé (p2271)
+            - fete: feté (p1114); fête (p1180, p1181, p1185, p1194, p1320, p2166…)
+            - francoise: francoise (p1366); françoise (p0219)
+            - naive: naive (p1367); naïve (p1207)
+            - naivete: naiveté (p0189); naïveté (p2230)
+            - sejour: sejour (p1167, p1173, p2135); sèjour (p2146); séjour (p0208, p1059, p2080, p2284, p2328, p2353)
+            - tete: tete (p2236); tête (p0152, p0318, p0320, p2236, p2254, p2257…)
+            - vertu: vertù (p1202, p1216, p1217, p2191); vertû (p2098)
+[       ok] misprints: common words with a turned or wrong letter (tbe, aud, iu, conld …) not marked [[corr]]: look at each on the scan
+[look (14)] rare-forms: words found once or twice in all the books, a confusable letter (n/u, b/h, c/e, l/i, t/f) away from a common word: look at each on the scan
+            - p0014: “enuine” — “genuine” is common (47; a letter dropped or transposed?)
+            - p0028: “rusted” — “trusted” is common (40; a letter dropped or transposed?)
+            - p0256: “afterward” — “afterwards” is common (149; a letter dropped or transposed?)
+            - p0293: “tying” — “trying” is common (75; a letter dropped or transposed?)
+            - p1014: “insted” — “instead” is common (102; a letter dropped or transposed?)
+            - p1018: “ail” — “all” is common (3594)
+            - p1146: “hooks” — “books” is common (79)
+            - p1153: “disant” — “distant” is common (80; a letter dropped or transposed?)
+            - p1190: “sprig” — “spring” is common (73; a letter dropped or transposed?)
+            - p1275: “aimable” — “amiable” is common (70; a letter dropped or transposed?)
+            - p1276: “laces” — “places” is common (86; a letter dropped or transposed?)
+            - p2032: “ailed” — “failed” is common (69; a letter dropped or transposed?)
+            - p2163: “favorable” — “favourable” is common (45; a letter dropped or transposed?)
+            - p2356: “wou” — “won” is common (207)
+[       ok] title-page: the reading editions do not begin with the book's title page (divisions: kind "titlepage")
+[ look (2)] serial-commas: book.json text of ours with a list that may lack the comma before its last and/or (style.md §Site text)
+            - book.json summary: …otte Trimmer Moore (1763–1836), eldest daughter of the writer and educationalist Sarah…
+            - book.json summary: …thering at the Vernons’ estate, continuing through Easter holidays at Stoke Park and a matchmaking house …
+[ look (4)] missing-stop: a sentence-opening word (The, He, His, It, There …) after a lower-case word with no stop between: look at each on the scan
+            - p2238: “trial He” in …to support us under any trial He thinks fit to se…
+            - p2239: “if He” in …upport that of your son, if He ordains it should…
+            - p2240: “how He” in …here. And we cannot tell how He will sustain u…
+            - p2254: “will He” in …ou will have broken? And will He not, think yo…
+[       ok] lowercase-after-stop: a lower-case word immediately after a full stop outside abbreviations and Roman numerals: broken comma or compositor typo?
+[look (10)] italic-brackets: parentheses or square brackets placed inside <i>…</i> tags: check whether the brackets themselves are roman
+            - p0053: '<i>[[corr thin|their]]</i>'
+            - p0183: '<i>[[corr minanderie|minauderie]]</i>'
+            - p0206: '<i>[[corr liasons|liaisons]]</i>'
+            - p1131: '<i>[[corr Tortonis|Tortoni’s]]</i>'
+            - p1234: '<i>[[corr bijoux|bijou]]</i>'
+            - p1248: '<i>[[corr burniug|burning]]</i>'
+            - p1268: '<i>[[corr bijeu|bijou]]</i>'
+            - p1336: '<i>[[corr Pepsin|Pepin]]</i>'
+            - p2189: '<i>[[corr c’es defendu|c’est defendu]]</i>'
+            - p2378: '<i>[[corr Postcript|Postscript]]</i>'
+[       ok] images: image files not used by any page
+[       ok] source: source.json: the Drive cache of the page images is recorded
+preflight PASS: country-houses-moore v1 — 0 to fix, 0 waived; to look at: hyphen-joins 8, folios 4, quote-balance 2, accents 17, rare-forms 14, serial-commas 2, missing-stop 4, italic-brackets 10 — tools@9a106ee 2026-11-28
